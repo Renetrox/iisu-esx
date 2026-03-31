@@ -1,0 +1,62 @@
+<theme>
+    <variables>
+        <systemName>SNK Neo Geo</systemName>
+        <systemDescription>The Neo Geo, released in 1990, brought true arcade-quality games to the home. Its premium hardware and iconic fighting games made it legendary.</systemDescription>
+        <systemManufacturer>SNK</systemManufacturer>
+        <systemReleaseYear>1990</systemReleaseYear>
+        <systemReleaseDate>1990-04-26</systemReleaseDate>
+        <systemReleaseDateFormated>April 26, 1990</systemReleaseDateFormated>
+        <systemHardwareType>Console</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>000000</systemColor>
+        <systemColorPalette1>000000</systemColorPalette1>
+        <systemColorPalette2>ffcc00</systemColorPalette2>
+        <systemColorPalette3>ffffff</systemColorPalette3>
+        <systemColorPalette4>cc0000</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+
+    <language name="es_ES">
+        <variables>
+            <systemDescription>Neo Geo (1990) llevó la calidad arcade auténtica al hogar con hardware de alto nivel.</systemDescription>
+            <systemHardwareType>Consola</systemHardwareType>
+        </variables>
+    </language>
+
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>La Neo Geo proposait une qualité arcade parfaite à domicile.</systemDescription>
+        </variables>
+    </language>
+
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Neo Geo brachte echte Arcade-Qualität ins Wohnzimmer.</systemDescription>
+        </variables>
+    </language>
+
+    <language name="it_IT">
+        <variables>
+            <systemDescription>Neo Geo offriva giochi arcade autentici direttamente a casa.</systemDescription>
+        </variables>
+    </language>
+
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>O Neo Geo levou a experiência arcade real para o ambiente doméstico.</systemDescription>
+        </variables>
+    </language>
+
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>Neo Geo принесла настоящие аркадные игры в домашние условия.</systemDescription>
+        </variables>
+    </language>
+
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>1990年発売。家庭用で本格的なアーケード体験を実現しました。</systemDescription>
+        </variables>
+    </language>
+</theme>

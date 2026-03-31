@@ -1,0 +1,20 @@
+<theme>
+    <variables>
+        <systemName>Daphne</systemName>
+        <systemDescription>Daphne is an emulator for LaserDisc-based arcade games, such as Dragon's Lair and Space Ace, which used high-quality cell animation video.</systemDescription>
+        <systemManufacturer>Various</systemManufacturer>
+        <systemHardwareType>Arcade</systemHardwareType>
+        <systemColor>ff8a00</systemColor>
+    </variables>
+    <language name="ar_SA"><variables><systemDescription>Daphne هو محاكي لألعاب الأركيد التي تعتمد على LaserDisc مثل Dragon's Lair.</systemDescription><systemHardwareType>أركيد</systemHardwareType></variables></language>
+    <language name="de_DE"><variables><systemDescription>Daphne ist ein Emulator für LaserDisc-basierte Arcade-Spiele wie Dragon's Lair.</systemDescription><systemHardwareType>Arcade</systemHardwareType></variables></language>
+    <language name="es_ES"><variables><systemDescription>Daphne es un emulador de juegos de arcade basados en LaserDisc, como Dragon's Lair y Space Ace.</systemDescription><systemHardwareType>Arcade</systemHardwareType></variables></language>
+    <language name="fr_FR"><variables><systemDescription>Daphne est un émulateur pour les jeux d'arcade sur LaserDisc comme Dragon's Lair.</systemDescription><systemHardwareType>Arcade</systemHardwareType></variables></language>
+    <language name="it_IT"><variables><systemDescription>Daphne è un emulatore per giochi arcade basati su LaserDisc, come Dragon's Lair.</systemDescription><systemHardwareType>Arcade</systemHardwareType></variables></language>
+    <language name="ja_JP"><variables><systemDescription>Daphneは、『ドラゴンズレア』などのLD（レーザーディスク）式ゲームの専用エミュレータです。</systemDescription><systemHardwareType>アーケード</systemHardwareType></variables></language>
+    <language name="pl_PL"><variables><systemDescription>Daphne to emulator gier arcade opartych na technologii LaserDisc, takich jak Dragon's Lair.</systemDescription><systemHardwareType>Arcade</systemHardwareType></variables></language>
+    <language name="pt_BR"><variables><systemDescription>Daphne é um emulador para jogos de arcade baseados em LaserDisc, como o Dragon's Lair.</systemDescription><systemHardwareType>Arcade</systemHardwareType></variables></language>
+    <language name="ru_RU"><variables><systemDescription>Daphne — это эмулятор аркадных игр на базе LaserDisc, таких как Dragon's Lair.</systemDescription><systemHardwareType>Аркада</systemHardwareType></variables></language>
+    <language name="sv_SE"><variables><systemDescription>Daphne är en emulator för LaserDisc-baserade arkadspel som Dragon's Lair.</systemDescription><systemHardwareType>Arkad</systemHardwareType></variables></language>
+    <language name="zh_CN"><variables><systemDescription>Daphne 是一款 LaserDisc 街机游戏模拟器，支持《龙之穴》等作品。</systemDescription><systemHardwareType>街机</systemHardwareType></variables></language>
+</theme>

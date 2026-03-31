@@ -1,0 +1,30 @@
+<theme>
+    <variables>
+        <systemName>Amstrad CPC</systemName>
+        <systemDescription>The Amstrad CPC is a family of 8-bit home computers released in 1984. It stood out for its complete “all-in-one” package with a dedicated monitor and strong game and software support in Europe.</systemDescription>
+        <systemManufacturer>Amstrad</systemManufacturer>
+        <systemReleaseYear>1984</systemReleaseYear>
+        <systemReleaseDate>1984-04-12</systemReleaseDate>
+        <systemReleaseDateFormated>April 12, 1984</systemReleaseDateFormated>
+        <systemHardwareType>Computer</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>333333</systemColor>
+        <systemColorPalette1>00ff00</systemColorPalette1>
+        <systemColorPalette2>333333</systemColorPalette2>
+        <systemColorPalette3>ff0000</systemColorPalette3>
+        <systemColorPalette4>ffffff</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA"><variables><systemDescription>سلسلة حواسيب منزلية 8-بت عُرفت بحزمة متكاملة مع شاشة ودعم قوي للألعاب في أوروبا.</systemDescription></variables></language>
+    <language name="de_DE"><variables><systemDescription>8-Bit-Heimcomputer-Serie (ab 1984), bekannt für das Komplettpaket mit eigenem Monitor und große Spielebibliothek.</systemDescription></variables></language>
+    <language name="es_ES"><variables><systemDescription>Familia de ordenadores domésticos de 8 bits (1984), muy popular en Europa por su paquete “todo en uno” con monitor propio y gran catálogo de juegos.</systemDescription><systemHardwareType>Ordenador</systemHardwareType></variables></language>
+    <language name="fr_FR"><variables><systemDescription>Série 8 bits (1984) célèbre pour son pack complet avec moniteur dédié et une large ludothèque en Europe.</systemDescription></variables></language>
+    <language name="it_IT"><variables><systemDescription>Serie di home computer a 8 bit (1984), nota per il pacchetto completo con monitor dedicato e molti giochi.</systemDescription></variables></language>
+    <language name="ja_JP"><variables><systemDescription>1984年登場の8ビット家庭用PC。専用モニター付きの一体パッケージで欧州で人気。</systemDescription></variables></language>
+    <language name="pl_PL"><variables><systemDescription>Seria 8-bitowych komputerów domowych (1984), znana z zestawu z monitorem i dużej biblioteki gier.</systemDescription></variables></language>
+    <language name="pt_BR"><variables><systemDescription>Série de computadores 8 bits (1984), famosa pelo pacote completo com monitor dedicado e muitos jogos.</systemDescription></variables></language>
+    <language name="ru_RU"><variables><systemDescription>Серия 8-битных домашних компьютеров (1984), известная комплектом с монитором и большой библиотекой игр.</systemDescription></variables></language>
+    <language name="sv_SE"><variables><systemDescription>8-bitars datorserie (1984) känd för komplett paket med egen skärm och stort spelutbud i Europa.</systemDescription></variables></language>
+    <language name="zh_CN"><variables><systemDescription>1984 年推出的 8 位家用电脑系列，以配套显示器的一体化方案和欧洲庞大游戏库而闻名。</systemDescription></variables></language>
+</theme>

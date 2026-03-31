@@ -1,0 +1,28 @@
+<theme>
+    <variables>
+        <systemName>Magnavox Odyssey² / Videopac</systemName>
+        <systemDescription>The Magnavox Odyssey² (known as Philips Videopac G7000 in Europe) was released in 1978. It was unique for its built-in alphanumeric keyboard, designed for educational games and programming, alongside a joystick. It featured a cult library of games that combined traditional board game elements with digital gameplay.</systemDescription>
+        <systemManufacturer>Magnavox / Philips</systemManufacturer>
+        <systemReleaseYear>1978</systemReleaseYear>
+        <systemHardwareType>Console</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>e2e2e2</systemColor>
+        <systemColorPalette1>000000</systemColorPalette1>
+        <systemColorPalette2>ffffff</systemColorPalette2>
+        <systemColorPalette3>333333</systemColorPalette3>
+        <systemColorPalette4>999999</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA"><variables><systemDescription>جهاز من عام 1978 تميز بلوحة مفاتيح مدمجة، جمع بين الألعاب التعليمية وألعاب الفيديو التقليدية.</systemDescription></variables></language>
+    <language name="de_DE"><variables><systemDescription>Das Philips Videopac war eine Konsole mit integrierter Tastatur, die 1978 erschien und edukative Spiele bot.</systemDescription></variables></language>
+    <language name="es_ES"><variables><systemDescription>Conocida en Europa como Philips Videopac, esta consola de 1978 incluía un teclado alfanumérico para juegos educativos y programación.</systemDescription><systemHardwareType>Consola</systemHardwareType></variables></language>
+    <language name="fr_FR"><variables><systemDescription>La Videopac se distinguait par son clavier intégré, permettant des jeux éducatifs et de stratégie uniques.</systemDescription></variables></language>
+    <language name="it_IT"><variables><systemDescription>Sistema noto per la sua tastiera integrata e la fusione tra giochi da tavolo e intrattenimento digitale.</systemDescription></variables></language>
+    <language name="ja_JP"><variables><systemDescription>1978年に登場したキーボード搭載機。教育用ソフトや独自のボードゲーム風ソフトが特徴でした。</systemDescription></variables></language>
+    <language name="pl_PL"><variables><systemDescription>Konsola z 1978 roku z wbudowaną klawiaturą, łącząca gry edukacyjne z klasyczną rozgrywką wideo.</systemDescription></variables></language>
+    <language name="pt_BR"><variables><systemDescription>Conhecido como Philips Videopac, este console de 1978 possuía um teclado alfanumérico integrado.</systemDescription></variables></language>
+    <language name="ru_RU"><variables><systemDescription>Консоль 1978 года со встроенной клавиатурой, ориентированная на обучающие и стратегические игры.</systemDescription></variables></language>
+    <language name="sv_SE"><variables><systemDescription>En tidig konsol känd för sitt inbyggda tangentbord och unika blandning av brädspel och TV-spel.</systemDescription></variables></language>
+    <language name="zh_CN"><variables><systemDescription>1978 年发布的家用主机，配备了独特的字母键盘，主打教育类游戏和编程功能。</systemDescription></variables></language>
+</theme>

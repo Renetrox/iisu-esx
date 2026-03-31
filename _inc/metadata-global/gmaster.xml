@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+  <variables>
+    <systemName>Game Master</systemName>
+    <systemDescription>The Game Master is a handheld console made by Hartung to compete with the Nintendo Game Boy, featuring a 64x64 monochrome LCD screen. It was sold as Systema 2000 in the UK and under several alternate names in France (including Videojet Game Master). It uses Watara Supervision-like cartridges and a 40-pin cartridge port, but it is not compatible with Supervision games.</systemDescription>
+
+    <systemManufacturer>Hartung</systemManufacturer>
+    <systemReleaseYear>1990</systemReleaseYear>
+    <systemReleaseDate>1990</systemReleaseDate>
+    <systemReleaseDateFormated>1990</systemReleaseDateFormated>
+    <systemHardwareType>Portable</systemHardwareType>
+
+    <systemCoverSize>3-4</systemCoverSize>
+    <systemCoverSizeType>portrait</systemCoverSizeType>
+
+    <systemColor>83A9B0</systemColor>
+    <systemColorPalette1>F6DD08</systemColorPalette1>
+    <systemColorPalette2>800000</systemColorPalette2>
+    <systemColorPalette3>FF0000</systemColorPalette3>
+    <systemColorPalette4>303030</systemColorPalette4>
+
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+
+  <language name="ar_SA">
+    <variables>
+      <systemDescription>Game Master هي وحدة ألعاب محمولة من شركة Hartung صُممت لمنافسة Nintendo Game Boy، وتضم شاشة LCD أحادية اللون بدقة 64×64. في المملكة المتحدة بيعت باسم Systema 2000، وفي فرنسا بيعت بأسماء متعددة مثل Videojet Game Master. تستخدم خراطيش تشبه Watara Supervision ومنفذًا بـ 40 سنًا، لكنها غير متوافقة مع ألعاب Supervision.</systemDescription>
+      <systemHardwareType>محمول</systemHardwareType>
+    </variables>
+  </language>
+
+  <language name="bs_BA">
+    <variables>
+      <systemDescription>Game Master je ručna konzola kompanije Hartung, napravljena da se takmiči sa Nintendo Game Boy, sa 64×64 monohromatskim LCD ekranom. U Ujedinjenom Kraljevstvu prodavana je kao Systema 2000, a u Francuskoj pod više naziva (npr. Videojet Game Master). Koristi kertridže slične Watara Supervision i 40-pinski port, ali nije kompatibilna sa Supervision igrama.</systemDescription>
+      <systemHardwareType>Prenosiv</systemHardwareType>
+    </variables>
+  </language>
+
+  <language name="ca_ES">
+    <variables>
+      <systemDescription>La Game Master és una consola portàtil de Hartung dissenyada per competir amb la Nintendo Game Boy, amb una pantalla LCD monocroma de 64×64. Al Regne Unit es va vendre com a Systema 2000 i a França amb diversos noms (com Videojet Game Master). Utilitza cartutxos semblants als de la Watara Supervision i un port de 40 pins, però no és compatible amb els jocs de Supervision.</systemDescription>
+      <systemHardwareType>Portable</systemHardwareType>
+    </variables>
+  </language>
+
+  <language name="de_DE">
+    <variables>
+      <systemDescription>Der Game Master ist eine Handheld-Konsole von Hartung, die als Konkurrenz zum Nintendo Game Boy gedacht war und einen 64×64-Monochrom-LCD besitzt. In Großbritannien wurde er als Systema 2000 verkauft und in Frankreich unter mehreren Namen (u. a. Videojet Game Master). Er nutzt Supervision-ähnliche Module und einen 40-Pin-Modulanschluss, ist aber nicht mit Supervision-Spielen kompatibel.</systemDescription>
+      <systemHardwareType>Tragbar</systemHardwareType>
+    </variables>
+  </language>
+
+  <language name="es_ES">
+    <variables>
+      <systemDescription>La Game Master es una consola portátil fabricada por Hartung para competir con la Nintendo Game Boy, con pantalla LCD monocroma de 64×64. En el Reino Unido se vendió como Systema 2000 y en Francia con varios nombres (como Videojet Game Master). Usa cartuchos similares a los de Watara Supervision y un puerto de 40 pines, pero no es compatible con los juegos de Supervision.</systemDescription>
+      <systemHardwareType>Portátil</systemHardwareType>
+    </variables>
+  </language>
+
+  <language name="fr_FR">
+    <variables>
+      <systemDescription>La Game Master est une console portable de Hartung conçue pour concurrencer la Nintendo Game Boy, avec un écran LCD monochrome 64×64. Au Royaume-Uni, elle a été vendue sous le nom de Systema 2000, et en France sous plusieurs noms (dont Videojet Game Master). Elle utilise des cartouches proches de la Watara Supervision et un port 40 broches, mais n’est pas compatible avec les jeux Supervision.</systemDescription>
+      <systemHardwareType>Portable</systemHardwareType>
+    </variables>
+  </language>
+
+  <language name="hr_HR">
+    <variables>
+      <systemDescription>Game Master je ručna konzola tvrtke Hartung, napravljena da se natječe s Nintendo Game Boyem, s 64×64 monokromatskim LCD zaslonom. U Ujedinjenom Kraljevstvu prodavana je kao Systema 2000, a u Francuskoj pod više naziva (npr. Videojet Game Master). Koristi uloške slične Watara Supervision i 40-pinski priključak, ali nije kompatibilna sa Supervision igrama.</systemDescription>
+      <systemHardwareType>Prenosiv</systemHardwareType>
+    </variables>
+  </language>
+
+  <language name="it_IT">
+    <variables>
+      <systemDescription>Il Game Master è una console portatile prodotta da Hartung per competere con il Nintendo Game Boy, con schermo LCD monocromatico 64×64. Nel Regno Unito fu venduta come Systema 2000 e in Francia con vari nomi (tra cui Videojet Game Master). Usa cartucce simili a quelle della Watara Supervision e una porta a 40 pin, ma non è compatibile con i giochi Supervision.</systemDescription>
+      <systemHardwareType>Portatile</systemHardwareType>
+    </variables>
+  </language>
+
+  <language name="ja_JP">
+    <variables>
+      <systemDescription>Game Master は Hartung 社が Nintendo Game Boy に対抗して発売した携帯ゲーム機で、64×64 のモノクロ LCD を搭載する。英国では Systema 2000 として販売され、フランスでは Videojet Game Master など複数の名称でも販売された。Watara Supervision に似たカートリッジと 40 ピン端子を使うが、Supervision のゲームとは互換性がない。</systemDescription>
+      <systemHardwareType>ポータブル</systemHardwareType>
+    </variables>
+  </language>
+
+  <language name="ko_KR">
+    <variables>
+      <systemDescription>Game Master는 Hartung이 닌텐도 Game Boy와 경쟁하기 위해 만든 휴대용 게임기로, 64×64 흑백 LCD 화면을 갖추고 있습니다. 영국에서는 Systema 2000으로, 프랑스에서는 Videojet Game Master 등 여러 이름으로 판매되었습니다. Watara Supervision과 비슷한 카트리지와 40핀 포트를 사용하지만, Supervision 게임과는 호환되지 않습니다.</systemDescription>
+      <systemHardwareType>휴대성</systemHardwareType>
+    </variables>
+  </language>
+
+  <language name="nl_NL">
+    <variables>
+      <systemDescription>De Game Master is een handheldconsole van Hartung, ontworpen om te concurreren met de Nintendo Game Boy, met een 64×64 monochroom LCD-scherm. In het Verenigd Koninkrijk werd hij verkocht als Systema 2000 en in Frankrijk onder meerdere namen (zoals Videojet Game Master). Hij gebruikt Supervision-achtige cartridges en een 40-pins cartridgepoort, maar is niet compatibel met Supervision-spellen.</systemDescription>
+      <systemHardwareType>Draagbaar</systemHardwareType>
+    </variables>
+  </language>
+
+  <language name="pl_PL">
+    <variables>
+      <systemDescription>Game Master to przenośna konsola firmy Hartung, zaprojektowana do rywalizacji z Nintendo Game Boy, z monochromatycznym ekranem LCD 64×64. W Wielkiej Brytanii sprzedawano ją jako Systema 2000, a we Francji pod kilkoma nazwami (np. Videojet Game Master). Używa kartridżów podobnych do Watara Supervision i 40-pinowego portu, ale nie jest zgodna z grami Supervision.</systemDescription>
+      <systemHardwareType>Przenośny</systemHardwareType>
+    </variables>
+  </language>
+
+  <language name="pt_BR">
+    <variables>
+      <systemDescription>O Game Master é um console portátil da Hartung, criado para competir com o Nintendo Game Boy, com tela LCD monocromática de 64×64. No Reino Unido foi vendido como Systema 2000 e, na França, com vários nomes (como Videojet Game Master). Usa cartuchos parecidos com os da Watara Supervision e uma porta de 40 pinos, mas não é compatível com jogos do Supervision.</systemDescription>
+      <systemHardwareType>Portátil</systemHardwareType>
+    </variables>
+  </language>
+
+  <language name="pt_PT">
+    <variables>
+      <systemDescription>O Game Master é uma consola portátil da Hartung, criada para competir com a Nintendo Game Boy, com ecrã LCD monocromático de 64×64. No Reino Unido foi vendida como Systema 2000 e, em França, com vários nomes (como Videojet Game Master). Usa cartuchos semelhantes aos da Watara Supervision e uma porta de 40 pinos, mas não é compatível com jogos da Supervision.</systemDescription>
+      <systemHardwareType>Portátil</systemHardwareType>
+    </variables>
+  </language>
+
+  <language name="ro_RO">
+    <variables>
+      <systemDescription>Game Master este o consolă portabilă produsă de Hartung, concepută pentru a concura cu Nintendo Game Boy, cu ecran LCD monocrom 64×64. În Regatul Unit a fost vândută ca Systema 2000, iar în Franța sub mai multe nume (de exemplu Videojet Game Master). Folosește cartușe asemănătoare cu Watara Supervision și un port cu 40 de pini, dar nu este compatibilă cu jocurile Supervision.</systemDescription>
+      <systemHardwareType>Portabil</systemHardwareType>
+    </variables>
+  </language>
+
+  <language name="ru_RU">
+    <variables>
+      <systemDescription>Game Master — портативная приставка Hartung, созданная для конкуренции с Nintendo Game Boy, с монохромным ЖК-экраном 64×64. В Великобритании она продавалась как Systema 2000, а во Франции — под несколькими названиями (например, Videojet Game Master). Использует картриджи, похожие на Watara Supervision, и 40-контактный порт, но не совместима с играми Supervision.</systemDescription>
+      <systemHardwareType>Портативный</systemHardwareType>
+    </variables>
+  </language>
+
+  <language name="sr_RS">
+    <variables>
+      <systemDescription>Game Master je prenosiva konzola kompanije Hartung, napravljena da se takmiči sa Nintendo Game Boy, sa 64×64 monohromatskim LCD ekranom. U Ujedinjenom Kraljevstvu prodavana je kao Systema 2000, a u Francuskoj pod više naziva (npr. Videojet Game Master). Koristi kertridže slične Watara Supervision i 40-pinski port, ali nije kompatibilna sa Supervision igrama.</systemDescription>
+      <systemHardwareType>Преносив</systemHardwareType>
+    </variables>
+  </language>
+
+  <language name="sv_SE">
+    <variables>
+      <systemDescription>Game Master är en handhållen konsol från Hartung, skapad för att konkurrera med Nintendo Game Boy, med en monokrom LCD-skärm på 64×64. I Storbritannien såldes den som Systema 2000 och i Frankrike under flera namn (t.ex. Videojet Game Master). Den använder Supervision-liknande kassetter och en 40-polig port, men är inte kompatibel med Supervision-spel.</systemDescription>
+      <systemHardwareType>Bärbar</systemHardwareType>
+    </variables>
+  </language>
+
+  <language name="zh_CN">
+    <variables>
+      <systemDescription>Game Master 是 Hartung 生产的一款掌上游戏机，旨在与任天堂 Game Boy 竞争，配备 64×64 单色 LCD 屏幕。在英国它以 Systema 2000 的名称销售，在法国也以多个名称销售（如 Videojet Game Master）。它使用类似 Watara Supervision 的卡带和 40 针接口，但与 Supervision 游戏不兼容。</systemDescription>
+      <systemHardwareType>便携式</systemHardwareType>
+    </variables>
+  </language>
+
+  <language name="zh_TW">
+    <variables>
+      <systemDescription>Game Master 是 Hartung 製造的掌上型遊戲機，設計目的是與 Nintendo Game Boy 競爭，配備 64×64 單色 LCD 螢幕。在英國以 Systema 2000 的名義販售，在法國也以多個名稱販售（如 Videojet Game Master）。它使用類似 Watara Supervision 的卡匣與 40-pin 連接埠，但不相容於 Supervision 遊戲。</systemDescription>
+      <systemHardwareType>可攜式</systemHardwareType>
+    </variables>
+  </language>
+
+</theme>

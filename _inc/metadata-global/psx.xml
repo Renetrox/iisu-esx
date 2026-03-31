@@ -1,0 +1,27 @@
+<theme>
+    <variables>
+        <systemName>Sony PlayStation</systemName>
+        <systemDescription>The Sony PlayStation (PS) is a fifth-generation home video game console released in Japan on December 3, 1994. It helped popularize disc-based games over cartridges and pushed 3D gaming into the mainstream. Its original line was discontinued on March 23, 2006.</systemDescription>
+        <systemManufacturer>Sony</systemManufacturer>
+        <systemReleaseYear>1994</systemReleaseYear>
+        <systemReleaseDate>1994-12-03</systemReleaseDate>
+        <systemReleaseDateFormated>December 3, 1994</systemReleaseDateFormated>
+        <systemHardwareType>Console</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>cfcfcf</systemColor>
+        <systemColorPalette1>cfcfcf</systemColorPalette1>
+        <systemColorPalette2>222222</systemColorPalette2>
+        <systemColorPalette3>e60012</systemColorPalette3>
+        <systemColorPalette4>ffffff</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+
+    <language name="es_ES"><variables><systemDescription>La Sony PlayStation (PS) es una consola de quinta generación lanzada en Japón el 3 de diciembre de 1994. Popularizó los juegos en CD frente a los cartuchos e impulsó el 3D en el mercado masivo. Su línea original se discontinuó el 23 de marzo de 2006.</systemDescription><systemHardwareType>Consola</systemHardwareType></variables></language>
+    <language name="fr_FR"><variables><systemDescription>La PlayStation (PS), sortie au Japon le 3 décembre 1994, a popularisé les jeux sur CD et démocratisé la 3D. La gamme originale a été arrêtée le 23 mars 2006.</systemDescription></variables></language>
+    <language name="de_DE"><variables><systemDescription>Die PlayStation (PS) erschien in Japan am 3. Dezember 1994. Sie machte CD-Spiele populär und brachte 3D-Gaming in den Mainstream. Die ursprüngliche Reihe endete am 23. März 2006.</systemDescription></variables></language>
+    <language name="it_IT"><variables><systemDescription>La PlayStation (PS), uscita in Giappone il 3 dicembre 1994, ha reso popolari i giochi su CD e ha portato il 3D al grande pubblico. La linea originale è stata interrotta il 23 marzo 2006.</systemDescription></variables></language>
+    <language name="pt_BR"><variables><systemDescription>O PlayStation (PS), lançado no Japão em 3 de dezembro de 1994, popularizou jogos em CD e levou o 3D ao grande público. A linha original foi descontinuada em 23 de março de 2006.</systemDescription></variables></language>
+    <language name="ru_RU"><variables><systemDescription>PlayStation (PS) вышла в Японии 3 декабря 1994 года. Она популяризировала игры на CD и вывела 3D-гейминг в массовый сегмент. Оригинальная линейка была снята с производства 23 марта 2006 года.</systemDescription></variables></language>
+    <language name="ja_JP"><variables><systemDescription>1994年12月3日に日本で発売。CD媒体を普及させ、3Dゲームを大衆化した第5世代の家庭用ゲーム機です。初代シリーズは2006年3月23日に生産終了しました。</systemDescription></variables></language>
+</theme>

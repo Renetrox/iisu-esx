@@ -1,0 +1,62 @@
+<theme>
+    <variables>
+        <systemName>Sony PlayStation 2</systemName>
+        <systemDescription>The PlayStation 2, released in 2000, became the best-selling home console of all time. Its DVD support, vast third-party library, and long lifespan defined an entire generation of gaming.</systemDescription>
+        <systemManufacturer>Sony</systemManufacturer>
+        <systemReleaseYear>2000</systemReleaseYear>
+        <systemReleaseDate>2000-03-04</systemReleaseDate>
+        <systemReleaseDateFormated>March 4, 2000</systemReleaseDateFormated>
+        <systemHardwareType>Console</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>1a1a1a</systemColor>
+        <systemColorPalette1>1a1a1a</systemColorPalette1>
+        <systemColorPalette2>0033cc</systemColorPalette2>
+        <systemColorPalette3>ffffff</systemColorPalette3>
+        <systemColorPalette4>666666</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+
+    <language name="es_ES">
+        <variables>
+            <systemDescription>La PlayStation 2 (2000) es la consola más vendida de la historia. Su soporte DVD, enorme catálogo y larga vida comercial marcaron una generación completa.</systemDescription>
+            <systemHardwareType>Consola</systemHardwareType>
+        </variables>
+    </language>
+
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>La PlayStation 2 (2000) est devenue la console la plus vendue de l’histoire grâce à son immense catalogue.</systemDescription>
+        </variables>
+    </language>
+
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Die PlayStation 2 (2000) ist die meistverkaufte Konsole aller Zeiten mit einer enormen Spielebibliothek.</systemDescription>
+        </variables>
+    </language>
+
+    <language name="it_IT">
+        <variables>
+            <systemDescription>La PlayStation 2 (2000) è la console più venduta di sempre, grazie al suo vastissimo catalogo.</systemDescription>
+        </variables>
+    </language>
+
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>O PlayStation 2 (2000) tornou-se o console mais vendido da história, com uma biblioteca gigantesca.</systemDescription>
+        </variables>
+    </language>
+
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>PlayStation 2 (2000) стала самой продаваемой консолью в истории индустрии.</systemDescription>
+        </variables>
+    </language>
+
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>2000年発売。DVD対応と圧倒的なソフト数により、史上最も売れた家庭用ゲーム機となりました。</systemDescription>
+        </variables>
+    </language>
+</theme>

@@ -1,0 +1,27 @@
+<theme>
+    <variables>
+        <systemName>ScummVM</systemName>
+        <systemDescription>ScummVM is a program that allows you to run certain classic graphical point-and-click adventure games, provided you already have their data files. It replaces the original executables with an open-source interpreter, enabling titles like Monkey Island, Day of the Tentacle, and King's Quest to be played on modern hardware with improved compatibility.</systemDescription>
+        <systemManufacturer>Various</systemManufacturer>
+        <systemHardwareType>Engine / Emulator</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>5fa919</systemColor>
+        <systemColorPalette1>5fa919</systemColorPalette1>
+        <systemColorPalette2>ffffff</systemColorPalette2>
+        <systemColorPalette3>222222</systemColorPalette3>
+        <systemColorPalette4>999999</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA"><variables><systemDescription>برنامج يسمح بتشغيل ألعاب المغامرات الكلاسيكية "أشر وانقر" على الأنظمة الحديثة بدقة عالية.</systemDescription></variables></language>
+    <language name="de_DE"><variables><systemDescription>ScummVM ermöglicht das Spielen klassischer Point-and-Click-Adventures auf moderner Hardware.</systemDescription></variables></language>
+    <language name="es_ES"><variables><systemDescription>ScummVM es un intérprete que permite ejecutar clásicos de aventura gráfica "point-and-click" en sistemas modernos, mejorando su compatibilidad.</systemDescription><systemHardwareType>Motor / Emulador</systemHardwareType></variables></language>
+    <language name="fr_FR"><variables><systemDescription>Logiciel permettant de rejouer aux grands classiques du point-and-click sur des machines modernes.</systemDescription></variables></language>
+    <language name="it_IT"><variables><systemDescription>Interprete open source che permette di giocare ai classici delle avventure grafiche sui sistemi moderni.</systemDescription></variables></language>
+    <language name="ja_JP"><variables><systemDescription>往年のアドベンチャーゲームを現代の環境で動かすためのオープンソース・インタープリタです。</systemDescription></variables></language>
+    <language name="pl_PL"><variables><systemDescription>Program umożliwiający uruchamianie klasycznych przygodówek typu point-and-click na współczesnym sprzęcie.</systemDescription></variables></language>
+    <language name="pt_BR"><variables><systemDescription>Um interpretador que permite rodar clássicos do gênero adventure (apontar e clicar) em hardware moderno.</systemDescription></variables></language>
+    <language name="ru_RU"><variables><systemDescription>Программа для запуска классических квестов и приключенческих игр на современном оборудовании.</systemDescription></variables></language>
+    <language name="sv_SE"><variables><systemDescription>Ett program som gör det möjligt att spela klassiska peka-och-klicka-äventyr på moderna system.</systemDescription></variables></language>
+    <language name="zh_CN"><variables><systemDescription>一个用于运行经典“点选式”冒险游戏的开源引擎，支持《猴岛小英雄》等多款名作。</systemDescription></variables></language>
+</theme>

@@ -1,0 +1,30 @@
+<theme>
+    <variables>
+        <systemName>Atari 5200</systemName>
+        <systemDescription>The Atari 5200 (1982) brought upgraded graphics and arcade-style experiences to the living room, based on Atari’s 8-bit computer technology.</systemDescription>
+        <systemManufacturer>Atari</systemManufacturer>
+        <systemReleaseYear>1982</systemReleaseYear>
+        <systemReleaseDate>1982-11-01</systemReleaseDate>
+        <systemReleaseDateFormated>November 1, 1982</systemReleaseDateFormated>
+        <systemHardwareType>Console</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>1f3a4a</systemColor>
+        <systemColorPalette1>00b3ff</systemColorPalette1>
+        <systemColorPalette2>1f3a4a</systemColorPalette2>
+        <systemColorPalette3>0d0d0d</systemColorPalette3>
+        <systemColorPalette4>ffffff</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA"><variables><systemDescription>جهاز (1982) قدّم رسوماً أفضل وتجارب أقرب للأركيد، مبنيًا على تقنية حواسيب أتاري 8-بت.</systemDescription></variables></language>
+    <language name="de_DE"><variables><systemDescription>Konsole (1982) mit besserer Grafik und Arcade-näheren Spielen, basierend auf Ataris 8-Bit-Technologie.</systemDescription></variables></language>
+    <language name="es_ES"><variables><systemDescription>Consola (1982) con gráficos mejorados y experiencias más cercanas al arcade, basada en la tecnología de los ordenadores Atari de 8 bits.</systemDescription><systemHardwareType>Consola</systemHardwareType></variables></language>
+    <language name="fr_FR"><variables><systemDescription>Console (1982) offrant de meilleurs graphismes et des jeux plus proches de l’arcade, issue de la techno 8 bits d’Atari.</systemDescription></variables></language>
+    <language name="it_IT"><variables><systemDescription>Console (1982) con grafica potenziata e giochi più “arcade”, basata sulla tecnologia dei computer Atari a 8 bit.</systemDescription></variables></language>
+    <language name="ja_JP"><variables><systemDescription>1982年の家庭用機。Atari 8ビット系技術を基に、より高品質な映像とアーケード寄りの体験を提供。</systemDescription></variables></language>
+    <language name="pl_PL"><variables><systemDescription>Konsola (1982) z lepszą grafiką i doświadczeniem bliższym arcade, oparta o technologię Atari 8-bit.</systemDescription></variables></language>
+    <language name="pt_BR"><variables><systemDescription>Console (1982) com gráficos melhores e jogos mais “arcade”, baseada na tecnologia dos computadores Atari 8-bit.</systemDescription></variables></language>
+    <language name="ru_RU"><variables><systemDescription>Консоль (1982) с улучшенной графикой и более “аркадным” опытом на базе 8-битной технологии Atari.</systemDescription></variables></language>
+    <language name="sv_SE"><variables><systemDescription>Konsol (1982) med uppgraderad grafik och mer arkadkänsla, byggd på Ataris 8-bitars datorteknik.</systemDescription></variables></language>
+    <language name="zh_CN"><variables><systemDescription>1982 年主机，提升了图形表现并更接近街机体验，基于 Atari 8 位电脑技术。</systemDescription></variables></language>
+</theme>

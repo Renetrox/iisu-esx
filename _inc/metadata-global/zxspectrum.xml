@@ -1,0 +1,28 @@
+<theme>
+    <variables>
+        <systemName>ZX Spectrum</systemName>
+        <systemDescription>The ZX Spectrum is an 8-bit personal home computer released in the United Kingdom in 1982 by Sinclair Research. Famous for its rubber keys and distinctive color clash, it became the most popular home computer in the UK, fostering a generation of bedroom programmers and iconic games like Jet Set Willy and Manic Miner.</systemDescription>
+        <systemManufacturer>Sinclair Research</systemManufacturer>
+        <systemReleaseYear>1982</systemReleaseYear>
+        <systemHardwareType>Computer</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>222222</systemColor>
+        <systemColorPalette1>e30613</systemColorPalette1>
+        <systemColorPalette2>ffffff</systemColorPalette2>
+        <systemColorPalette3>ffbc00</systemColorPalette3>
+        <systemColorPalette4>00adef</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA"><variables><systemDescription>كمبيوتر منزلي بريطاني أسطوري من الثمانينات، اشتهر بمفاتيحه المطاطية وألعابه المبتكرة.</systemDescription></variables></language>
+    <language name="de_DE"><variables><systemDescription>Der ZX Spectrum war der Inbegriff des Heimcomputings in den 80ern mit seinem ikonischen Regenbogendesign.</systemDescription></variables></language>
+    <language name="es_ES"><variables><systemDescription>El microordenador británico más querido de los 80. Famoso por sus teclas de goma y su catálogo infinito de juegos creados por jóvenes programadores.</systemDescription><systemHardwareType>Ordenador</systemHardwareType></variables></language>
+    <language name="fr_FR"><variables><systemDescription>Ordinateur mythique des années 80 au Royaume-Uni, célèbre pour son style compact et ses graphismes colorés.</systemDescription></variables></language>
+    <language name="it_IT"><variables><systemDescription>Il computer che ha portato l'informatica nelle case europee, noto per il suo stile unico e i tasti in gomma.</systemDescription></variables></language>
+    <language name="ja_JP"><variables><systemDescription>1982年にイギリスで発売されたホビーパソコン。カラフルな虹のロゴが象徴的です。</systemDescription></variables></language>
+    <language name="pl_PL"><variables><systemDescription>Legendarny brytyjski komputer domowy, który wychował pokolenie programistów w latach 80.</systemDescription></variables></language>
+    <language name="pt_BR"><variables><systemDescription>O computador doméstico britânico de maior sucesso, famoso pelas suas teclas de borracha e cores vibrantes.</systemDescription></variables></language>
+    <language name="ru_RU"><variables><systemDescription>Популярный в 80-х британский домашний компьютер, известный своим характерным визуальным стилем.</systemDescription></variables></language>
+    <language name="sv_SE"><variables><systemDescription>Den brittiska hemdatorn som blev en ikon på 80-talet med sina gummiknappar och unika spel.</systemDescription></variables></language>
+    <language name="zh_CN"><variables><systemDescription>1982 年发布的英国国民级家用电脑，以胶皮按键和彩虹标志著称，孕育了初期的独立开发文化。</systemDescription></variables></language>
+</theme>

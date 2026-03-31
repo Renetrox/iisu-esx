@@ -1,0 +1,30 @@
+<theme>
+    <variables>
+        <systemName>Game &amp; Watch</systemName>
+        <systemDescription>The Game &amp; Watch series consists of 60 different handheld electronic games produced by Nintendo between 1980 and 1991. Created by Gunpei Yokoi, each device featured a single game played on an LCD screen, along with a clock and an alarm. This series marked Nintendo's first major success in video games and introduced the cross-shaped D-pad that would define controller design for decades.</systemDescription>
+        <systemManufacturer>Nintendo</systemManufacturer>
+        <systemReleaseYear>1980</systemReleaseYear>
+        <systemReleaseDate>1980-04-28</systemReleaseDate>
+        <systemReleaseDateFormated>April 28, 1980</systemReleaseDateFormated>
+        <systemHardwareType>Portable</systemHardwareType>
+        <systemCoverSize>3-2</systemCoverSize>
+        <systemCoverSizeType>landscape</systemCoverSizeType>
+        <systemColor>b7b7b7</systemColor>
+        <systemColorPalette1>9a1e22</systemColorPalette1>
+        <systemColorPalette2>b7b7b7</systemColorPalette2>
+        <systemColorPalette3>333333</systemColorPalette3>
+        <systemColorPalette4>ffffff</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA"><variables><systemDescription>سلسلة من الألعاب الإلكترونية المحمولة من نينتندو، تميزت بشاشات LCD وساعة مدمجة، وهي من أدخلت لوحة الاتجاهات D-pad.</systemDescription></variables></language>
+    <language name="de_DE"><variables><systemDescription>Eine Serie von 60 LCD-Handhelds von Nintendo, entwickelt von Gunpei Yokoi, die das Steuerkreuz einführten.</systemDescription></variables></language>
+    <language name="es_ES"><variables><systemDescription>Línea de juegos electrónicos portátiles de Nintendo creada por Gunpei Yokoi. Cada unidad contenía un solo juego en pantalla LCD y fue el sistema que introdujo la cruceta direccional (D-pad) al mundo.</systemDescription><systemHardwareType>Portátil</systemHardwareType></variables></language>
+    <language name="fr_FR"><variables><systemDescription>Série de jeux électroniques portables avec écran LCD, précurseurs des consoles portables modernes de Nintendo.</systemDescription></variables></language>
+    <language name="it_IT"><variables><systemDescription>Serie di giochi elettronici portatili prodotti da Nintendo, famosi per aver introdotto la croce direzionale.</systemDescription></variables></language>
+    <language name="ja_JP"><variables><systemDescription>任天堂が1980年から発売した携帯電子ゲームシリーズ。十字キーの原型が生まれた歴史的デバイスです。</systemDescription></variables></language>
+    <language name="pl_PL"><variables><systemDescription>Seria kieszonkowych gier elektronicznych Nintendo, które spopularyzowały wyświetlacze LCD i krzyżak kierunkowy.</systemDescription></variables></language>
+    <language name="pt_BR"><variables><systemDescription>Série de jogos eletrônicos portáteis da Nintendo que introduziu o direcional em cruz (D-pad) ao mundo.</systemDescription></variables></language>
+    <language name="ru_RU"><variables><systemDescription>Серия портативных электронных игр от Nintendo с ЖК-экранами, в которых впервые появился D-pad.</systemDescription></variables></language>
+    <language name="sv_SE"><variables><systemDescription>En serie bärbara elektroniska spel från Nintendo som lade grunden för företagets framgångar inom bärbar gaming.</systemDescription></variables></language>
+    <language name="zh_CN"><variables><systemDescription>任天堂于 1980 年推出的单色液晶电子掌机系列，由横井军平设计，首次引入了十字键设计。</systemDescription></variables></language>
+</theme>

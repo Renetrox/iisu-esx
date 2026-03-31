@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+  <variables>
+    <systemName>Dragon 32</systemName>
+    <systemDescription>Dragon 32 and Dragon 64 are 1980s home computers, very similar to the TRS-80 Color Computer. They were produced mainly for the European market by Dragon Data and later by Eurohard. The main difference is memory: 32 KB vs 64 KB of RAM.</systemDescription>
+
+    <systemManufacturer>Dragon Data</systemManufacturer>
+    <systemReleaseYear>1982</systemReleaseYear>
+    <systemReleaseDate>1982-08</systemReleaseDate>
+    <systemReleaseDateFormated>August 1982</systemReleaseDateFormated>
+    <systemHardwareType>Computer</systemHardwareType>
+
+    <systemCoverSize>3-4</systemCoverSize>
+    <systemCoverSizeType>portrait</systemCoverSizeType>
+
+    <systemColor>309496</systemColor>
+    <systemColorPalette1>F50019</systemColorPalette1>
+    <systemColorPalette2>FBFA35</systemColorPalette2>
+    <systemColorPalette3>74B719</systemColorPalette3>
+    <systemColorPalette4>3262D9</systemColorPalette4>
+
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+
+  <language name="ar_SA">
+    <variables>
+      <systemDescription>Dragon 32 و Dragon 64 حاسوبان منزليان من الثمانينيات، وهما قريبان جدًا من TRS-80 Color Computer. صُنعا أساسًا للسوق الأوروبية بواسطة Dragon Data ثم لاحقًا Eurohard. الفرق الرئيسي هو الذاكرة: ‏32 كيلوبايت مقابل ‏64 كيلوبايت من RAM.</systemDescription>
+      <systemHardwareType>الحاسب الآلي</systemHardwareType>
+    </variables>
+  </language>
+
+  <language name="bs_BA">
+    <variables>
+      <systemDescription>Dragon 32 i Dragon 64 su kućni računari iz 1980-ih, veoma slični TRS-80 Color Computeru. Proizvodili su se uglavnom za evropsko tržište od strane Dragon Data, a kasnije i Eurohard. Glavna razlika je memorija: 32 KB naspram 64 KB RAM-a.</systemDescription>
+      <systemHardwareType>Računar</systemHardwareType>
+    </variables>
+  </language>
+
+  <language name="ca_ES">
+    <variables>
+      <systemDescription>Dragon 32 i Dragon 64 són ordinadors domèstics dels anys vuitanta, molt semblants al TRS-80 Color Computer. Es van produir sobretot per al mercat europeu per Dragon Data i més tard per Eurohard. La diferència principal és la memòria: 32 KB o 64 KB de RAM.</systemDescription>
+      <systemHardwareType>Ordinador</systemHardwareType>
+    </variables>
+  </language>
+
+  <language name="de_DE">
+    <variables>
+      <systemDescription>Dragon 32 und Dragon 64 sind Heimcomputer aus den 1980er Jahren und dem TRS-80 Color Computer sehr ähnlich. Sie wurden hauptsächlich für den europäischen Markt von Dragon Data und später von Eurohard produziert. Der Hauptunterschied ist der Arbeitsspeicher: 32 KB vs. 64 KB RAM.</systemDescription>
+      <systemHardwareType>Computer</systemHardwareType>
+    </variables>
+  </language>
+
+  <language name="es_ES">
+    <variables>
+      <systemDescription>Dragon 32 y Dragon 64 son ordenadores domésticos de la década de 1980, muy similares al TRS-80 Color Computer. Se produjeron principalmente para el mercado europeo por Dragon Data y más tarde por Eurohard. La diferencia principal es la memoria: 32 KB frente a 64 KB de RAM.</systemDescription>
+      <systemHardwareType>Ordenador</systemHardwareType>
+    </variables>
+  </language>
+
+  <language name="fr_FR">
+    <variables>
+      <systemDescription>Dragon 32 et Dragon 64 sont des ordinateurs domestiques des années 1980, très proches du TRS-80 Color Computer. Ils ont été produits principalement pour le marché européen par Dragon Data puis plus tard par Eurohard. La différence principale est la mémoire : 32 Ko contre 64 Ko de RAM.</systemDescription>
+      <systemHardwareType>Ordinateur</systemHardwareType>
+    </variables>
+  </language>
+
+  <language name="hr_HR">
+    <variables>
+      <systemDescription>Dragon 32 i Dragon 64 su kućna računala iz 1980-ih, vrlo slična TRS-80 Color Computeru. Proizvodili su se uglavnom za europsko tržište od strane Dragon Data, a kasnije i Eurohard. Glavna razlika je memorija: 32 KB naspram 64 KB RAM-a.</systemDescription>
+      <systemHardwareType>Računalo</systemHardwareType>
+    </variables>
+  </language>
+
+  <language name="it_IT">
+    <variables>
+      <systemDescription>Dragon 32 e Dragon 64 sono home computer degli anni ’80, molto simili al TRS-80 Color Computer. Furono prodotti principalmente per il mercato europeo da Dragon Data e in seguito da Eurohard. La differenza principale è la memoria: 32 KB contro 64 KB di RAM.</systemDescription>
+      <systemHardwareType>Computer</systemHardwareType>
+    </variables>
+  </language>
+
+  <language name="ja_JP">
+    <variables>
+      <systemDescription>Dragon 32 と Dragon 64 は1980年代の家庭用コンピュータで、TRS-80 Color Computer によく似ています。主にヨーロッパ市場向けに Dragon Data（後に Eurohard）によって製造されました。主な違いはメモリで、RAM は 32KB と 64KB です。</systemDescription>
+      <systemHardwareType>コンピューター</systemHardwareType>
+    </variables>
+  </language>
+
+  <language name="ko_KR">
+    <variables>
+      <systemDescription>Dragon 32와 Dragon 64는 1980년대 가정용 컴퓨터로 TRS-80 Color Computer와 매우 유사합니다. 주로 유럽 시장을 위해 Dragon Data가 생산했으며 이후 Eurohard에서도 생산했습니다. 주요 차이는 메모리로, RAM이 32KB와 64KB입니다.</systemDescription>
+      <systemHardwareType>컴퓨터</systemHardwareType>
+    </variables>
+  </language>
+
+  <language name="nl_NL">
+    <variables>
+      <systemDescription>Dragon 32 en Dragon 64 zijn thuiscomputers uit de jaren 80, sterk vergelijkbaar met de TRS-80 Color Computer. Ze werden vooral voor de Europese markt geproduceerd door Dragon Data en later door Eurohard. Het belangrijkste verschil is het geheugen: 32 KB versus 64 KB RAM.</systemDescription>
+      <systemHardwareType>Computer</systemHardwareType>
+    </variables>
+  </language>
+
+  <language name="pl_PL">
+    <variables>
+      <systemDescription>Dragon 32 i Dragon 64 to domowe komputery z lat 80., bardzo podobne do TRS-80 Color Computer. Produkowano je głównie na rynek europejski przez Dragon Data, a później przez Eurohard. Główna różnica to pamięć: 32 KB vs 64 KB RAM.</systemDescription>
+      <systemHardwareType>Komputer</systemHardwareType>
+    </variables>
+  </language>
+
+  <language name="pt_BR">
+    <variables>
+      <systemDescription>Dragon 32 e Dragon 64 são computadores domésticos dos anos 80, muito semelhantes ao TRS-80 Color Computer. Foram produzidos principalmente para o mercado europeu pela Dragon Data e, mais tarde, pela Eurohard. A principal diferença é a memória: 32 KB contra 64 KB de RAM.</systemDescription>
+      <systemHardwareType>Computador</systemHardwareType>
+    </variables>
+  </language>
+
+  <language name="pt_PT">
+    <variables>
+      <systemDescription>Dragon 32 e Dragon 64 são computadores domésticos dos anos 80, muito semelhantes ao TRS-80 Color Computer. Foram produzidos principalmente para o mercado europeu pela Dragon Data e, mais tarde, pela Eurohard. A principal diferença é a memória: 32 KB contra 64 KB de RAM.</systemDescription>
+      <systemHardwareType>Computador</systemHardwareType>
+    </variables>
+  </language>
+
+  <language name="ro_RO">
+    <variables>
+      <systemDescription>Dragon 32 și Dragon 64 sunt computere de uz casnic din anii 1980, foarte asemănătoare cu TRS-80 Color Computer. Au fost produse în principal pentru piața europeană de Dragon Data și, mai târziu, de Eurohard. Diferența principală este memoria: 32 KB față de 64 KB RAM.</systemDescription>
+      <systemHardwareType>Computer</systemHardwareType>
+    </variables>
+  </language>
+
+  <language name="ru_RU">
+    <variables>
+      <systemDescription>Dragon 32 и Dragon 64 — домашние компьютеры 1980-х годов, очень похожие на TRS-80 Color Computer. Их выпускали в основном для европейского рынка компании Dragon Data, а позже Eurohard. Главное отличие — память: 32 КБ против 64 КБ ОЗУ.</systemDescription>
+      <systemHardwareType>Компьютер</systemHardwareType>
+    </variables>
+  </language>
+
+  <language name="sr_RS">
+    <variables>
+      <systemDescription>Dragon 32 i Dragon 64 su kućni računari iz 1980-ih, veoma slični TRS-80 Color Computeru. Proizvodili su se uglavnom za evropsko tržište od strane Dragon Data, a kasnije i Eurohard. Glavna razlika je memorija: 32 KB naspram 64 KB RAM-a.</systemDescription>
+      <systemHardwareType>Рачунар</systemHardwareType>
+    </variables>
+  </language>
+
+  <language name="sv_SE">
+    <variables>
+      <systemDescription>Dragon 32 och Dragon 64 är hemdatorer från 1980-talet, mycket lika TRS-80 Color Computer. De producerades främst för den europeiska marknaden av Dragon Data och senare av Eurohard. Den viktigaste skillnaden är minnet: 32 KB jämfört med 64 KB RAM.</systemDescription>
+      <systemHardwareType>Dator</systemHardwareType>
+    </variables>
+  </language>
+
+  <language name="zh_CN">
+    <variables>
+      <systemDescription>Dragon 32 和 Dragon 64 是 1980 年代的家用电脑，与 TRS-80 彩色计算机非常相似。它们主要面向欧洲市场，由 Dragon Data 生产，后来也由 Eurohard 生产。主要区别是内存：RAM 为 32KB 或 64KB。</systemDescription>
+      <systemHardwareType>计算机</systemHardwareType>
+    </variables>
+  </language>
+
+  <language name="zh_TW">
+    <variables>
+      <systemDescription>Dragon 32 和 Dragon 64 是 1980 年代的家用電腦，與 TRS-80 彩色電腦非常相似。它們主要面向歐洲市場，由 Dragon Data 生產，後來也由 Eurohard 生產。主要差異是記憶體：RAM 為 32KB 或 64KB。</systemDescription>
+      <systemHardwareType>電腦</systemHardwareType>
+    </variables>
+  </language>
+
+</theme>

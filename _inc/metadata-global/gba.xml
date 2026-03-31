@@ -1,0 +1,62 @@
+<theme>
+    <variables>
+        <systemName>Game Boy Advance</systemName>
+        <systemDescription>The Game Boy Advance, released in 2001, brought 32-bit performance to portable gaming. Its strong first-party lineup and backward compatibility helped extend the Game Boy legacy.</systemDescription>
+        <systemManufacturer>Nintendo</systemManufacturer>
+        <systemReleaseYear>2001</systemReleaseYear>
+        <systemReleaseDate>2001-03-21</systemReleaseDate>
+        <systemReleaseDateFormated>March 21, 2001</systemReleaseDateFormated>
+        <systemHardwareType>Handheld</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>6a5acd</systemColor>
+        <systemColorPalette1>6a5acd</systemColorPalette1>
+        <systemColorPalette2>00c853</systemColorPalette2>
+        <systemColorPalette3>ffffff</systemColorPalette3>
+        <systemColorPalette4>333333</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+
+    <language name="es_ES">
+        <variables>
+            <systemDescription>Game Boy Advance (2001) llevó potencia de 32 bits al juego portátil y mantuvo compatibilidad con generaciones previas.</systemDescription>
+            <systemHardwareType>Portátil</systemHardwareType>
+        </variables>
+    </language>
+
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>La Game Boy Advance (2001) a apporté la puissance 32 bits au jeu portable.</systemDescription>
+        </variables>
+    </language>
+
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Der Game Boy Advance (2001) brachte 32-Bit-Leistung in den Handheld-Bereich.</systemDescription>
+        </variables>
+    </language>
+
+    <language name="it_IT">
+        <variables>
+            <systemDescription>Il Game Boy Advance (2001) introdusse prestazioni a 32 bit nel gioco portatile.</systemDescription>
+        </variables>
+    </language>
+
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>O Game Boy Advance (2001) trouxe desempenho de 32 bits para os portáteis.</systemDescription>
+        </variables>
+    </language>
+
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>Game Boy Advance (2001) принес 32-битную производительность в портативные игры.</systemDescription>
+        </variables>
+    </language>
+
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>2001年発売。32ビット性能と後方互換により携帯ゲームの幅を広げました。</systemDescription>
+        </variables>
+    </language>
+</theme>

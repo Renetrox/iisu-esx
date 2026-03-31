@@ -1,0 +1,27 @@
+<theme>
+    <variables>
+        <systemName>PlayStation Vita</systemName>
+        <systemDescription>The PlayStation Vita is a handheld console released in 2011. It featured a high-resolution screen, dual analog sticks, and powerful hardware for its size. Despite strong technology, it struggled to gain market traction.</systemDescription>
+        <systemManufacturer>Sony</systemManufacturer>
+        <systemReleaseYear>2011</systemReleaseYear>
+        <systemReleaseDate>2011-12-17</systemReleaseDate>
+        <systemReleaseDateFormated>December 17, 2011</systemReleaseDateFormated>
+        <systemHardwareType>Handheld</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>222222</systemColor>
+        <systemColorPalette1>222222</systemColorPalette1>
+        <systemColorPalette2>00aaff</systemColorPalette2>
+        <systemColorPalette3>ffffff</systemColorPalette3>
+        <systemColorPalette4>555555</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+
+    <language name="es_ES"><variables><systemDescription>PlayStation Vita, lanzada en 2011, incorporó pantalla de alta resolución y doble stick analógico en un potente formato portátil. A pesar de su tecnología, tuvo dificultades comerciales.</systemDescription><systemHardwareType>Portátil</systemHardwareType></variables></language>
+    <language name="fr_FR"><variables><systemDescription>La PlayStation Vita, sortie en 2011, offrait un écran haute résolution et une grande puissance, mais peina commercialement.</systemDescription></variables></language>
+    <language name="de_DE"><variables><systemDescription>Die PlayStation Vita erschien 2011 mit hochauflösendem Display und starker Technik, konnte sich jedoch nicht durchsetzen.</systemDescription></variables></language>
+    <language name="it_IT"><variables><systemDescription>La PlayStation Vita, lanciata nel 2011, disponeva di hardware potente e doppio stick analogico, ma ebbe scarso successo.</systemDescription></variables></language>
+    <language name="pt_BR"><variables><systemDescription>O PlayStation Vita, lançado em 2011, trouxe tela de alta resolução e grande potência, mas teve pouco sucesso comercial.</systemDescription></variables></language>
+    <language name="ru_RU"><variables><systemDescription>PlayStation Vita, выпущенная в 2011 году, обладала мощным железом и двумя аналоговыми стиками, но не добилась успеха.</systemDescription></variables></language>
+    <language name="ja_JP"><variables><systemDescription>2011年発売。高解像度画面と高性能を備えた携帯機でしたが、市場では苦戦しました。</systemDescription></variables></language>
+</theme>

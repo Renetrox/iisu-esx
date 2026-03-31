@@ -1,0 +1,27 @@
+<theme>
+    <variables>
+        <systemName>Sega Game Gear</systemName>
+        <systemDescription>The Sega Game Gear is a handheld console released in 1990. It featured a color screen and hardware similar to the Master System, delivering arcade-style games on the go. High power consumption limited its portability.</systemDescription>
+        <systemManufacturer>Sega</systemManufacturer>
+        <systemReleaseYear>1990</systemReleaseYear>
+        <systemReleaseDate>1990-10-06</systemReleaseDate>
+        <systemReleaseDateFormated>October 6, 1990</systemReleaseDateFormated>
+        <systemHardwareType>Handheld</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>000000</systemColor>
+        <systemColorPalette1>000000</systemColorPalette1>
+        <systemColorPalette2>00aaff</systemColorPalette2>
+        <systemColorPalette3>ffffff</systemColorPalette3>
+        <systemColorPalette4>ff0000</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+
+    <language name="es_ES"><variables><systemDescription>La Sega Game Gear, lanzada en 1990, ofreció juegos a color con potencia similar a Master System. Su elevado consumo energético limitó la autonomía.</systemDescription><systemHardwareType>Portátil</systemHardwareType></variables></language>
+    <language name="fr_FR"><variables><systemDescription>La Game Gear, sortie en 1990, proposait des jeux en couleur proches de l’arcade, au prix d’une faible autonomie.</systemDescription></variables></language>
+    <language name="de_DE"><variables><systemDescription>Die Game Gear erschien 1990 mit Farbdisplay und Master-System-ähnlicher Technik, hatte jedoch hohen Energieverbrauch.</systemDescription></variables></language>
+    <language name="it_IT"><variables><systemDescription>La Game Gear, lanciata nel 1990, offriva giochi a colori con hardware simile al Master System.</systemDescription></variables></language>
+    <language name="pt_BR"><variables><systemDescription>O Game Gear, lançado em 1990, trouxe jogos em cores, mas sofria com alto consumo de energia.</systemDescription></variables></language>
+    <language name="ru_RU"><variables><systemDescription>Sega Game Gear — портативная консоль 1990 года с цветным экраном и аркадным уклоном.</systemDescription></variables></language>
+    <language name="ja_JP"><variables><systemDescription>1990年発売。カラー液晶と高性能を備えた携帯機でしたが、電池消費が大きいのが課題でした。</systemDescription></variables></language>
+</theme>
