@@ -334,16 +334,6 @@ License: CC-BY-NC-SA
       <zIndex>100</zIndex>
     </textlist>
 
-    <image name="background_dots" extra="true">
-      <path>./_inc/images/fundo_bolinhas.png</path>
-      <origin>0 0</origin>
-      <pos>0 0</pos>
-      <size>0.1 0.1</size>
-      <tile>true</tile>
-      <color>FFFFFFFF</color>
-      <zIndex>84</zIndex>
-    </image>
-
     <image name="md_marquee">
       <origin>0.5 0.5</origin>
       <pos>0.267 0.43</pos>
