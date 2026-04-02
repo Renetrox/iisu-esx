@@ -1,0 +1,30 @@
+<theme>
+    <variables>
+        <systemName>ColecoVision</systemName>
+        <systemDescription>The ColecoVision, released in 1982, brought the true arcade experience into the home with superior graphics and sound. It launched with a perfect port of Nintendo's Donkey Kong and featured expansion modules that allowed it to play Atari 2600 cartridges, making it one of the most powerful and versatile consoles of its era.</systemDescription>
+        <systemManufacturer>Coleco</systemManufacturer>
+        <systemReleaseYear>1982</systemReleaseYear>
+        <systemReleaseDate>1982-08-01</systemReleaseDate>
+        <systemReleaseDateFormated>August 1, 1982</systemReleaseDateFormated>
+        <systemHardwareType>Console</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>2a2a2a</systemColor>
+        <systemColorPalette1>000000</systemColorPalette1>
+        <systemColorPalette2>ffffff</systemColorPalette2>
+        <systemColorPalette3>d32f2f</systemColorPalette3>
+        <systemColorPalette4>1976d2</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA"><variables><systemDescription>قدم جهاز ColecoVision تجربة ألعاب الأركيد الحقيقية في المنزل بفضل رسوماته المتفوقة في عام 1982.</systemDescription></variables></language>
+    <language name="de_DE"><variables><systemDescription>Das ColecoVision brachte 1982 mit überlegener Grafik und dem Hit Donkey Kong echte Arcade-Qualität ins Wohnzimmer.</systemDescription></variables></language>
+    <language name="es_ES"><variables><systemDescription>Lanzada en 1982, la ColecoVision ofreció gráficos de calidad arcade en casa. Debutó con Donkey Kong y permitía usar cartuchos de Atari 2600 mediante un adaptador.</systemDescription><systemHardwareType>Consola</systemHardwareType></variables></language>
+    <language name="fr_FR"><variables><systemDescription>La ColecoVision a marqué l'année 1982 en proposant des conversions de jeux d'arcade quasi parfaites pour l'époque.</systemDescription></variables></language>
+    <language name="it_IT"><variables><systemDescription>Rilasciata nel 1982, ColecoVision portò la qualità dei giochi arcade nelle case, superando i concorrenti dell'epoca.</systemDescription></variables></language>
+    <language name="ja_JP"><variables><systemDescription>1982年に発売されたコレコビジョンは、ドンキーコングを同梱し、当時最高のアーケード再現度を誇りました。</systemDescription></variables></language>
+    <language name="pl_PL"><variables><systemDescription>Konsola z 1982 roku, która oferowała grafikę o jakości znanej z automatów arcade i kompatybilność z Atari 2600.</systemDescription></variables></language>
+    <language name="pt_BR"><variables><systemDescription>O ColecoVision trouxe a experiência real dos arcades para casa em 1982, com gráficos superiores aos seus rivais.</systemDescription></variables></language>
+    <language name="ru_RU"><variables><systemDescription>ColecoVision в 1982 году предложила игрокам домашнюю графику аркадного уровня и обратную совместимость с Atari 2600.</systemDescription></variables></language>
+    <language name="sv_SE"><variables><systemDescription>ColecoVision lanserades 1982 och var känd för sin förmåga att leverera spel med arkadliknande grafik.</systemDescription></variables></language>
+    <language name="zh_CN"><variables><systemDescription>ColecoVision 于 1982 年发布，凭借卓越的图形表现和《大金刚》移植版将街机体验带入家庭。</systemDescription></variables></language>
+</theme>

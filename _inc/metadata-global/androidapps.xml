@@ -1,0 +1,17 @@
+<theme>
+    <variables>
+        <systemName>Android Apps</systemName>
+        <systemDescription>Access and launch your collection of Android applications and native games directly from this menu.</systemDescription>
+        <systemManufacturer>Google</systemManufacturer>
+        <systemHardwareType>OS</systemHardwareType>
+        <systemColor>5A9035</systemColor>
+    </variables>
+    <language name="ar_SA"><variables><systemDescription>قم بالوصول إلى تطبيقات وألعاب أندرويد الخاصة بك وتشغيلها مباشرة من هذه القائمة.</systemDescription></variables></language>
+    <language name="de_DE"><variables><systemDescription>Greifen Sie direkt über dieses Menü auf Ihre Android-Apps und Spiele zu.</systemDescription></variables></language>
+    <language name="es_ES"><variables><systemDescription>Accede y ejecuta tu colección de aplicaciones y juegos nativos de Android directamente desde este menú.</systemDescription></variables></language>
+    <language name="fr_FR"><variables><systemDescription>Accédez et lancez vos applications et jeux Android directement depuis ce menu.</systemDescription></variables></language>
+    <language name="it_IT"><variables><systemDescription>Accedi e avvia le tue applicazioni e i giochi nativi Android direttamente da questo menu.</systemDescription></variables></language>
+    <language name="ja_JP"><variables><systemDescription>このメニューからAndroidアプリやネイティブゲームに直接アクセスして起動できます。</systemDescription></variables></language>
+    <language name="ru_RU"><variables><systemDescription>Запускайте свои приложения и игры для Android прямо из этого меню.</systemDescription></variables></language>
+    <language name="zh_CN"><variables><systemDescription>直接从此菜单访问并运行您的安卓应用程序和原生游戏。</systemDescription></variables></language>
+</theme>

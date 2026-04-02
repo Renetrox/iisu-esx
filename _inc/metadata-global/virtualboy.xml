@@ -1,0 +1,28 @@
+<theme>
+    <variables>
+        <systemName>Virtual Boy</systemName>
+        <systemDescription>Released in 1995, the Virtual Boy was Nintendo's first attempt at a stereoscopic 3D experience. It used a red-on-black monochromatic display to create a sense of depth. While its career was short-lived, it is now a highly prized piece of history for collectors and retro-tech enthusiasts.</systemDescription>
+        <systemManufacturer>Nintendo</systemManufacturer>
+        <systemReleaseYear>1995</systemReleaseYear>
+        <systemHardwareType>Virtual Reality / Portable</systemHardwareType>
+        <systemCoverSize>1-1</systemCoverSize>
+        <systemCoverSizeType>square</systemCoverSizeType>
+        <systemColor>ff0000</systemColor>
+        <systemColorPalette1>ff0000</systemColorPalette1>
+        <systemColorPalette2>000000</systemColorPalette2>
+        <systemColorPalette3>333333</systemColorPalette3>
+        <systemColorPalette4>ffffff</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA"><variables><systemDescription>أول محاولة لنينتندو في تقنية ثلاثية الأبعاد، تميزت باللون الأحمر والأسود.</systemDescription></variables></language>
+    <language name="de_DE"><variables><systemDescription>Nintendos 3D-Konsole von 1995 mit ihrer markanten rot-schwarzen Grafik.</systemDescription></variables></language>
+    <language name="es_ES"><variables><systemDescription>El Virtual Boy fue el primer intento de Nintendo por ofrecer 3D real mediante una pantalla roja y negra estereoscópica.</systemDescription><systemHardwareType>Realidad Virtual / Portátil</systemHardwareType></variables></language>
+    <language name="fr_FR"><variables><systemDescription>Console révolutionnaire mais éphémère de Nintendo utilisant la stéréoscopie en rouge et noir.</systemDescription></variables></language>
+    <language name="it_IT"><variables><systemDescription>Il sistema portatile 3D di Nintendo, unico per la sua palette monocromatica rossa.</systemDescription></variables></language>
+    <language name="ja_JP"><variables><systemDescription>1995年発売。3D立体視をいち早く取り入れた任天堂の野心的なハードです。</systemDescription></variables></language>
+    <language name="pl_PL"><variables><systemDescription>Pierwsza konsola 3D od Nintendo, znana z czerwono-czarnej grafiki i unikalnej formy.</systemDescription></variables></language>
+    <language name="pt_BR"><variables><systemDescription>A tentativa da Nintendo de criar realidade virtual em 1995 com gráficos vermelhos e pretos.</systemDescription></variables></language>
+    <language name="ru_RU"><variables><systemDescription>Стереоскопическая 3D-система от Nintendo, работавшая в красно-черном цвете.</systemDescription></variables></language>
+    <language name="sv_SE"><variables><systemDescription>Nintendos experimentella 3D-konsol som använde stereoskopisk teknik.</systemDescription></variables></language>
+    <language name="zh_CN"><variables><systemDescription>1995 年发布的虚拟现实设备，以红黑双色显示立体画面，极具历史纪念意义。</systemDescription></variables></language>
+</theme>

@@ -1,0 +1,62 @@
+<theme>
+    <variables>
+        <systemName>Nintendo DS</systemName>
+        <systemDescription>The Nintendo DS, launched in 2004, introduced dual screens and touchscreen controls. Its innovative design and broad appeal made it one of the best-selling systems ever.</systemDescription>
+        <systemManufacturer>Nintendo</systemManufacturer>
+        <systemReleaseYear>2004</systemReleaseYear>
+        <systemReleaseDate>2004-11-21</systemReleaseDate>
+        <systemReleaseDateFormated>November 21, 2004</systemReleaseDateFormated>
+        <systemHardwareType>Handheld</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>d9d9d9</systemColor>
+        <systemColorPalette1>d9d9d9</systemColorPalette1>
+        <systemColorPalette2>00aaff</systemColorPalette2>
+        <systemColorPalette3>ffffff</systemColorPalette3>
+        <systemColorPalette4>555555</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+
+    <language name="es_ES">
+        <variables>
+            <systemDescription>Nintendo DS (2004) introdujo doble pantalla y control táctil, alcanzando un éxito masivo.</systemDescription>
+            <systemHardwareType>Portátil</systemHardwareType>
+        </variables>
+    </language>
+
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>La Nintendo DS (2004) a introduit l’écran tactile et le double écran.</systemDescription>
+        </variables>
+    </language>
+
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Der Nintendo DS (2004) führte Touchscreen und zwei Bildschirme ein.</systemDescription>
+        </variables>
+    </language>
+
+    <language name="it_IT">
+        <variables>
+            <systemDescription>Il Nintendo DS (2004) ha introdotto doppio schermo e comandi touch.</systemDescription>
+        </variables>
+    </language>
+
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>O Nintendo DS (2004) inovou com tela sensível ao toque e duas telas.</systemDescription>
+        </variables>
+    </language>
+
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>Nintendo DS (2004) представила сенсорный экран и двойной дисплей.</systemDescription>
+        </variables>
+    </language>
+
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>2004年発売。2画面とタッチ操作で新しい遊び方を生み出しました。</systemDescription>
+        </variables>
+    </language>
+</theme>

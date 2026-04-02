@@ -1,0 +1,27 @@
+<theme>
+    <variables>
+        <systemName>Nintendo Entertainment System</systemName>
+        <systemDescription>The Nintendo Entertainment System is an 8-bit home console released in 1985. It revived the video game industry after the 1983 crash and established many of Nintendo’s most iconic franchises. Production continued into the early 1990s.</systemDescription>
+        <systemManufacturer>Nintendo</systemManufacturer>
+        <systemReleaseYear>1985</systemReleaseYear>
+        <systemReleaseDate>1985-10-18</systemReleaseDate>
+        <systemReleaseDateFormated>October 18, 1985</systemReleaseDateFormated>
+        <systemHardwareType>Console</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>c70000</systemColor>
+        <systemColorPalette1>c70000</systemColorPalette1>
+        <systemColorPalette2>ffffff</systemColorPalette2>
+        <systemColorPalette3>000000</systemColorPalette3>
+        <systemColorPalette4>777777</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+
+    <language name="es_ES"><variables><systemDescription>La NES, lanzada en 1985, revitalizó la industria tras la crisis de 1983 y dio origen a franquicias icónicas de Nintendo. Su producción se extendió hasta comienzos de los años 90.</systemDescription><systemHardwareType>Consola</systemHardwareType></variables></language>
+    <language name="fr_FR"><variables><systemDescription>La NES, sortie en 1985, a relancé l’industrie après le krach de 1983 et fondé les grandes franchises de Nintendo.</systemDescription></variables></language>
+    <language name="de_DE"><variables><systemDescription>Die NES erschien 1985 und belebte die Videospielbranche nach dem Crash von 1983 neu. Sie begründete viele ikonische Nintendo-Serien.</systemDescription></variables></language>
+    <language name="it_IT"><variables><systemDescription>Il NES, pubblicato nel 1985, rilanciò l’industria dopo il crollo del 1983 e diede vita a serie leggendarie.</systemDescription></variables></language>
+    <language name="pt_BR"><variables><systemDescription>O NES, lançado em 1985, revitalizou a indústria após o crash de 1983 e consolidou franquias históricas.</systemDescription></variables></language>
+    <language name="ru_RU"><variables><systemDescription>NES, выпущенная в 1985 году, возродила индустрию после кризиса 1983 года и заложила культовые серии Nintendo.</systemDescription></variables></language>
+    <language name="ja_JP"><variables><systemDescription>1985年発売。1983年の業界崩壊後、家庭用ゲーム市場を復活させ、任天堂の代表的シリーズを生み出しました。</systemDescription></variables></language>
+</theme>

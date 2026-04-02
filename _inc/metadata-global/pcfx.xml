@@ -1,0 +1,21 @@
+<theme>
+    <variables>
+        <systemName>PC-FX</systemName>
+        <systemDescription>The PC-FX was NEC's successor to the PC Engine. Its unique upright design looked like a PC tower, and it specialized in high-quality FMV (Full Motion Video) and 2D animation games.</systemDescription>
+        <systemManufacturer>NEC</systemManufacturer>
+        <systemReleaseYear>1994</systemReleaseYear>
+        <systemHardwareType>Console</systemHardwareType>
+        <systemColor>ffffff</systemColor>
+    </variables>
+    <language name="ar_SA"><variables><systemDescription>كان PC-FX خليفة NEC لجهاز PC Engine، وتميز بقدرته العالية على تشغيل فيديوهات الرسوم المتحركة.</systemDescription><systemHardwareType>وحدة التحكم</systemHardwareType></variables></language>
+    <language name="de_DE"><variables><systemDescription>Die PC-FX war der Nachfolger der PC Engine von NEC, spezialisiert auf Full Motion Video und Anime-Spiele.</systemDescription><systemHardwareType>Konsole</systemHardwareType></variables></language>
+    <language name="es_ES"><variables><systemDescription>La PC-FX fue la sucesora de la PC Engine de NEC. Con un diseño de torre, se especializó en juegos con vídeo real (FMV) y animación japonesa.</systemDescription><systemHardwareType>Consola</systemHardwareType></variables></language>
+    <language name="fr_FR"><variables><systemDescription>La PC-FX était la descendante de la PC Engine, spécialisée dans les jeux en Full Motion Video (FMV).</systemDescription><systemHardwareType>Console</systemHardwareType></variables></language>
+    <language name="it_IT"><variables><systemDescription>Il PC-FX era il successore del PC Engine di NEC, specializzato in filmati FMV e animazione di alta qualità.</systemDescription><systemHardwareType>Console</systemHardwareType></variables></language>
+    <language name="ja_JP"><variables><systemDescription>PC-FXはPCエンジンの後継機で、縦置きの独特な形状と、動画再生能力を活かしたアニメ系ソフトが特徴でした。</systemDescription><systemHardwareType>コンソール</systemHardwareType></variables></language>
+    <language name="pl_PL"><variables><systemDescription>PC-FX to następca PC Engine od NEC, specjalizujący się w grach z animacjami Full Motion Video.</systemDescription><systemHardwareType>Konsola</systemHardwareType></variables></language>
+    <language name="pt_BR"><variables><systemDescription>O PC-FX foi o sucessor do PC Engine da NEC, especializado em vídeos FMV e jogos de animação.</systemDescription><systemHardwareType>Console</systemHardwareType></variables></language>
+    <language name="ru_RU"><variables><systemDescription>PC-FX — преемница PC Engine от NEC, специализирующаяся на играх с видеовставками и аниме.</systemDescription><systemHardwareType>Консоль</systemHardwareType></variables></language>
+    <language name="sv_SE"><variables><systemDescription>PC-FX var NEC:s efterföljare till PC Engine, specialiserad på Full Motion Video och animerade spel.</systemDescription><systemHardwareType>Konsol</systemHardwareType></variables></language>
+    <language name="zh_CN"><variables><systemDescription>PC-FX 是 NEC 的 PC Engine 后继机型，外形酷似电脑主机，擅长处理高质量的全动态视频和 2D 动画。</systemDescription><systemHardwareType>控制台</systemHardwareType></variables></language>
+</theme>

@@ -1,0 +1,67 @@
+<theme>
+    <variables>
+        <systemName>Coleco Adam</systemName>
+        <systemDescription>The Coleco Adam is a home computer and expansion for the ColecoVision, released by Coleco in 1983. Designed to build on the success of their console, it was sold both as a standalone unit and as an upgrade module. It featured 64 KB of RAM and compatibility with all ColecoVision games, but faced technical hurdles that shortened its market lifespan.</systemDescription>
+        <systemManufacturer>Coleco</systemManufacturer>
+        <systemReleaseYear>1983</systemReleaseYear>
+        <systemReleaseDate>1983-10</systemReleaseDate>
+        <systemReleaseDateFormated>October 1983</systemReleaseDateFormated>
+        <systemHardwareType>Computer</systemHardwareType>
+        <systemCoverSize>1-1</systemCoverSize>
+        <systemCoverSizeType>square</systemCoverSizeType>
+        <systemColor>5A93AF</systemColor>
+        <systemColorPalette1>999999</systemColorPalette1>
+        <systemColorPalette2>777777</systemColorPalette2>
+        <systemColorPalette3>555555</systemColorPalette3>
+        <systemColorPalette4>333333</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>كوليكو آدم هو كمبيوتر منزلي وتوسعة لجهاز كوليكو فيجن، أصدرته شركة كوليكو عام 1983. صُمم للاستفادة من نجاح نظامهم السابق، وطُرح كقاعدة مستقلة أو وحدة ترقية. يتميز بذاكرة 64 كيلوبايت وتوافق كامل مع ألعاب كوليكو فيجن، لكنه واجه عقبات تقنية قصرت من عمره في السوق.</systemDescription>
+            <systemHardwareType>كمبيوتر</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Der Coleco Adam ist ein Heimcomputer und eine Erweiterung für die ColecoVision, die 1983 von Coleco veröffentlicht wurde. Er war sowohl als eigenständiges Gerät als auch als Upgrade-Modul erhältlich. Er bot 64 KB RAM und volle Kompatibilität mit ColecoVision-Spielen, war jedoch aufgrund technischer Probleme nur kurz am Markt erfolgreich.</systemDescription>
+            <systemHardwareType>Computer</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>El Coleco Adam es un ordenador doméstico y expansión para la ColecoVision, lanzado por Coleco en 1983. Diseñado para aprovechar el éxito de su consola, se comercializó tanto como unidad independiente como módulo de actualización. Incluía 64 KB de RAM y compatibilidad total con juegos de ColecoVision, aunque su vida comercial fue breve debido a problemas técnicos.</systemDescription>
+            <systemHardwareType>Ordenador</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>Le Coleco Adam est un ordinateur domestique et une extension pour la ColecoVision, sorti par Coleco en 1983. Conçu comme une unité autonome ou un module d'extension, il offrait 64 Ko de RAM et une compatibilité totale avec les jeux ColecoVision. Malgré ses atouts, des problèmes techniques ont limité sa durée de vie sur le marché.</systemDescription>
+            <systemHardwareType>Ordinateur</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>Il Coleco Adam è un home computer e un'espansione per il ColecoVision, rilasciato da Coleco nel 1983. Progettato per seguire il successo della console, era disponibile sia come unità autonoma che come modulo di aggiornamento. Offriva 64 KB di RAM e compatibilità con i giochi ColecoVision, ma ebbe vita breve per problemi tecnici.</systemDescription>
+            <systemHardwareType>Computer</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>コレコ・アダムは、1983年にコレコ社から発売された家庭用コンピュータ兼ColecoVision用拡張デバイスです。独立したユニットまたはアップグレードモジュールとして販売され、64KBのRAMを搭載し、全てのColecoVision用ソフトに対応していましたが、技術的な問題により短期間で市場から姿を消しました。</systemDescription>
+            <systemHardwareType>コンピュータ</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>Coleco Adam — домашний компьютер и расширение для ColecoVision, выпущенное компанией Coleco в 1983 году. Он продавался как отдельное устройство или модуль обновления. Компьютер имел 64 КБ ОЗУ и полную совместимость с играми ColecoVision, но из-за технических проблем его производство вскоре было прекращено.</systemDescription>
+            <systemHardwareType>Компьютер</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>Coleco Adam 是 Coleco 于 1983 年推出的家用电脑及 ColecoVision 扩展设备。它提供独立主机和升级模块两种版本，具备 64 KB 内存并完全兼容所有 ColecoVision 游戏。尽管设计初衷良好，但因技术故障频发导致其市场寿命较短。</systemDescription>
+            <systemHardwareType>计算机</systemHardwareType>
+        </variables>
+    </language>
+</theme>

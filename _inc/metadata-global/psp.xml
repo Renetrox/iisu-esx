@@ -1,0 +1,62 @@
+<theme>
+    <variables>
+        <systemName>Sony PlayStation Portable</systemName>
+        <systemDescription>The PlayStation Portable (PSP), released in 2004, delivered near-console-quality gaming in a portable form. Its multimedia features and strong first-party support made it one of the most advanced handhelds of its era.</systemDescription>
+        <systemManufacturer>Sony</systemManufacturer>
+        <systemReleaseYear>2004</systemReleaseYear>
+        <systemReleaseDate>2004-12-12</systemReleaseDate>
+        <systemReleaseDateFormated>December 12, 2004</systemReleaseDateFormated>
+        <systemHardwareType>Handheld</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>2d2d2d</systemColor>
+        <systemColorPalette1>2d2d2d</systemColorPalette1>
+        <systemColorPalette2>00aaff</systemColorPalette2>
+        <systemColorPalette3>ffffff</systemColorPalette3>
+        <systemColorPalette4>888888</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+
+    <language name="es_ES">
+        <variables>
+            <systemDescription>La PSP (2004) ofreció calidad cercana a consola en formato portátil, junto con funciones multimedia avanzadas.</systemDescription>
+            <systemHardwareType>Portátil</systemHardwareType>
+        </variables>
+    </language>
+
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>La PSP (2004) proposait une qualité proche d’une console de salon dans un format portable.</systemDescription>
+        </variables>
+    </language>
+
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Die PSP (2004) brachte nahezu Konsolenqualität in ein tragbares Format.</systemDescription>
+        </variables>
+    </language>
+
+    <language name="it_IT">
+        <variables>
+            <systemDescription>La PSP (2004) offriva qualità quasi da console domestica in formato portatile.</systemDescription>
+        </variables>
+    </language>
+
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>O PSP (2004) levou jogos com qualidade de console para o formato portátil.</systemDescription>
+        </variables>
+    </language>
+
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>PSP (2004) предложила почти консольное качество в портативном формате.</systemDescription>
+        </variables>
+    </language>
+
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>2004年発売。携帯機ながら家庭用に近いクオリティと多彩な機能を備えていました。</systemDescription>
+        </variables>
+    </language>
+</theme>

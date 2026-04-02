@@ -1,0 +1,21 @@
+<theme>
+    <variables>
+        <systemName>Pokémon Mini</systemName>
+        <systemDescription>The Pokémon Mini, released in 2001, is the smallest cartridge-based handheld ever made. It featured an LCD screen, vibration, and a shock sensor.</systemDescription>
+        <systemManufacturer>Nintendo</systemManufacturer>
+        <systemReleaseYear>2001</systemReleaseYear>
+        <systemHardwareType>Handheld</systemHardwareType>
+        <systemColor>3e5b9a</systemColor>
+    </variables>
+    <language name="ar_SA"><variables><systemDescription>جهاز Pokémon Mini هو أصغر جهاز محمول يعتمد على الخراطيش، تم إطلاقه في عام 2001.</systemDescription><systemHardwareType>محمول</systemHardwareType></variables></language>
+    <language name="de_DE"><variables><systemDescription>Der Pokémon Mini aus dem Jahr 2001 ist der kleinste Handheld mit austauschbaren Spielkassetten.</systemDescription><systemHardwareType>Handheld</systemHardwareType></variables></language>
+    <language name="es_ES"><variables><systemDescription>La Pokémon Mini, lanzada en 2001, es la consola de cartuchos intercambiables más pequeña jamás fabricada.</systemDescription><systemHardwareType>Portátil</systemHardwareType></variables></language>
+    <language name="fr_FR"><variables><systemDescription>La Pokémon Mini est la plus petite console à cartouches interchangeables au monde, sortie en 2001.</systemDescription><systemHardwareType>Portable</systemHardwareType></variables></language>
+    <language name="it_IT"><variables><systemDescription>Il Pokémon Mini, rilasciato nel 2001, è la più piccola console portatile a cartucce mai realizzata.</systemDescription><systemHardwareType>Portatile</systemHardwareType></variables></language>
+    <language name="ja_JP"><variables><systemDescription>2001年に発売されたポケモンミニは、交換式カートリッジを採用した世界最小の携帯ゲーム機です。</systemDescription><systemHardwareType>携帯機</systemHardwareType></variables></language>
+    <language name="pl_PL"><variables><systemDescription>Pokémon Mini z 2001 roku to najmniejsza w historii konsola przenośna na wymienne kartridże.</systemDescription><systemHardwareType>Przenośna</systemHardwareType></variables></language>
+    <language name="pt_BR"><variables><systemDescription>O Pokémon Mini, lançado em 2001, é o menor portátil com cartuchos intercambiáveis já fabricado.</systemDescription><systemHardwareType>Portátil</systemHardwareType></variables></language>
+    <language name="ru_RU"><variables><systemDescription>Pokémon Mini — самая маленькая в мире портативная консоль со сменными картриджами, выпущенная в 2001 году.</systemDescription><systemHardwareType>Портативная</systemHardwareType></variables></language>
+    <language name="sv_SE"><variables><systemDescription>Pokémon Mini lanserades 2001 och är den minsta bärbara konsolen med utbytbara spelkassetter.</systemDescription><systemHardwareType>Bärbar</systemHardwareType></variables></language>
+    <language name="zh_CN"><variables><systemDescription>Pokémon Mini 于 2001 年发布，是史上最小的可更换卡带掌机，具备震动和震动传感器。</systemDescription><systemHardwareType>掌机</systemHardwareType></variables></language>
+</theme>

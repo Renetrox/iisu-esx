@@ -1,0 +1,136 @@
+<theme>
+    <variables>
+        <systemName>PC-98</systemName>
+        <systemDescription>The NEC PC-9800 series, commonly known as the PC-98, is a 16-bit Japanese computer architecture that dominated the Japanese market for over a decade. Launched in 1982, it offered superior resolution and color depth compared to early IBM PCs, capturing nearly 90% of the domestic market by 1987. While initially intended for business use, its hardware capabilities made it the definitive home for Japanese PC gaming, hosting a massive library of RPGs, strategy games, and the origins of legendary series like Touhou Project and many visual novel classics.</systemDescription>
+        <systemManufacturer>NEC</systemManufacturer>
+        <systemReleaseYear>1982</systemReleaseYear>
+        <systemHardwareType>Computer</systemHardwareType>
+        <systemColor>5185B2</systemColor>
+        <systemColorPalette1>951610</systemColorPalette1>
+        <systemColorPalette2>16643C</systemColorPalette2>
+        <systemColorPalette3>00499A</systemColorPalette3>
+        <systemColorPalette4>3B3431</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>سلسلة NEC PC-9800، المعروفة باسم PC-98، هي هندسة كمبيوتر يابانية 16 بت هيمنت على السوق اليابانية لأكثر من عقد من الزمان. تم إطلاقها في عام 1982، وقدمت دقة فائقة وعمق ألوان مقارنة بأجهزة IBM PC المبكرة. على الرغم من أنها كانت مخصصة في البداية للأعمال، إلا أن قدرات أجهزتها جعلتها الموطن النهائي لألعاب الكمبيوتر اليابانية، حيث استضافت مكتبة ضخمة من ألعاب RPG والألعاب الاستراتيجية وبدايات سلسلة Touhou Project الشهيرة.</systemDescription>
+            <systemHardwareType>الحاسب الآلي</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>NEC PC-9800 serija, poznata kao PC-98, je 16-bitna japanska računarska arhitektura koja je dominirala japanskim tržištem više od decenije. Lansiran 1982. godine, nudio je vrhunsku rezoluciju i dubinu boje u poređenju sa ranim IBM PC računarima. Iako je prvobitno bio namijenjen poslovnoj upotrebi, njegove hardverske mogućnosti učinile su ga definitivnim domom za japanske PC igre, udomljujući ogromnu biblioteku RPG-ova i početke legendarnog Touhou projekta.</systemDescription>
+            <systemHardwareType>Računar</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ca_ES">
+        <variables>
+            <systemDescription>La sèrie NEC PC-9800, coneguda comunament com PC-98, és una arquitectura d'ordinadors de 16 bits que va dominar el mercat japonès durant més d'una dècada. Llançat el 1982, oferia una resolució i profunditat de color superior als primers IBM PC. Tot i que inicialment estava destinat a l'ús empresarial, les seves capacitats de maquinari el van convertir en la llar definitiva dels videojocs per a PC al Japó, allotjant una enorme biblioteca de RPG i els orígens del llegendari Touhou Project.</systemDescription>
+            <systemHardwareType>Computer</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Die NEC PC-9800-Serie, allgemein bekannt als PC-98, ist eine 16-Bit-Computerarchitektur, die den japanischen Markt über ein Jahrzehnt lang dominierte. Sie wurde 1982 eingeführt und bot eine überlegene Auflösung und Farbtiefe im Vergleich zu frühen IBM-PCs. Obwohl sie ursprünglich für den geschäftlichen Einsatz konzipiert war, machten ihre Hardware-Fähigkeiten sie zur ultimativen Plattform für japanische PC-Spiele, einschließlich der Ursprünge des legendären Touhou Project.</systemDescription>
+            <systemHardwareType>Computer</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>La serie NEC PC-9800, conocida comúnmente como PC-98, es una arquitectura de ordenadores japoneses de 16 bits que dominó su mercado nacional durante más de una década. Lanzada en 1982, ofrecía una resolución y profundidad de color superior a los primeros IBM PC. Aunque inicialmente era para uso empresarial, sus capacidades lo convirtieron en el hogar definitivo del gaming japonés, albergando una enorme biblioteca de RPGs y los orígens del legendario Touhou Project.</systemDescription>
+            <systemHardwareType>Ordenador</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>La série NEC PC-9800, connue sous le nom de PC-98, est une architecture d'ordinateurs japonais 16 bits qui a dominé le marché nippon pendant plus d'une décennie. Lancée en 1982, elle offrait une résolution supérieure aux premiers PC IBM. Bien qu'initialement destiné aux entreprises, ses capacités techniques en ont fait la plateforme de référence pour le jeu vidéo PC au Japon, accueillant une immense bibliothèque de RPG et les débuts de la célèbre série Touhou Project.</systemDescription>
+            <systemHardwareType>Ordinateur</systemHardwareType>
+        </variables>
+    </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>NEC PC-9800 serija, poznata kao PC-98, 16-bitna je japanska računalna arhitektura koja je dominirala japanskim tržištem više od desetljeća. Lansiran 1982., nudio je vrhunsku rezoluciju i dubinu boje u usporedbi s ranim IBM osobnim računalima. Iako je izvorno bio namijenjen poslovnoj upotrebi, njegove hardverske mogućnosti učinile su ga glavnom platformom za japanske PC igre i legendarni Touhou Project.</systemDescription>
+            <systemHardwareType>Računalo</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>La serie NEC PC-9800, nota come PC-98, è un'architettura di computer giapponese a 16 bit che ha dominato il mercato nazionale per oltre un decennio. Lanciata nel 1982, offriva risoluzione e profondità di colore superiori ai primi PC IBM. Sebbene inizialmente destinata al business, le sue capacità hardware la resero la casa definitiva del gaming su PC in Giappone, ospitando una vasta libreria di RPG e le origini del leggendario Touhou Project.</systemDescription>
+            <systemHardwareType>Computer</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>PC-9800シリーズ（通称PC-98）は、1982年の登場から10年以上にわたり日本のパソコン市場を席巻した16ビットコンピュータの代名詞です。当時のIBM PCを上回る高解像度と多色表示能力を備え、1987年には国内シェアの約90%を確保しました。本来はビジネス用でしたが、その高い性能はゲーム開発にも最適で、数多くのRPGやシミュレーションゲーム、そして伝説的な「東方Project」の初期作品など、日本独自のPCゲーム文化を築き上げました。</systemDescription>
+            <systemHardwareType>コンピューター</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>PC-9800 시리즈(PC-98)는 10년 넘게 일본 시장을 장악한 16비트 컴퓨터 아키텍처입니다. 1982년에 출시된 이 시스템은 초기 IBM PC보다 우수한 해상도와 색상 표현력을 제공했습니다. 처음에는 업무용으로 설계되었지만, 뛰어난 하드웨어 성능 덕분에 일본 PC 게임의 중심지가 되었으며, 동방 프로젝트와 같은 전설적인 시리즈의 탄생지가 되었습니다.</systemDescription>
+            <systemHardwareType>컴퓨터</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemDescription>De NEC PC-9800-serie, beter bekend als de PC-98, is een 16-bits Japanse computerarchitectuur die de Japanse markt meer dan tien jaar domineerde. Het werd gelanceerd in 1982 en bood een superieure resolutie in vergelijking met vroege IBM-pc's. Hoewel het aanvankelijk bedoeld was voor zakelijk gebruik, maakten de hardwaremogelijkheden het de ultieme plek voor Japanse pc-games en de oorsprong van het Touhou Project.</systemDescription>
+            <systemHardwareType>Computer</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>Seria NEC PC-9800, powszechnie znana jako PC-98, to 16-bitowa japońska architektura komputerowa, która dominowała na tamtejszym rynku przez ponad dekadę. Wprowadzona w 1982 roku, oferowała wyższą rozdzielczość niż wczesne komputery IBM PC. Choć początkowo przeznaczona do celów biznesowych, jej możliwości sprzętowe sprawiły, że stała się domem dla japońskich gier PC, w tym legendarnej serii Touhou Project.</systemDescription>
+            <systemHardwareType>Komputer</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>A série NEC PC-9800, comumente conhecida como PC-98, é uma arquitetura de computador japonesa de 16 bits que dominou o mercado nacional por mais de uma década. Lançada em 1982, oferecia resolução e profundidade de cor superiores aos primeiros IBM PCs. Embora inicialmente voltado para empresas, tornou-se o lar definitivo do PC gaming japonês, abrigando uma enorme biblioteca de RPGs e as origens do lendário Touhou Project.</systemDescription>
+            <systemHardwareType>Computador</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>A série NEC PC-9800, conhecida como PC-98, é uma arquitetura de computadores japonesa de 16 bits que dominou o mercado nacional por mais de uma década. Lançada em 1982, oferecia resolução e profundidade de cor superiores aos primeiros IBM PCs. Embora inicialmente para uso empresarial, tornou-se a plataforma de eleição para o gaming japonês e os primórdios do lendário Touhou Project.</systemDescription>
+            <systemHardwareType>Computador</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemDescription>Seria NEC PC-9800, cunoscută sub numele de PC-98, este o arhitectură de calculatoare japoneză pe 16 biți care a dominat piața niponă timp de peste un deceniu. Lansată în 1982, a oferit rezoluție și adâncime de culoare superioare primelor calculatoare IBM. Deși a fost destinată inițial mediului de afaceri, a devenit platforma definitivă pentru jocurile de PC japoneze și originile legendarului Touhou Project.</systemDescription>
+            <systemHardwareType>Computer</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>Серия NEC PC-9800, известная как PC-98, — это 16-битная японская компьютерная архитектура, доминировавшая на рынке более десяти лет. Выпущенная в 1982 году, она предлагала превосходное разрешение по сравнению с первыми IBM PC. Хотя изначально система предназначалась для бизнеса, её возможности сделали её главным домом для японских ПК-игр и местом рождения легендарного Touhou Project.</systemDescription>
+            <systemHardwareType>Компьютер</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>NEC PC-9800 серија, позната као PC-98, је 16-битна јапанска рачунарска архитектура која је доминирала јапанским тржиштем више од деценије. Лансиран 1982. године, нудио је врхунску резолуцију у поређењу са раним IBM PC рачунарима. Иако је првобитно био намењен пословној употреби, постао је дефинитивни дом за јапанске ПЦ игре и порекло легендарног Touhou Project-а.</systemDescription>
+            <systemHardwareType>Рачунар</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemDescription>NEC PC-9800-serien, känd som PC-98, är en 16-bitars japansk datorarkitektur som dominerade den japanska marknaden i över ett decennium. Den lanserades 1982 och erbjöd överlägsen upplösning jämfört med tidiga IBM PC-datorer. Även om den ursprungligen var avsedd för affärsbruk, gjorde dess hårdvara den till det definitiva hemmet för japanska PC-spel och Touhou Project.</systemDescription>
+            <systemHardwareType>Dator</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>NEC PC-9800 系列（简称 PC-98）是一种 16 位日本电脑架构，曾在日本市场占据主导地位长达十余年。它于 1982 年发布，提供了比早期 IBM PC 更高的分辨率和色彩深度。尽管最初用于商业，但其硬件性能使其成为日本 PC 游戏的定鼎之作，也是传奇系列《东方Project》的诞生地。</systemDescription>
+            <systemHardwareType>计算机</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>NEC PC-9800 系列（簡稱 PC-98）是一種 16 位元日本電腦架構，曾主導日本市場十多年。它於 1982 年推出，提供比早期 IBM PC 更優越的解析度。雖然最初是為了商業用途而設計，但其硬體能力使其成為日本 PC 遊戲的代表性平台，也是傳奇系列《東方Project》的發源地。</systemDescription>
+            <systemHardwareType>電腦</systemHardwareType>
+        </variables>
+    </language>
+</theme>

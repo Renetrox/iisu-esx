@@ -1,0 +1,37 @@
+<theme>
+    <variables>
+        <systemName>Amiga CD32</systemName>
+        <systemDescription>The Amiga CD32 is a 32-bit home video game console released by Commodore in 1993. Based on the Amiga 1200 architecture, it was the first CD-based 32-bit console in Europe. Despite initial sales success, Commodore's bankruptcy in 1994 led to its premature discontinuation shortly after launch.</systemDescription>
+        <systemManufacturer>Commodore</systemManufacturer>
+        <systemReleaseYear>1993</systemReleaseYear>
+        <systemReleaseDate>1993-09-17</systemReleaseDate>
+        <systemReleaseDateFormated>September 17, 1993</systemReleaseDateFormated>
+        <systemHardwareType>Console</systemHardwareType>
+        <systemCoverSize>1-1</systemCoverSize>
+        <systemCoverSizeType>square</systemCoverSizeType>
+        <systemColor>6b6b6b</systemColor>
+        <systemColorPalette1>192753</systemColorPalette1>
+        <systemColorPalette2>5F87C0</systemColorPalette2>
+        <systemColorPalette3>F3AD2D</systemColorPalette3>
+        <systemColorPalette4>ED2224</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>La Amiga CD32 es una videoconsola de 32 bits lanzada por Commodore en 1993. Basada en la arquitectura del Amiga 1200, fue la primera consola de 32 bits con CD-ROM en Europa. Aunque tuvo un buen inicio de ventas, la quiebra de Commodore en 1994 provocó su desaparición prematura del mercado.</systemDescription>
+            <systemHardwareType>Consola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>Amiga CD32 — 32-битная игровая приставка, выпущенная компанией Commodore в 1993 году. Основанная на архитектуре Amiga 1200, она стала первой консолью с CD-приводом в Европе. Несмотря на успех на старте, банкротство Commodore в 1994 году привело к быстрому прекращению её производства.</systemDescription>
+            <systemHardwareType>Консоль</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>Amiga CD32 是 Commodore 于 1993 年推出的 32 位家用游戏机。它基于 Amiga 1200 架构，是欧洲第一款采用光盘介质的 32 位主机。虽然初期销量领先，但随着 Commodore 公司于 1994 年破产，该主机也在发布不久后被迫停产。</systemDescription>
+            <systemHardwareType>游戏机</systemHardwareType>
+        </variables>
+    </language>
+</theme>

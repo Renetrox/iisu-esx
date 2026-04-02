@@ -1,0 +1,70 @@
+<theme>
+  <variables>
+    <systemName>IBM PC</systemName>
+
+    <systemDescription>The IBM Personal Computer (model 5150) is the iconic microcomputer released in 1981 that established the "IBM PC compatible" de facto standard. Developed in Boca Raton, Florida, its open architecture allowed for third-party hardware and software, effectively launching the modern era of personal computing. It is considered the direct ancestor of most modern computers due to its widespread adoption and influential design. The line set the stage for the global dominance of the PC platform.</systemDescription>
+
+    <systemManufacturer>IBM</systemManufacturer>
+    <systemReleaseYear>1981</systemReleaseYear>
+    <systemReleaseDate>1981-08-12</systemReleaseDate>
+    <systemReleaseDateFormated>August 12, 1981</systemReleaseDateFormated>
+    <systemHardwareType>Computer</systemHardwareType>
+    <systemCoverSize>3-4</systemCoverSize>
+    <systemCoverSizeType>portrait</systemCoverSizeType>
+    <systemColor>3161BC</systemColor>
+    <systemColorPalette1>1F70C1</systemColorPalette1>
+    <systemColorPalette2>FFFFFF</systemColorPalette2>
+    <systemColorPalette3>666870</systemColorPalette3>
+    <systemColorPalette4>201D1D</systemColorPalette4>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+
+  <language name="es_ES">
+    <variables>
+      <systemDescription>El IBM Personal Computer (modelo 5150) es el icónico microordenador lanzado en 1981 que estableció el estándar "IBM PC compatible". Desarrollado en Florida, su arquitectura abierta permitió el uso de hardware y software de terceros, iniciando la era moderna de la informática personal. Se considera el antepasado directo de la mayoría de los ordenadores actuales debido a su adopción masiva y su diseño influyente, dominando el mercado durante décadas.</systemDescription>
+      <systemHardwareType>Ordenador</systemHardwareType>
+    </variables>
+  </language>
+
+  <language name="fr_FR">
+    <variables>
+      <systemDescription>L'IBM Personal Computer (modèle 5150) est le micro-ordinateur emblématique sorti en 1981 qui a établi le standard "IBM PC compatible". Développé en Floride, son architecture ouverte a permis l'utilisation de composants et logiciels tiers, lançant l'ère moderne de l'informatique personnelle. Il est considéré comme l'ancêtre direct de la plupart des ordinateurs actuels grâce à son adoption massive et à la standardisation de sa conception technique.</systemDescription>
+      <systemHardwareType>Ordinateur</systemHardwareType>
+    </variables>
+  </language>
+
+  <language name="de_DE">
+    <variables>
+      <systemDescription>Der IBM Personal Computer (Modell 5150) ist der ikonische Mikrocomputer von 1981, der den De-facto-Standard "IBM PC-kompatibel" begründete. Seine in Florida entwickelte offene Architektur ermöglichte Hardware und Software von Drittanbietern und startete die moderne Ära des Personal Computing. Aufgrund seiner weiten Verbreitung gilt er als direkter Vorfahre fast aller modernen PCs und prägte die Spezifikationen für Computerdesign weltweit über Jahrzehnte.</systemDescription>
+      <systemHardwareType>Computer</systemHardwareType>
+    </variables>
+  </language>
+
+  <language name="it_IT">
+    <variables>
+      <systemDescription>L'IBM Personal Computer (modello 5150) è l'iconico microcomputer lanciato nel 1981 che ha stabilito lo standard de facto "IBM PC compatibile". Sviluppato in Florida, la sua architettura aperta ha permesso l'uso di hardware e software di terze parti, inaugurando l'era moderna dell'informatica personale. È considerato l'antenato diretto della maggior parte dei computer moderni grazie alla sua adozione di massa e al suo design tecnico influente.</systemDescription>
+      <systemHardwareType>Computer</systemHardwareType>
+    </variables>
+  </language>
+
+  <language name="ja_JP">
+    <variables>
+      <systemDescription>IBMパーソナルコンピュータ（モデル5150）は、1981年に発売され「IBM PC互換機」というデファクトスタンダードを確立した伝説的なマイクロコンピュータです。そのオープンアーキテクチャは他社製のハードウェアやソフトウェアの参入を可能にし、現代の個人向けコンピューティング時代の幕開けとなりました。その圧倒的な普及と設計は、今日のほぼすべてのパソコンの直接の祖先であると見なされています。</systemDescription>
+      <systemHardwareType>コンピューター</systemHardwareType>
+    </variables>
+  </language>
+
+  <language name="pt_BR">
+    <variables>
+      <systemDescription>O IBM Personal Computer (modelo 5150) é o icônico microcomputador lançado em 1981 que estabeleceu o padrão "IBM PC compatível". Desenvolvido na Flórida, sua arquitetura aberta permitiu o uso de hardware e software de terceiros, lançando a era moderna da computação pessoal. É considerado o ancestral direto da maioria dos computadores modernos devido à sua adoção global e ao seu design técnico que influenciou toda a indústria.</systemDescription>
+      <systemHardwareType>Computador</systemHardwareType>
+    </variables>
+  </language>
+
+  <language name="zh_CN">
+    <variables>
+      <systemDescription>IBM 个人电脑（5150 型）于 1981 年发布，是确立了“IBM PC 兼容”事实标准的标志性微机。其开放式架构允许第三方硬件和软件接入，从而开启了现代个人计算时代。由于其广泛的普及和深远的设计影响，它被认为是大多数现代计算机的直系祖先，为个人电脑平台的全球统治地位奠定了基础。</systemDescription>
+      <systemHardwareType>计算机</systemHardwareType>
+    </variables>
+  </language>
+</theme>

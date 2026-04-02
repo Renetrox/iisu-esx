@@ -1,0 +1,21 @@
+<theme>
+    <variables>
+        <systemName>MSX</systemName>
+        <systemDescription>MSX was a standardized home computer architecture, popular in Japan and parts of Europe/South America. It was the birthplace of legendary franchises like Metal Gear and Bomberman.</systemDescription>
+        <systemManufacturer>Various</systemManufacturer>
+        <systemReleaseYear>1983</systemReleaseYear>
+        <systemHardwareType>Computer</systemHardwareType>
+        <systemColor>2a2a2a</systemColor>
+    </variables>
+    <language name="ar_SA"><variables><systemDescription>كان MSX بنية معيارية لأجهزة الكمبيوتر المنزلية، وهو المكان الذي ولدت فيه سلسلة Metal Gear.</systemDescription><systemHardwareType>كمبيوتر</systemHardwareType></variables></language>
+    <language name="de_DE"><variables><systemDescription>MSX war eine standardisierte Heimcomputer-Architektur, auf der Serien wie Metal Gear ihren Anfang nahmen.</systemDescription><systemHardwareType>Computer</systemHardwareType></variables></language>
+    <language name="es_ES"><variables><systemDescription>MSX fue un estándar de ordenadores domésticos muy popular en Japón y Europa. Fue la cuna de sagas como Metal Gear y Bomberman.</systemDescription><systemHardwareType>Ordenador</systemHardwareType></variables></language>
+    <language name="fr_FR"><variables><systemDescription>L'MSX était une architecture informatique standardisée, célèbre pour avoir accueilli les débuts de Metal Gear.</systemDescription><systemHardwareType>Ordinateur</systemHardwareType></variables></language>
+    <language name="it_IT"><variables><systemDescription>MSX era un'architettura standard per home computer, famosa per aver dato i natali a Metal Gear.</systemDescription><systemHardwareType>Computer</systemHardwareType></variables></language>
+    <language name="ja_JP"><variables><systemDescription>MSXは、各社共通規格のパソコンとして誕生しました。『メタルギア』等の名作シリーズが生まれたプラットフォームです。</systemDescription><systemHardwareType>コンピュータ</systemHardwareType></variables></language>
+    <language name="pl_PL"><variables><systemDescription>MSX to ustandaryzowana architektura komputerów domowych, miejsce narodzin serii Metal Gear.</systemDescription><systemHardwareType>Komputer</systemHardwareType></variables></language>
+    <language name="pt_BR"><variables><systemDescription>O MSX foi um padrão de computadores domésticos popular no Japão e Brasil, onde nasceu a série Metal Gear.</systemDescription><systemHardwareType>Computador</systemHardwareType></variables></language>
+    <language name="ru_RU"><variables><systemDescription>MSX — это стандартизированная архитектура домашних компьютеров, где родились такие серии, как Metal Gear.</systemDescription><systemHardwareType>Компьютер</systemHardwareType></variables></language>
+    <language name="sv_SE"><variables><systemDescription>MSX var en standardiserad hemdatorarkitektur där legendariska spel som Metal Gear föddes.</systemDescription><systemHardwareType>Dator</systemHardwareType></variables></language>
+    <language name="zh_CN"><variables><systemDescription>MSX 是一种标准化的家用电脑架构，也是《合金装备》和《炸弹人》等传奇系列的诞生地。</systemDescription><systemHardwareType>计算机</systemHardwareType></variables></language>
+</theme>

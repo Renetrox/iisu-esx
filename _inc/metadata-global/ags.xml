@@ -1,0 +1,32 @@
+<theme>
+    <variables>
+        <systemName>Adventure Game Studio</systemName>
+        <systemDescription>Adventure Game Studio (AGS) is an open-source development tool primarily used to create graphic adventure games. It combines an integrated development environment (IDE) with a C-based scripting language to manage game logic and assets, making it a popular choice for indie developers in the point-and-click genre.</systemDescription>
+        <systemManufacturer>Chris Jones</systemManufacturer>
+        <systemReleaseYear>1997</systemReleaseYear>
+        <systemReleaseDate>1997</systemReleaseDate>
+        <systemReleaseDateFormated>1997</systemReleaseDateFormated>
+        <systemHardwareType>Engine</systemHardwareType>
+        <systemCoverSize>1-1</systemCoverSize>
+        <systemCoverSizeType>square</systemCoverSizeType>
+        <systemColor>4B73E0</systemColor>
+        <systemColorPalette1>9FCFFF</systemColorPalette1>
+        <systemColorPalette2>63B6FF</systemColorPalette2>
+        <systemColorPalette3>2C90FF</systemColorPalette3>
+        <systemColorPalette4>9FCFFF</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA"><variables><systemDescription>أداة تطوير مفتوحة المصدر تستخدم لإنشاء ألعاب المغامرات الرسومية، تجمع بين بيئة تطوير متكاملة ولغة برمجة نصية تعتمد على C.</systemDescription><systemHardwareType>محرك</systemHardwareType></variables></language>
+    <language name="de_DE"><variables><systemDescription>AGS ist ein Open-Source-Entwicklungstool für Grafik-Adventures, das eine IDE mit einer C-basierten Skriptsprache kombiniert.</systemDescription><systemHardwareType>Engine</systemHardwareType></variables></language>
+    <language name="es_ES"><variables><systemDescription>Adventure Game Studio es una herramienta de código abierto para crear aventuras gráficas, combinando un IDE con un lenguaje de scripts basado en C.</systemDescription><systemHardwareType>Motor</systemHardwareType></variables></language>
+    <language name="fr_FR"><variables><systemDescription>Outil de développement open-source pour jeux d'aventure graphique, combinant un IDE et un langage de script basé sur C.</systemDescription><systemHardwareType>Moteur</systemHardwareType></variables></language>
+    <language name="it_IT"><variables><systemDescription>Strumento di sviluppo open-source per avventure grafiche che combina un IDE con un linguaggio di scripting basato su C.</systemDescription><systemHardwareType>Motore</systemHardwareType></variables></language>
+    <language name="ja_JP"><variables><systemDescription>グラフィックアドベンチャーゲーム作成用のオープンソース開発ツール。IDEとCベースのスクリプト言語を統合しています。</systemDescription><systemHardwareType>エンジン</systemHardwareType></variables></language>
+    <language name="ko_KR"><variables><systemDescription>그래픽 어드벤처 게임 제작을 위한 오픈 소스 개발 도구로, IDE와 C 기반 스크립트 언어를 결합한 시스템입니다.</systemDescription><systemHardwareType>엔진</systemHardwareType></variables></language>
+    <language name="nl_NL"><variables><systemDescription>Open-source ontwikkeltool voor grafische avonturenspellen, die een IDE combineert met een op C gebaseerde scripttaal.</systemDescription><systemHardwareType>Engine</systemHardwareType></variables></language>
+    <language name="pl_PL"><variables><systemDescription>Otwarte narzędzie programistyczne do tworzenia przygodówek graficznych, łączące IDE z językiem skryptowym opartym na C.</systemDescription><systemHardwareType>Silnik</systemHardwareType></variables></language>
+    <language name="pt_BR"><variables><systemDescription>Ferramenta de código aberto para criar aventuras gráficas, combinando um IDE com uma linguagem de script baseada em C.</systemDescription><systemHardwareType>Motor</systemHardwareType></variables></language>
+    <language name="ru_RU"><variables><systemDescription>Инструмент с открытым кодом для создания графических приключений, сочетающий IDE и скриптовый язык на базе C.</systemDescription><systemHardwareType>Движок</systemHardwareType></variables></language>
+    <language name="sv_SE"><variables><systemDescription>Utvecklingsverktyg med öppen källkod för grafiska äventyrsspel som kombinerar en IDE med ett C-baserat skriptspråk.</systemDescription><systemHardwareType>Motor</systemHardwareType></variables></language>
+    <language name="zh_CN"><variables><systemDescription>用于创建图形冒险游戏的开源开发工具，结合了 IDE 和基于 C 语言的脚本系统。</systemDescription><systemHardwareType>引擎</systemHardwareType></variables></language>
+</theme>

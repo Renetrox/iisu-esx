@@ -1,0 +1,28 @@
+<theme>
+    <variables>
+        <systemName>Sega NAOMI</systemName>
+        <systemDescription>The Sega NAOMI (New Advertising Off-the-shelf Microwave Inc.) was released in 1998 as the successor to the Sega Model 3. Sharing the same architecture as the Dreamcast but with more memory, it became one of the most successful arcade boards ever, hosting titles like Marvel vs. Capcom 2 and Crazy Taxi.</systemDescription>
+        <systemManufacturer>Sega</systemManufacturer>
+        <systemReleaseYear>1998</systemReleaseYear>
+        <systemHardwareType>Arcade</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>f1f1f1</systemColor>
+        <systemColorPalette1>e30613</systemColorPalette1>
+        <systemColorPalette2>ffffff</systemColorPalette2>
+        <systemColorPalette3>333333</systemColorPalette3>
+        <systemColorPalette4>0055a5</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA"><variables><systemDescription>لوحة ألعاب أركيد ناجحة جداً من سيجا، تشترك في نفس معمارية Dreamcast ولكن بذاكرة أكبر.</systemDescription></variables></language>
+    <language name="de_DE"><variables><systemDescription>Die NAOMI-Platine basierte auf der Dreamcast-Technologie und dominierte die Arcades um die Jahrtausendwende.</systemDescription></variables></language>
+    <language name="es_ES"><variables><systemDescription>Placa arcade de Sega basada en la arquitectura de Dreamcast pero con mayor potencia. Fue el hogar de grandes éxitos como Crazy Taxi y Marvel vs. Capcom 2.</systemDescription><systemHardwareType>Arcade</systemHardwareType></variables></language>
+    <language name="fr_FR"><variables><systemDescription>Système d'arcade surpuissant basé sur la Dreamcast, la NAOMI a accueilli les plus grands succès de Sega en salle.</systemDescription></variables></language>
+    <language name="it_IT"><variables><systemDescription>Scheda arcade di enorme successo basata sull'architettura Dreamcast, famosa per titoli come Crazy Taxi.</systemDescription></variables></language>
+    <language name="ja_JP"><variables><systemDescription>ドリームキャストの互換基板として登場した業務用システム。数多くの格闘ゲームや名作を生み出しました。</systemDescription></variables></language>
+    <language name="pl_PL"><variables><systemDescription>System arcade firmy Sega oparty na architekturze Dreamcast, znany z niesamowitych gier 3D.</systemDescription></variables></language>
+    <language name="pt_BR"><variables><systemDescription>A placa de arcade da Sega que compartilhava a tecnologia do Dreamcast, sendo uma das mais bem-sucedidas da história.</systemDescription></variables></language>
+    <language name="ru_RU"><variables><systemDescription>Аркадная система от Sega, основанная на архитектуре Dreamcast, ставшая одной из самых популярных в мире.</systemDescription></variables></language>
+    <language name="sv_SE"><variables><systemDescription>Segas framgångsrika arkadplattform som delade arkitektur med Dreamcast men med mer minne.</systemDescription></variables></language>
+    <language name="zh_CN"><variables><systemDescription>世嘉于 1998 年发布的街机基板，基于 Dreamcast 架构，是历史上最成功的街机系统之一。</systemDescription></variables></language>
+</theme>

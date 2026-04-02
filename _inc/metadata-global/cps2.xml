@@ -1,0 +1,28 @@
+<theme>
+    <variables>
+        <systemName>Capcom Play System 2</systemName>
+        <systemDescription>Introduced in 1993, the CPS-2 provided enhanced 2D graphics and superior audio via the QSound system. It featured a distinct two-part cartridge system to prevent piracy and hosted a vast library of iconic fighting games, including the Street Fighter Alpha series, Darkstalkers, and various Marvel crossover titles.</systemDescription>
+        <systemManufacturer>Capcom</systemManufacturer>
+        <systemReleaseYear>1993</systemReleaseYear>
+        <systemHardwareType>Arcade</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>0071bc</systemColor>
+        <systemColorPalette1>0071bc</systemColorPalette1>
+        <systemColorPalette2>fbb03b</systemColorPalette2>
+        <systemColorPalette3>ffffff</systemColorPalette3>
+        <systemColorPalette4>2b2b2b</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA"><variables><systemDescription>نظام CPS-2 قدم رسومات 2D محسنة ونظام صوت QSound، واشتهر بسلسلة Street Fighter Alpha.</systemDescription></variables></language>
+    <language name="de_DE"><variables><systemDescription>Das CPS-2 bot verbesserte 2D-Grafik und QSound, berühmt für die Street Fighter Alpha-Serie und Darkstalkers.</systemDescription></variables></language>
+    <language name="es_ES"><variables><systemDescription>Estrenada en 1993, la CPS-2 mejoró los gráficos y el sonido (QSound). Es célebre por sagas como Street Fighter Alpha y los crossovers de Marvel.</systemDescription><systemHardwareType>Arcade</systemHardwareType></variables></language>
+    <language name="fr_FR"><variables><systemDescription>Le CPS-2 a sublimé la 2D avec le système QSound, accueillant des franchises cultes comme Darkstalkers et Marvel vs. Capcom.</systemDescription></variables></language>
+    <language name="it_IT"><variables><systemDescription>Lanciata nel 1993, la scheda CPS-2 ha portato il 2D alla perfezione con il sistema audio QSound.</systemDescription></variables></language>
+    <language name="ja_JP"><variables><systemDescription>1993年に導入されたCPS-2は、QSoundによる音響と美麗な2Dグラフィックで格闘ゲーム黄金期を支えました。</systemDescription></variables></language>
+    <language name="pl_PL"><variables><systemDescription>System arcade oferujący ulepszoną grafikę 2D i dźwięk QSound, dom serii Street Fighter Alpha.</systemDescription></variables></language>
+    <language name="pt_BR"><variables><systemDescription>A placa CPS-2 elevou o patamar dos jogos 2D com o sistema QSound e os crossovers da Marvel.</systemDescription></variables></language>
+    <language name="ru_RU"><variables><systemDescription>Система CPS-2 улучшила 2D-графику и звук (QSound), став домом для серии Street Fighter Alpha.</systemDescription></variables></language>
+    <language name="sv_SE"><variables><systemDescription>CPS-2 erbjöd förbättrad 2D-grafik och QSound-ljud, känd för Street Fighter Alpha och Marvel-spelen.</systemDescription></variables></language>
+    <language name="zh_CN"><variables><systemDescription>1993 年推出的 CPS-2 基板提升了 2D 画面并引入了 QSound 音效，以《少年街霸》系列闻名。</systemDescription></variables></language>
+</theme>

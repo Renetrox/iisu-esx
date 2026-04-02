@@ -1,0 +1,28 @@
+<theme>
+    <variables>
+        <systemName>PC Engine SuperGrafx</systemName>
+        <systemDescription>The SuperGrafx, released in 1989, was an enhanced version of the PC Engine designed to compete with the upcoming 16-bit generation. Featuring twice the video RAM and two graphics processors, it was capable of impressive arcade-quality performance. However, due to its high price and a limited library of only five dedicated games, it became a rare collector's item.</systemDescription>
+        <systemManufacturer>NEC / Hudson Soft</systemManufacturer>
+        <systemReleaseYear>1989</systemReleaseYear>
+        <systemHardwareType>Console</systemHardwareType>
+        <systemCoverSize>1-1</systemCoverSize>
+        <systemCoverSizeType>square</systemCoverSizeType>
+        <systemColor>333333</systemColor>
+        <systemColorPalette1>0055a5</systemColorPalette1>
+        <systemColorPalette2>ffffff</systemColorPalette2>
+        <systemColorPalette3>a5a5a5</systemColorPalette3>
+        <systemColorPalette4>000000</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA"><variables><systemDescription>نسخة مطورة من PC Engine مع معالجين للرسومات، لكنها لم تحقق نجاحاً كبيراً بسبب قلة ألعابها.</systemDescription></variables></language>
+    <language name="de_DE"><variables><systemDescription>Eine verbesserte PC Engine mit doppelter Grafikleistung, die jedoch nur wenige exklusive Spiele erhielt.</systemDescription></variables></language>
+    <language name="es_ES"><variables><systemDescription>Evolución de la PC Engine con el doble de potencia gráfica. Fue un intento fallido de competir con la 16 bits, resultando en solo 5 juegos exclusivos.</systemDescription><systemHardwareType>Consola</systemHardwareType></variables></language>
+    <language name="fr_FR"><variables><systemDescription>Version boostée de la PC Engine avec deux processeurs graphiques, aujourd'hui très prisée des collectionneurs.</systemDescription></variables></language>
+    <language name="it_IT"><variables><systemDescription>Potenziamento della PC Engine con doppia RAM video, un sistema raro e ambizioso ma con pochissimi titoli dedicati.</systemDescription></variables></language>
+    <language name="ja_JP"><variables><systemDescription>PCエンジンのグラフィック性能を大幅に強化した上位互換機。専用ソフトは5本のみという希少なハードです。</systemDescription></variables></language>
+    <language name="pl_PL"><variables><systemDescription>Ulepszona wersja PC Engine z dwoma procesorami graficznymi, obecnie rzadki przedmiot kolekcjonerski.</systemDescription></variables></language>
+    <language name="pt_BR"><variables><systemDescription>Uma versão aprimorada do PC Engine com o dobro de poder gráfico, que teve uma vida curta e poucos jogos exclusivos.</systemDescription></variables></language>
+    <language name="ru_RU"><variables><systemDescription>Улучшенная версия PC Engine с удвоенной видеопамятью, ставшая редким артефактом из-за малого количества игр.</systemDescription></variables></language>
+    <language name="sv_SE"><variables><systemDescription>En uppgraderad version av PC Engine med två grafikprocessorer, känd för sin sällsynthet och samlarvärde.</systemDescription></variables></language>
+    <language name="zh_CN"><variables><systemDescription>1989 年发布的 PC Engine 增强版，拥有双图形处理器，虽然性能强劲但因价格高昂且独占游戏极少而失败。</systemDescription></variables></language>
+</theme>

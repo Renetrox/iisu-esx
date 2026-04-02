@@ -1,0 +1,30 @@
+<theme>
+    <variables>
+        <systemName>Atari ST</systemName>
+        <systemDescription>The Atari ST, released in 1985, was a high-end personal computer that became a major rival to the Commodore Amiga. It was the first home computer with a built-in MIDI port, making it the industry standard for professional music production. Its sharp high-resolution monochrome mode also made it a favorite for desktop publishing and computer-aided design.</systemDescription>
+        <systemManufacturer>Atari</systemManufacturer>
+        <systemReleaseYear>1985</systemReleaseYear>
+        <systemReleaseDate>1985-06-01</systemReleaseDate>
+        <systemReleaseDateFormated>June 1, 1985</systemReleaseDateFormated>
+        <systemHardwareType>Computer</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>b7b7b7</systemColor>
+        <systemColorPalette1>5c5c5c</systemColorPalette1>
+        <systemColorPalette2>b7b7b7</systemColorPalette2>
+        <systemColorPalette3>3a3a3a</systemColorPalette3>
+        <systemColorPalette4>f5f5f5</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA"><variables><systemDescription>جهاز كمبيوتر شخصي متطور اشتهر بمنافذ MIDI المدمجة، مما جعله الخيار الأول لمنتجي الموسيقى المحترفين.</systemDescription></variables></language>
+    <language name="de_DE"><variables><systemDescription>Der Atari ST war ein leistungsstarker Computer, der dank integrierter MIDI-Ports zum Standard in der Musikproduktion wurde.</systemDescription></variables></language>
+    <language name="es_ES"><variables><systemDescription>El Atari ST fue un ordenador fundamental de los 80, famoso por sus puertos MIDI integrados que lo convirtieron en el estándar para músicos profesionales.</systemDescription><systemHardwareType>Ordenador</systemHardwareType></variables></language>
+    <language name="fr_FR"><variables><systemDescription>Ordinateur personnel majeur des années 80, l'Atari ST était la référence pour la MAO grâce à ses prises MIDI intégrées.</systemDescription></variables></language>
+    <language name="it_IT"><variables><systemDescription>Atari ST è stato un home computer di successo, celebre per le porte MIDI integrate e utilizzato in molti studi musicali.</systemDescription></variables></language>
+    <language name="ja_JP"><variables><systemDescription>MIDIポートを標準装備し、音楽制作やDTPの分野で圧倒的な支持を得た16ビットパソコンです。</systemDescription></variables></language>
+    <language name="pl_PL"><variables><systemDescription>Atari ST był popularnym komputerem domowym, cenionym przez muzyków za wbudowane złącza MIDI.</systemDescription></variables></language>
+    <language name="pt_BR"><variables><systemDescription>O Atari ST foi um computador de alto desempenho, favorito dos músicos devido às suas portas MIDI integradas.</systemDescription></variables></language>
+    <language name="ru_RU"><variables><systemDescription>Atari ST — популярный компьютер, ставший стандартом в музыкальной индустрии благодаря встроенным MIDI-портам.</systemDescription></variables></language>
+    <language name="sv_SE"><variables><systemDescription>Atari ST var en kraftfull hemdator och en favorit bland musiker tack vare sina inbyggda MIDI-portar.</systemDescription></variables></language>
+    <language name="zh_CN"><variables><systemDescription>Atari ST 于 1985 年发布，因内置 MIDI 接口而成为专业音乐制作领域的行业标准。</systemDescription></variables></language>
+</theme>

@@ -1,0 +1,28 @@
+<theme>
+    <variables>
+        <systemName>Sega CD / Mega-CD</systemName>
+        <systemDescription>The Sega CD, released in 1991, was a CD-ROM peripheral for the Mega Drive/Genesis. It offered significantly larger storage capacity, allowing for Full Motion Video (FMV) games, orchestral soundtracks, and enhanced sprite rotation. Iconic titles like Sonic CD and Snatcher showcased the unique potential of the format.</systemDescription>
+        <systemManufacturer>Sega</systemManufacturer>
+        <systemReleaseYear>1991</systemReleaseYear>
+        <systemHardwareType>Console / Add-on</systemHardwareType>
+        <systemCoverSize>1-1</systemCoverSize>
+        <systemCoverSizeType>square</systemCoverSizeType>
+        <systemColor>2a2a2a</systemColor>
+        <systemColorPalette1>0055a5</systemColorPalette1>
+        <systemColorPalette2>ffffff</systemColorPalette2>
+        <systemColorPalette3>333333</systemColorPalette3>
+        <systemColorPalette4>ed1c24</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA"><variables><systemDescription>ملحق الأقراص المضغوطة لجهاز Mega Drive، قدم ألعاب الفيديو الحركية الكاملة وموسيقى أوركسترالية.</systemDescription></variables></language>
+    <language name="de_DE"><variables><systemDescription>Das Mega-CD erweiterte das Mega Drive um die CD-Technologie für FMV-Szenen und besseren Sound.</systemDescription></variables></language>
+    <language name="es_ES"><variables><systemDescription>Periférico de CD-ROM para la Mega Drive. Permitió juegos con vídeo real (FMV) y bandas sonoras épicas como en Sonic CD.</systemDescription><systemHardwareType>Consola / Periférico</systemHardwareType></variables></language>
+    <language name="fr_FR"><variables><systemDescription>Extension CD de la Mega Drive, offrant des jeux avec cinématiques filmées et une qualité sonore CD.</systemDescription></variables></language>
+    <language name="it_IT"><variables><systemDescription>Periferica per Mega Drive che ha introdotto il formato CD, portando filmati in FMV e audio di alta qualità.</systemDescription></variables></language>
+    <language name="ja_JP"><variables><systemDescription>1991年に登場したメガドライブ用CD-ROMドライブ。大容量と回転・拡大・縮小機能を活かした演出が売りでした。</systemDescription></variables></language>
+    <language name="pl_PL"><variables><systemDescription>Przystawka CD do konsoli Mega Drive, wprowadzająca technologię FMV i wysokiej jakości dźwięk.</systemDescription></variables></language>
+    <language name="pt_BR"><variables><systemDescription>O periférico de CD para o Mega Drive que permitiu jogos com vídeo real e áudio orquestrado de alta qualidade.</systemDescription></variables></language>
+    <language name="ru_RU"><variables><systemDescription>CD-привод для Mega Drive, открывший возможности для использования видео и качественного музыкального сопровождения.</systemDescription></variables></language>
+    <language name="sv_SE"><variables><systemDescription>Ett CD-tillbehör till Mega Drive som möjliggjorde filmsekvenser och överlägsen ljudkvalitet.</systemDescription></variables></language>
+    <language name="zh_CN"><variables><systemDescription>世嘉为 Mega Drive 开发的光驱配件，使游戏能够使用全动态视频（FMV）和高质量音频。</systemDescription></variables></language>
+</theme>

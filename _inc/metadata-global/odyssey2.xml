@@ -1,0 +1,21 @@
+<theme>
+    <variables>
+        <systemName>Odyssey 2</systemName>
+        <systemDescription>Released in 1978, the Magnavox Odyssey 2 (Videopac in Europe) was a pioneer, featuring a built-in keyboard for educational games and a unique library of titles that blended board games with video games.</systemDescription>
+        <systemManufacturer>Magnavox</systemManufacturer>
+        <systemReleaseYear>1978</systemReleaseYear>
+        <systemHardwareType>Console</systemHardwareType>
+        <systemColor>b2b2b2</systemColor>
+    </variables>
+    <language name="ar_SA"><variables><systemDescription>أطلق أوديسي 2 في عام 1978، وكان رائدًا بوجود لوحة مفاتيح مدمجة للألعاب التعليمية.</systemDescription><systemHardwareType>وحدة التحكم</systemHardwareType></variables></language>
+    <language name="de_DE"><variables><systemDescription>Die 1978 erschienene Odyssey 2 (Videopac) war ein Pionier mit eingebauter Tastatur für Lernspiele.</systemDescription><systemHardwareType>Konsole</systemHardwareType></variables></language>
+    <language name="es_ES"><variables><systemDescription>Lanzada en 1978, la Odyssey 2 (Videopac en Europa) fue pionera por incluir un teclado integrado para juegos educativos y de estrategia.</systemDescription><systemHardwareType>Consola</systemHardwareType></variables></language>
+    <language name="fr_FR"><variables><systemDescription>Sortie en 1978, l'Odyssey 2 (Videopac) était pionnière avec son clavier intégré pour les jeux éducatifs.</systemDescription><systemHardwareType>Console</systemHardwareType></variables></language>
+    <language name="it_IT"><variables><systemDescription>Rilasciata nel 1978, l'Odyssey 2 (Videopac) fu pioniera con la sua tastiera integrata per giochi educativi.</systemDescription><systemHardwareType>Console</systemHardwareType></variables></language>
+    <language name="ja_JP"><variables><systemDescription>1978年に発売されたオデッセイ2は、キーボードを標準装備し、学習用ソフトも充実していた先駆的なハードです。</systemDescription><systemHardwareType>コンソール</systemHardwareType></variables></language>
+    <language name="pl_PL"><variables><systemDescription>Odyssey 2 z 1978 roku było pionierem, wyposażonym w klawiaturę do gier edukacyjnych.</systemDescription><systemHardwareType>Konsola</systemHardwareType></variables></language>
+    <language name="pt_BR"><variables><systemDescription>Lançado em 1978, o Odyssey 2 foi pioneiro ao incluir um teclado integrado para jogos educativos.</systemDescription><systemHardwareType>Console</systemHardwareType></variables></language>
+    <language name="ru_RU"><variables><systemDescription>Odyssey 2, выпущенная в 1978 году, была новатором с клавиатурой для обучающих игр.</systemDescription><systemHardwareType>Консоль</systemHardwareType></variables></language>
+    <language name="sv_SE"><variables><systemDescription>Odyssey 2 lanserades 1978 och var en pionjär med inbyggt tangentbord för utbildningsspel.</systemDescription><systemHardwareType>Konsol</systemHardwareType></variables></language>
+    <language name="zh_CN"><variables><systemDescription>Odyssey 2 于 1978 年发布，是一款带有内置键盘的先驱主机，主打教育和策略游戏。</systemDescription><systemHardwareType>控制台</systemHardwareType></variables></language>
+</theme>

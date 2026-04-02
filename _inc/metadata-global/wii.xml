@@ -1,0 +1,28 @@
+<theme>
+    <variables>
+        <systemName>Nintendo Wii</systemName>
+        <systemDescription>The Wii, released in 2006, revolutionized gaming by introducing motion controls with the Wii Remote. It targeted a broad audience, becoming a cultural phenomenon with games like Wii Sports. Its accessibility and innovative gameplay made it one of the best-selling consoles in history.</systemDescription>
+        <systemManufacturer>Nintendo</systemManufacturer>
+        <systemReleaseYear>2006</systemReleaseYear>
+        <systemHardwareType>Console</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>ffffff</systemColor>
+        <systemColorPalette1>00adef</systemColorPalette1>
+        <systemColorPalette2>ffffff</systemColorPalette2>
+        <systemColorPalette3>333333</systemColorPalette3>
+        <systemColorPalette4>999999</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA"><variables><systemDescription>الجهاز الذي أحدث ثورة في التحكم بالحركة، مما جعله ظاهرة عالمية جذبت الجميع.</systemDescription></variables></language>
+    <language name="de_DE"><variables><systemDescription>Die Wii revolutionierte das Gaming durch Bewegungssteuerung und wurde mit Wii Sports zum Welthit.</systemDescription></variables></language>
+    <language name="es_ES"><variables><systemDescription>Lanzada en 2006, la Wii revolucionó la industria con sus controles de movimiento. Un éxito masivo que atrajo a jugadores de todas las edades.</systemDescription><systemHardwareType>Consola</systemHardwareType></variables></language>
+    <language name="fr_FR"><variables><systemDescription>La console qui a introduit la détection de mouvement, rendant le jeu vidéo accessible à tous.</systemDescription></variables></language>
+    <language name="it_IT"><variables><systemDescription>Sistema che ha ridefinito il concetto di interattività grazie ai sensori di movimento del Wiimote.</systemDescription></variables></language>
+    <language name="ja_JP"><variables><systemDescription>Wiiリモコンによる直感的な操作を導入し、家族全員で遊べる新しいスタイルを確立しました。</systemDescription></variables></language>
+    <language name="pl_PL"><variables><systemDescription>Konsola, która spopularyzowała sterowanie ruchem i stała się globalnym fenomenem kulturowym.</systemDescription></variables></language>
+    <language name="pt_BR"><variables><systemDescription>O Wii revolucionou a indústria com seus controles de movimento, tornando-se um sucesso mundial.</systemDescription></variables></language>
+    <language name="ru_RU"><variables><systemDescription>Консоль, представившая управление движениями и ставшая настоящим семейным хитом.</systemDescription></variables></language>
+    <language name="sv_SE"><variables><systemDescription>Wii introducerade rörelsestyrning och öppnade upp spelvärlden för en bredare publik.</systemDescription></variables></language>
+    <language name="zh_CN"><variables><systemDescription>2006 年发布，通过运动感应手柄彻底改变了游戏方式，让全家人都能享受游戏乐趣。</systemDescription></variables></language>
+</theme>

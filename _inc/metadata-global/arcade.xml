@@ -1,0 +1,60 @@
+<theme>
+    <variables>
+        <systemName>Arcade</systemName>
+        <systemDescription>Arcade systems represent coin-operated machines found in public venues, defining the golden age of video games. They delivered cutting-edge graphics and sound that often surpassed home consoles of their time.</systemDescription>
+        <systemManufacturer>Various</systemManufacturer>
+        <systemReleaseYear>1971</systemReleaseYear>
+        <systemHardwareType>Arcade</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>ffcc00</systemColor>
+        <systemColorPalette1>ffcc00</systemColorPalette1>
+        <systemColorPalette2>ff0000</systemColorPalette2>
+        <systemColorPalette3>000000</systemColorPalette3>
+        <systemColorPalette4>ffffff</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+
+    <language name="es_ES">
+        <variables>
+            <systemDescription>Las recreativas marcaron la edad de oro del videojuego con máquinas de alto rendimiento en locales públicos.</systemDescription>
+            <systemHardwareType>Arcade</systemHardwareType>
+        </variables>
+    </language>
+
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>Les jeux d’arcade ont défini l’âge d’or du jeu vidéo avec des machines très performantes.</systemDescription>
+        </variables>
+    </language>
+
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Arcade-Automaten prägten das goldene Zeitalter der Videospiele.</systemDescription>
+        </variables>
+    </language>
+
+    <language name="it_IT">
+        <variables>
+            <systemDescription>Le macchine arcade hanno rappresentato l’epoca d’oro dei videogiochi.</systemDescription>
+        </variables>
+    </language>
+
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>Os arcades definiram a era de ouro dos videogames com máquinas poderosas.</systemDescription>
+        </variables>
+    </language>
+
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>Аркадные автоматы определили золотую эпоху видеоигр.</systemDescription>
+        </variables>
+    </language>
+
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>ゲームセンターで稼働した業務用ゲーム機は、ビデオゲーム黄金期を象徴します。</systemDescription>
+        </variables>
+    </language>
+</theme>

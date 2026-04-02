@@ -1,0 +1,30 @@
+<theme>
+    <variables>
+        <systemName>PlayStation 3</systemName>
+        <systemDescription>The PlayStation 3 (PS3) introduced the powerful Cell Broadband Engine and Blu-ray technology to gaming. Released in 2006, it evolved from a rocky start into a powerhouse of cinematic storytelling with titles like The Last of Us and Uncharted. It also marked Sony's major expansion into online services with the PlayStation Network.</systemDescription>
+        <systemManufacturer>Sony</systemManufacturer>
+        <systemReleaseYear>2006</systemReleaseYear>
+        <systemReleaseDate>2006-11-11</systemReleaseDate>
+        <systemReleaseDateFormated>November 11, 2006</systemReleaseDateFormated>
+        <systemHardwareType>Console</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>000000</systemColor>
+        <systemColorPalette1>000000</systemColorPalette1>
+        <systemColorPalette2>ffffff</systemColorPalette2>
+        <systemColorPalette3>a5a5a5</systemColorPalette3>
+        <systemColorPalette4>003087</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA"><variables><systemDescription>قدمت PS3 تقنية Blu-ray ومعالج Cell القوي، وأصبحت مقراً لألعاب القصص السينمائية العميقة.</systemDescription></variables></language>
+    <language name="de_DE"><variables><systemDescription>Die PS3 führte Blu-ray ein und ist die Heimat von grafischen Meisterwerken wie The Last of Us.</systemDescription></variables></language>
+    <language name="es_ES"><variables><systemDescription>La PS3 introdujo el Blu-ray y el procesador Cell. Tras un inicio difícil, destacó por sus exclusivas cinematográficas como Uncharted y The Last of Us.</systemDescription><systemHardwareType>Consola</systemHardwareType></variables></language>
+    <language name="fr_FR"><variables><systemDescription>La PlayStation 3 a apporté la haute définition, le Blu-ray et des exclusivités narratives époustouflantes.</systemDescription></variables></language>
+    <language name="it_IT"><variables><systemDescription>Dotata del processore Cell e lettore Blu-ray, la PS3 ha elevato il livello della narrazione nei videogiochi.</systemDescription></variables></language>
+    <language name="ja_JP"><variables><systemDescription>2006年に発売。Blu-ray Discの採用と高い演算能力により、映画のようなグラフィック表現を実現しました。</systemDescription></variables></language>
+    <language name="pl_PL"><variables><systemDescription>Konsola, która wprowadziła standard Blu-ray i wysoką rozdzielczość HD do świata PlayStation.</systemDescription></variables></language>
+    <language name="pt_BR"><variables><systemDescription>O PS3 introduziu o Blu-ray e o poder do processador Cell, sendo a casa de The Last of Us e Uncharted.</systemDescription></variables></language>
+    <language name="ru_RU"><variables><systemDescription>Консоль, внедрившая Blu-ray и подарившая миру глубокие сюжетные игры уровня Uncharted и The Last of Us.</systemDescription></variables></language>
+    <language name="sv_SE"><variables><systemDescription>PlayStation 3 introducerade Blu-ray och banbrytande HD-grafik med spel som The Last of Us.</systemDescription></variables></language>
+    <language name="zh_CN"><variables><systemDescription>PlayStation 3 引入了强大的 Cell 处理器和蓝光技术，是《神秘海域》和《最后生还者》等电影化大作的摇篮。</systemDescription></variables></language>
+</theme>
