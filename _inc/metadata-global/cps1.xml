@@ -1,0 +1,28 @@
+<theme>
+    <variables>
+        <systemName>Capcom Play System 1</systemName>
+        <systemDescription>The Capcom Play System 1 (CPS-1) is a legendary arcade system board released in 1988. It revolutionized the industry by standardizing arcade hardware, allowing Capcom to produce a string of massive hits including Street Fighter II, Final Fight, and Ghouls 'n Ghosts with unparalleled sprite detail and animation.</systemDescription>
+        <systemManufacturer>Capcom</systemManufacturer>
+        <systemReleaseYear>1988</systemReleaseYear>
+        <systemHardwareType>Arcade</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>ed1c24</systemColor>
+        <systemColorPalette1>ed1c24</systemColorPalette1>
+        <systemColorPalette2>ffffff</systemColorPalette2>
+        <systemColorPalette3>ffde17</systemColorPalette3>
+        <systemColorPalette4>000000</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA"><variables><systemDescription>لوحة ألعاب الأركيد الأسطورية من كابكوم التي أطلقت ألعاباً تاريخية مثل Street Fighter II.</systemDescription></variables></language>
+    <language name="de_DE"><variables><systemDescription>Das CPS-1 war Capcoms bahnbrechendes Arcade-System, das Klassiker wie Street Fighter II und Final Fight hervorbrachte.</systemDescription></variables></language>
+    <language name="es_ES"><variables><systemDescription>Lanzada en 1988, la CPS-1 fue la mítica placa arcade de Capcom que albergó Street Fighter II y Final Fight, definiendo los recreativos de los 90.</systemDescription><systemHardwareType>Arcade</systemHardwareType></variables></language>
+    <language name="fr_FR"><variables><systemDescription>Le système d'arcade CPS-1 de Capcom a révolutionné le milieu avec des titres comme Street Fighter II et Ghouls 'n Ghosts.</systemDescription></variables></language>
+    <language name="it_IT"><variables><systemDescription>La scheda arcade CPS-1 di Capcom ha definito un'epoca con successi mondiali come Street Fighter II e Final Fight.</systemDescription></variables></language>
+    <language name="ja_JP"><variables><systemDescription>1988年に登場したカプコンのアーケード基板。ストリートファイターIIなどの歴史的名作を数多く排出しました。</systemDescription></variables></language>
+    <language name="pl_PL"><variables><systemDescription>Legendarny system arcade firmy Capcom, który zapoczątkował erę takich hitów jak Street Fighter II.</systemDescription></variables></language>
+    <language name="pt_BR"><variables><systemDescription>Placa de arcade lendária da Capcom que revolucionou o mercado com Street Fighter II e Final Fight.</systemDescription></variables></language>
+    <language name="ru_RU"><variables><systemDescription>Легендарная аркадная система от Capcom, на которой вышли такие хиты, как Street Fighter II и Final Fight.</systemDescription></variables></language>
+    <language name="sv_SE"><variables><systemDescription>Capcoms legendariska arkadsystem som gav oss klassiker som Street Fighter II och Ghouls 'n Ghosts.</systemDescription></variables></language>
+    <language name="zh_CN"><variables><systemDescription>卡普空于 1988 年发布的经典街机基板，诞生了《街头霸王 II》和《快打旋风》等里程碑作品。</systemDescription></variables></language>
+</theme>

@@ -1,0 +1,60 @@
+<theme>
+    <variables>
+        <systemName>Capcom Play System</systemName>
+        <systemDescription>The Capcom Play System powered many of Capcom’s most iconic arcade titles during the 1990s. It became synonymous with fighting games and polished arcade experiences.</systemDescription>
+        <systemManufacturer>Capcom</systemManufacturer>
+        <systemReleaseYear>1988</systemReleaseYear>
+        <systemHardwareType>Arcade</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>0047ab</systemColor>
+        <systemColorPalette1>0047ab</systemColorPalette1>
+        <systemColorPalette2>ffcc00</systemColorPalette2>
+        <systemColorPalette3>ffffff</systemColorPalette3>
+        <systemColorPalette4>000000</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+
+    <language name="es_ES">
+        <variables>
+            <systemDescription>Capcom Play System impulsó muchos de los arcades más icónicos de los años 90.</systemDescription>
+            <systemHardwareType>Arcade</systemHardwareType>
+        </variables>
+    </language>
+
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>Le Capcom Play System a propulsé de nombreux classiques de l’arcade.</systemDescription>
+        </variables>
+    </language>
+
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Capcom Play System war die Basis vieler legendärer Arcade-Spiele.</systemDescription>
+        </variables>
+    </language>
+
+    <language name="it_IT">
+        <variables>
+            <systemDescription>Il Capcom Play System ha dato vita a numerosi classici arcade.</systemDescription>
+        </variables>
+    </language>
+
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>O Capcom Play System sustentou grandes sucessos dos arcades.</systemDescription>
+        </variables>
+    </language>
+
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>Capcom Play System стал основой культовых аркадных игр.</systemDescription>
+        </variables>
+    </language>
+
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>1990年代の名作アーケード作品を支えたカプコンの基板です。</systemDescription>
+        </variables>
+    </language>
+</theme>

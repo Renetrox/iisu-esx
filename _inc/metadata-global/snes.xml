@@ -1,0 +1,27 @@
+<theme>
+    <variables>
+        <systemName>Super Nintendo Entertainment System</systemName>
+        <systemDescription>The Super Nintendo is a 16-bit home console released in 1990. It delivered advanced graphics and sound, becoming one of the most celebrated consoles of its generation. Many of its games remain influential today.</systemDescription>
+        <systemManufacturer>Nintendo</systemManufacturer>
+        <systemReleaseYear>1990</systemReleaseYear>
+        <systemReleaseDate>1990-11-21</systemReleaseDate>
+        <systemReleaseDateFormated>November 21, 1990</systemReleaseDateFormated>
+        <systemHardwareType>Console</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>bfbfbf</systemColor>
+        <systemColorPalette1>bfbfbf</systemColorPalette1>
+        <systemColorPalette2>7a2cff</systemColorPalette2>
+        <systemColorPalette3>ff3c3c</systemColorPalette3>
+        <systemColorPalette4>ffffff</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+
+    <language name="es_ES"><variables><systemDescription>La SNES, lanzada en 1990, ofreció gráficos y sonido de 16 bits avanzados y se convirtió en una de las consolas más queridas de su generación.</systemDescription><systemHardwareType>Consola</systemHardwareType></variables></language>
+    <language name="fr_FR"><variables><systemDescription>La SNES, sortie en 1990, proposait des graphismes et un son 16 bits de grande qualité, devenant une console emblématique.</systemDescription></variables></language>
+    <language name="de_DE"><variables><systemDescription>Die SNES erschien 1990 und bot fortschrittliche 16-Bit-Grafik und Sound. Sie zählt zu den beliebtesten Konsolen ihrer Zeit.</systemDescription></variables></language>
+    <language name="it_IT"><variables><systemDescription>Il SNES, lanciato nel 1990, portò grafica e audio a 16 bit, diventando una delle console più amate.</systemDescription></variables></language>
+    <language name="pt_BR"><variables><systemDescription>O SNES, lançado em 1990, apresentou gráficos e áudio 16 bits avançados e marcou uma geração.</systemDescription></variables></language>
+    <language name="ru_RU"><variables><systemDescription>SNES, выпущенная в 1990 году, предложила передовую 16-битную графику и звук, став культовой консолью.</systemDescription></variables></language>
+    <language name="ja_JP"><variables><systemDescription>1990年発売。高品質な16ビット映像と音楽で、多くの名作を生み出した名機です。</systemDescription></variables></language>
+</theme>

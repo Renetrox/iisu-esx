@@ -1,0 +1,27 @@
+<theme>
+    <variables>
+        <systemName>Ports</systemName>
+        <systemDescription>The Ports collection features games originally developed for one platform that have been adapted to run natively on other hardware. This includes PC-to-handheld conversions, open-source engine recreations (like OpenLara or Ship of Harkinian), and classic titles compiled to run directly on modern retro-gaming operating systems.</systemDescription>
+        <systemManufacturer>Various</systemManufacturer>
+        <systemHardwareType>Software</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>4a4a4a</systemColor>
+        <systemColorPalette1>4a4a4a</systemColorPalette1>
+        <systemColorPalette2>ffffff</systemColorPalette2>
+        <systemColorPalette3>222222</systemColorPalette3>
+        <systemColorPalette4>999999</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA"><variables><systemDescription>مجموعة من الألعاب المنقولة من منصات أخرى لتعمل بشكل أصلي على الأنظمة الحديثة.</systemDescription></variables></language>
+    <language name="de_DE"><variables><systemDescription>Eine Sammlung von Spielen, die für andere Plattformen entwickelt und für neue Hardware angepasst wurden.</systemDescription></variables></language>
+    <language name="es_ES"><variables><systemDescription>Colección de juegos adaptados nativamente desde otras plataformas, incluyendo motores de código abierto y versiones optimizadas para sistemas modernos.</systemDescription><systemHardwareType>Software</systemHardwareType></variables></language>
+    <language name="fr_FR"><variables><systemDescription>Jeux adaptés pour fonctionner nativement sur de nouveaux systèmes, incluant les moteurs open-source.</systemDescription></variables></language>
+    <language name="it_IT"><variables><systemDescription>Giochi convertiti da altre piattaforme per girare nativamente su sistemi di retro-gaming moderni.</systemDescription></variables></language>
+    <language name="ja_JP"><variables><systemDescription>他のプラットフォームから移植されたゲームのコレクション。オープンソースエンジン版なども含みます。</systemDescription></variables></language>
+    <language name="pl_PL"><variables><systemDescription>Kolekcja gier przeportowanych z innych systemów, działających natywnie na współczesnym sprzęcie.</systemDescription></variables></language>
+    <language name="pt_BR"><variables><systemDescription>Jogos adaptados de outras plataformas para rodar nativamente, incluindo recriações de engines famosas.</systemDescription></variables></language>
+    <language name="ru_RU"><variables><systemDescription>Игры, портированные с других платформ для нативной работы на современных ретро-системах.</systemDescription></variables></language>
+    <language name="sv_SE"><variables><systemDescription>Spel som anpassats från andra plattformar för att köras nativt på modern hårdvara.</systemDescription></variables></language>
+    <language name="zh_CN"><variables><systemDescription>从其他平台移植并原生运行的游戏集合，包括各类开源引擎重制版作品。</systemDescription></variables></language>
+</theme>

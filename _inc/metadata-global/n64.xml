@@ -1,0 +1,27 @@
+<theme>
+    <variables>
+        <systemName>Nintendo 64</systemName>
+        <systemDescription>The Nintendo 64 is a home console released in 1996. It pioneered analog control and brought fully 3D gameplay to the mainstream. Its first-party titles became landmarks of the era.</systemDescription>
+        <systemManufacturer>Nintendo</systemManufacturer>
+        <systemReleaseYear>1996</systemReleaseYear>
+        <systemReleaseDate>1996-06-23</systemReleaseDate>
+        <systemReleaseDateFormated>June 23, 1996</systemReleaseDateFormated>
+        <systemHardwareType>Console</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>2b2b2b</systemColor>
+        <systemColorPalette1>2b2b2b</systemColorPalette1>
+        <systemColorPalette2>00aa44</systemColorPalette2>
+        <systemColorPalette3>0044aa</systemColorPalette3>
+        <systemColorPalette4>ffffff</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+
+    <language name="es_ES"><variables><systemDescription>Nintendo 64, lanzada en 1996, introdujo el control analógico y popularizó el juego en 3D. Sus títulos propios marcaron una época.</systemDescription><systemHardwareType>Consola</systemHardwareType></variables></language>
+    <language name="fr_FR"><variables><systemDescription>La Nintendo 64, sortie en 1996, a popularisé le jeu en 3D et le stick analogique.</systemDescription></variables></language>
+    <language name="de_DE"><variables><systemDescription>Die Nintendo 64 erschien 1996 und brachte Analogsteuerung und 3D-Gaming in den Mainstream.</systemDescription></variables></language>
+    <language name="it_IT"><variables><systemDescription>Il Nintendo 64, lanciato nel 1996, introdusse il controllo analogico e il gioco 3D su larga scala.</systemDescription></variables></language>
+    <language name="pt_BR"><variables><systemDescription>O Nintendo 64, lançado em 1996, trouxe o controle analógico e consolidou os jogos em 3D.</systemDescription></variables></language>
+    <language name="ru_RU"><variables><systemDescription>Nintendo 64, выпущенная в 1996 году, внедрила аналоговый контроллер и сделала 3D-игры массовыми.</systemDescription></variables></language>
+    <language name="ja_JP"><variables><systemDescription>1996年発売。アナログスティックと本格的な3Dゲームを普及させた革新的なハードです。</systemDescription></variables></language>
+</theme>

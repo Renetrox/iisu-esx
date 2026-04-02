@@ -1,0 +1,28 @@
+<theme>
+    <variables>
+        <systemName>Neo Geo Pocket</systemName>
+        <systemDescription>The Neo Geo Pocket, released by SNK in 1998, was a powerful monochrome handheld designed to compete with the Game Boy. Although it was quickly succeeded by the color version, it gained a reputation for its excellent clicky joystick and high-quality fighting game ports from SNK's arcade hits.</systemDescription>
+        <systemManufacturer>SNK</systemManufacturer>
+        <systemReleaseYear>1998</systemReleaseYear>
+        <systemHardwareType>Portable</systemHardwareType>
+        <systemCoverSize>1-1</systemCoverSize>
+        <systemCoverSizeType>square</systemCoverSizeType>
+        <systemColor>333333</systemColor>
+        <systemColorPalette1>ed1c24</systemColorPalette1>
+        <systemColorPalette2>ffffff</systemColorPalette2>
+        <systemColorPalette3>666666</systemColorPalette3>
+        <systemColorPalette4>000000</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA"><variables><systemDescription>جهاز SNK المحمول، اشتهر بعصا التحكم الدقيقة وإصدارات ألعاب القتال الممتازة.</systemDescription></variables></language>
+    <language name="de_DE"><variables><systemDescription>SNKs erster Handheld von 1998, bekannt für seinen präzisen Joystick und erstklassige Kampfspiele.</systemDescription></variables></language>
+    <language name="es_ES"><variables><systemDescription>Lanzada en 1998, la Neo Geo Pocket destacó por su joystick de micro-switches y excelentes versiones de juegos de lucha de SNK.</systemDescription><systemHardwareType>Portátil</systemHardwareType></variables></language>
+    <language name="fr_FR"><variables><systemDescription>La première console portable de SNK, célèbre pour son stick analogique cliquable et ses jeux de combat.</systemDescription></variables></language>
+    <language name="it_IT"><variables><systemDescription>Console portatile SNK nota per l'eccezionale precisione del suo joystick e i porting di King of Fighters.</systemDescription></variables></language>
+    <language name="ja_JP"><variables><systemDescription>1998年に発売されたSNK初の携帯機。メカニカルな操作感のジョイスティックが格ゲーファンに支持されました。</systemDescription></variables></language>
+    <language name="pl_PL"><variables><systemDescription>Przenośna konsola SNK, ceniona za precyzyjny joystick i świetne gry walki.</systemDescription></variables></language>
+    <language name="pt_BR"><variables><systemDescription>O primeiro portátil da SNK, famoso pelo seu joystick preciso e conversões de jogos de luta de arcade.</systemDescription></variables></language>
+    <language name="ru_RU"><variables><systemDescription>Портативная консоль от SNK, известная своим удобным джойстиком и отличными файтингами.</systemDescription></variables></language>
+    <language name="sv_SE"><variables><systemDescription>SNK:s bärbara konsol med en unik klickande joystick och fantastiska fightingspel.</systemDescription></variables></language>
+    <language name="zh_CN"><variables><systemDescription>SNK 于 1998 年推出的掌机，以其微动摇杆手感和高质量的格斗游戏移植版闻名。</systemDescription></variables></language>
+</theme>

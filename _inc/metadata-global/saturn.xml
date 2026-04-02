@@ -1,0 +1,27 @@
+<theme>
+    <variables>
+        <systemName>Sega Saturn</systemName>
+        <systemDescription>The Sega Saturn, released in 1994, was a 32-bit home console designed with powerful 2D capabilities and complex dual-CPU architecture. While challenging to program, it delivered arcade-accurate experiences and remains highly regarded for its exclusive titles.</systemDescription>
+        <systemManufacturer>Sega</systemManufacturer>
+        <systemReleaseYear>1994</systemReleaseYear>
+        <systemReleaseDate>1994-11-22</systemReleaseDate>
+        <systemReleaseDateFormated>November 22, 1994</systemReleaseDateFormated>
+        <systemHardwareType>Console</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>e5e5e5</systemSystemColor>
+        <systemColorPalette1>e5e5e5</systemColorPalette1>
+        <systemColorPalette2>0055a4</systemColorPalette2>
+        <systemColorPalette3>000000</systemColorPalette3>
+        <systemColorPalette4>ffffff</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+
+    <language name="es_ES"><variables><systemDescription>La Sega Saturn (1994) fue una consola de 32 bits con gran potencia en 2D y una arquitectura compleja de doble CPU. Destacó por sus conversiones arcade y exclusivos muy valorados.</systemDescription><systemHardwareType>Consola</systemHardwareType></variables></language>
+    <language name="fr_FR"><variables><systemDescription>La Sega Saturn (1994) était une console 32 bits axée sur la 2D, connue pour ses conversions arcade fidèles.</systemDescription></variables></language>
+    <language name="de_DE"><variables><systemDescription>Die Sega Saturn (1994) war eine 32-Bit-Konsole mit starker 2D-Leistung und komplexer Architektur.</systemDescription></variables></language>
+    <language name="it_IT"><variables><systemDescription>La Sega Saturn (1994) offriva eccellenti capacità 2D e conversioni arcade di alto livello.</systemDescription></variables></language>
+    <language name="pt_BR"><variables><systemDescription>O Sega Saturn (1994) destacou-se pelo desempenho em 2D e por ports arcade precisos.</systemDescription></variables></language>
+    <language name="ru_RU"><variables><systemDescription>Sega Saturn (1994) — 32-битная консоль с мощной 2D-графикой и аркадными портами.</systemDescription></variables></language>
+    <language name="ja_JP"><variables><systemDescription>1994年発売。2D性能に優れ、アーケード移植で高い評価を受けたセガの家庭用ゲーム機です。</systemDescription></variables></language>
+</theme>

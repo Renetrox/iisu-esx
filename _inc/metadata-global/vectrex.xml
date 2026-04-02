@@ -1,0 +1,21 @@
+<theme>
+    <variables>
+        <systemName>Vectrex</systemName>
+        <systemDescription>The Vectrex is unique for being the only home console to use a vector monitor. This provided crisp, glowing line graphics that set it apart from all other pixel-based systems of its time.</systemDescription>
+        <systemManufacturer>General Consumer Electronics</systemManufacturer>
+        <systemReleaseYear>1982</systemReleaseYear>
+        <systemHardwareType>Console</systemHardwareType>
+        <systemColor>2a2a2a</systemColor>
+    </variables>
+    <language name="ar_SA"><variables><systemDescription>جهاز Vectrex فريد من نوعه كونه وحدة التحكم المنزلية الوحيدة التي تستخدم شاشة متجهة.</systemDescription><systemHardwareType>وحدة التحكم</systemHardwareType></variables></language>
+    <language name="de_DE"><variables><systemDescription>Vectrex ist die einzige Heimkonsole mit einem eingebauten Vektormonitor für gestochen scharfe Liniengrafik.</systemDescription><systemHardwareType>Konsole</systemHardwareType></variables></language>
+    <language name="es_ES"><variables><systemDescription>La Vectrex es única por ser la única consola con un monitor de vectores integrado, ofreciendo gráficos de líneas nítidas y brillantes.</systemDescription><systemHardwareType>Consola</systemHardwareType></variables></language>
+    <language name="fr_FR"><variables><systemDescription>La Vectrex est unique en son genre, étant la seule console de salon à intégrer son propre moniteur vectoriel.</systemDescription><systemHardwareType>Console</systemHardwareType></variables></language>
+    <language name="it_IT"><variables><systemDescription>Il Vectrex è unico per essere l'unica console domestica a utilizzare un monitor vettoriale integrato.</systemDescription><systemHardwareType>Console</systemHardwareType></variables></language>
+    <language name="ja_JP"><variables><systemDescription>光速船（Vectrex）は、ベクタースキャン方式のモニターを内蔵した唯一の家庭用ゲーム機で、独特の鋭いライン描画が特徴です。</systemDescription><systemHardwareType>コンソール</systemHardwareType></variables></language>
+    <language name="pl_PL"><variables><systemDescription>Vectrex to jedyna konsola domowa wykorzystująca monitor wektorowy, co zapewniało unikalną grafikę.</systemDescription><systemHardwareType>Konsola</systemHardwareType></variables></language>
+    <language name="pt_BR"><variables><systemDescription>O Vectrex é único por ser o único console doméstico a usar um monitor vetorial integrado.</systemDescription><systemHardwareType>Console</systemHardwareType></variables></language>
+    <language name="ru_RU"><variables><systemDescription>Vectrex уникальна тем, что это единственная домашняя консоль с векторным монитором.</systemDescription><systemHardwareType>Консоль</systemHardwareType></variables></language>
+    <language name="sv_SE"><variables><systemDescription>Vectrex är unik som den enda hemkonsolen som använder en vektorskärm för skarp linjegrafik.</systemDescription><systemHardwareType>Konsol</systemHardwareType></variables></language>
+    <language name="zh_CN"><variables><systemDescription>Vectrex 是一台非常独特的主机，它是唯一采用矢量监视器的家用机，提供清晰的线条图形。</systemDescription><systemHardwareType>控制台</systemHardwareType></variables></language>
+</theme>

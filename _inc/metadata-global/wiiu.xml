@@ -1,0 +1,28 @@
+<theme>
+    <variables>
+        <systemName>Nintendo Wii U</systemName>
+        <systemDescription>Released in 2012, the Wii U was Nintendo's first HD console, featuring a unique GamePad with a built-in touchscreen. This allowed for asymmetric multiplayer and the ability to play games away from the TV. It was the home of early hits like Splatoon and Mario Kart 8.</systemDescription>
+        <systemManufacturer>Nintendo</systemManufacturer>
+        <systemReleaseYear>2012</systemReleaseYear>
+        <systemHardwareType>Console</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>00adef</systemColor>
+        <systemColorPalette1>00adef</systemColorPalette1>
+        <systemColorPalette2>ffffff</systemColorPalette2>
+        <systemColorPalette3>333333</systemColorPalette3>
+        <systemColorPalette4>999999</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA"><variables><systemDescription>أول جهاز عالي الدقة من نينتندو، تميز بوحدة تحكم تحتوي على شاشة تعمل باللمس.</systemDescription></variables></language>
+    <language name="de_DE"><variables><systemDescription>Die Wii U war Nintendos erste HD-Konsole und führte das GamePad mit Touchscreen ein.</systemDescription></variables></language>
+    <language name="es_ES"><variables><systemDescription>La primera consola en HD de Nintendo, destacada por su GamePad con pantalla táctil integrada que permitía juego asimétrico.</systemDescription><systemHardwareType>Consola</systemHardwareType></variables></language>
+    <language name="fr_FR"><variables><systemDescription>La première console HD de Nintendo, introduisant un GamePad avec écran tactile pour de nouvelles expériences.</systemDescription></variables></language>
+    <language name="it_IT"><variables><systemDescription>Prima console HD di Nintendo, dotata di un controller innovativo con schermo integrato.</systemDescription></variables></language>
+    <language name="ja_JP"><variables><systemDescription>液晶ディスプレイを搭載したGamePadにより、テレビと手元の2画面で遊ぶスタイルを提案しました。</systemDescription></variables></language>
+    <language name="pl_PL"><variables><systemDescription>Pierwsza konsola HD od Nintendo, z unikalnym kontrolerem wyposażonym w ekran dotykowy.</systemDescription></variables></language>
+    <language name="pt_BR"><variables><systemDescription>O primeiro console HD da Nintendo, com um GamePad inovador com tela sensível ao toque.</systemDescription></variables></language>
+    <language name="ru_RU"><variables><systemDescription>Первая HD-консоль Nintendo, главной особенностью которой стал контроллер с сенсорным экраном.</systemDescription></variables></language>
+    <language name="sv_SE"><variables><systemDescription>Nintendos första HD-konsol med en handkontroll som hade inbyggd pekskärm.</systemDescription></variables></language>
+    <language name="zh_CN"><variables><systemDescription>任天堂首款支持高清输出的主机，其手柄配备了触摸屏，支持独特的多屏互动游戏体验。</systemDescription></variables></language>
+</theme>

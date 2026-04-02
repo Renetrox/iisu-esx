@@ -1,0 +1,21 @@
+<theme>
+    <variables>
+        <systemName>PC Engine</systemName>
+        <systemDescription>The PC Engine, a collaboration between Hudson Soft and NEC, was a 16-bit beast in a tiny box. It was the first console to have an optional CD-ROM attachment and was a huge hit in Japan.</systemDescription>
+        <systemManufacturer>NEC</systemManufacturer>
+        <systemReleaseYear>1987</systemReleaseYear>
+        <systemHardwareType>Console</systemHardwareType>
+        <systemColor>df0024</systemColor>
+    </variables>
+    <language name="ar_SA"><variables><systemDescription>كان PC Engine ثمرة تعاون بين Hudson Soft وNEC، وكان أول جهاز يستخدم ملحق CD-ROM.</systemDescription><systemHardwareType>وحدة التحكم</systemHardwareType></variables></language>
+    <language name="de_DE"><variables><systemDescription>Die PC Engine war eine extrem kompakte 16-Bit-Konsole und die erste mit einem CD-ROM-Laufwerk.</systemDescription><systemHardwareType>Konsole</systemHardwareType></variables></language>
+    <language name="es_ES"><variables><systemDescription>La PC Engine fue fruto de la colaboración entre Hudson y NEC. Una consola de 8 bits con potencia de 16, pionera en usar el formato CD-ROM.</systemDescription><systemHardwareType>Consola</systemHardwareType></variables></language>
+    <language name="fr_FR"><variables><systemDescription>La PC Engine était une console 16 bits très compacte, la première à proposer un lecteur CD-ROM.</systemDescription><systemHardwareType>Console</systemHardwareType></variables></language>
+    <language name="it_IT"><variables><systemDescription>Il PC Engine era una piccola ma potente console a 16 bit, la prima ad avere un'espansione CD-ROM.</systemDescription><systemHardwareType>Console</systemHardwareType></variables></language>
+    <language name="ja_JP"><variables><systemDescription>ハドソンとNECが共同開発したPCエンジンは、小型ながら強力な性能を持ち、世界初のCD-ROMにも対応した名機です。</systemDescription><systemHardwareType>コンソール</systemHardwareType></variables></language>
+    <language name="pl_PL"><variables><systemDescription>PC Engine to 16-bitowa moc w małej obudowie, pierwsza konsola z opcjonalnym napędem CD-ROM.</systemDescription><systemHardwareType>Konsola</systemHardwareType></variables></language>
+    <language name="pt_BR"><variables><systemDescription>O PC Engine foi uma potência de 16 bits em uma caixa minúscula, sendo o primeiro a ter um acessório de CD-ROM.</systemDescription><systemHardwareType>Console</systemHardwareType></variables></language>
+    <language name="ru_RU"><variables><systemDescription>PC Engine — это 16-битная мощь в крошечном корпусе, первая консоль с поддержкой CD-ROM.</systemDescription><systemHardwareType>Консоль</systemHardwareType></variables></language>
+    <language name="sv_SE"><variables><systemDescription>PC Engine var en kraftfull 16-bitarskonsol i ett litet format, först med CD-ROM-tillbehör.</systemDescription><systemHardwareType>Konsol</systemHardwareType></variables></language>
+    <language name="zh_CN"><variables><systemDescription>PC Engine 是 Hudson 和 NEC 合作开发的强大主机，也是全球首款提供 CD-ROM 附件的游戏机。</systemDescription><systemHardwareType>控制台</systemHardwareType></variables></language>
+</theme>

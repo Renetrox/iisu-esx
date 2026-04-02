@@ -1,0 +1,73 @@
+<theme>
+    <variables>
+        <systemName>Amiga</systemName>
+        <systemDescription>The Amiga is a family of personal computers introduced by Commodore in 1985. Known for its revolutionary graphical and audio capabilities, it far surpassed the 8-bit systems of its time. Models like the Amiga 500 became iconic home computers in Europe, defining a generation of gaming and multimedia creativity before Commodore's decline in 1994.</systemDescription>
+        <systemManufacturer>Commodore</systemManufacturer>
+        <systemReleaseYear>1985</systemReleaseYear>
+        <systemReleaseDate>1985-07-23</systemReleaseDate>
+        <systemReleaseDateFormated>July 23, 1985</systemReleaseDateFormated>
+        <systemHardwareType>Computer</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>336ec8</systemColor>
+        <systemColorPalette1>477AB1</systemColorPalette1>
+        <systemColorPalette2>82B030</systemColorPalette2>
+        <systemColorPalette3>F3EB08</systemColorPalette3>
+        <systemColorPalette4>E85629</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>أميغا هي عائلة من أجهزة الكمبيوتر الشخصية التي طرحتها شركة كومودور في عام 1985. اشتهرت بقدراتها الثورية في الرسوميات والصوت، وتفوقت بمراحل على أنظمة 8 بت في ذلك الوقت. أصبحت موديلات مثل أميغا 500 أجهزة منزلية أيقونية في أوروبا، حيث حددت جيلاً من الألعاب والإبداع قبل تراجع الشركة في عام 1994.</systemDescription>
+            <systemHardwareType>كمبيوتر</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Der Amiga ist eine Computerfamilie, die 1985 von Commodore eingeführt wurde. Bekannt für revolutionäre Grafik- und Audiofunktionen, übertraf er die 8-Bit-Systeme seiner Zeit bei weitem. Modelle wie der Amiga 500 wurden in Europa zu ikonischen Heimcomputern und prägten eine Generation von Gaming und Multimedia bis zum Niedergang von Commodore im Jahr 1994.</systemDescription>
+            <systemHardwareType>Computer</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>Amiga es una familia de ordenadores personales introducida por Commodore en 1985. Destacó por sus revolucionarias capacidades gráficas y de sonido, superando ampliamente a los sistemas de 8 bits de la época. Modelos como el Amiga 500 se convirtieron en iconos del hogar en Europa, definiendo una era de juegos y creatividad multimedia hasta 1994.</systemDescription>
+            <systemHardwareType>Ordenador</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>L'Amiga est une famille d'ordinateurs personnels lancée par Commodore en 1985. Réputé pour ses capacités graphiques et sonores révolutionnaires, il surpassait largement les systèmes 8 bits de l'époque. Des modèles comme l'Amiga 500 sont devenus des icônes en Europe, marquant une génération de jeux et de création multimédia jusqu'en 1994.</systemDescription>
+            <systemHardwareType>Ordinateur</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>L'Amiga è una famiglia di personal computer introdotta da Commodore nel 1985. Noto per le rivoluzionarie capacità grafiche e sonore, superava di gran lunga i sistemi a 8 bit dell'epoca. Modelli come l'Amiga 500 divennero icone in Europa, definendo una generazione di gaming e creatività multimediale fino al declino nel 1994.</systemDescription>
+            <systemHardwareType>Computer</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>Amigaは、1985年にコモドール社が発売した個人用コンピュータのシリーズです。当時としては画期的なグラフィックとサウンド機能を備え、従来の8ビット機を遥かに凌駕しました。Amiga 500などのモデルは欧州で爆発的に普及し、1994年のコモドール社倒産まで、ゲームとマルチメディアの黄金時代を築きました。</systemDescription>
+            <systemHardwareType>コンピュータ</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>Amiga to rodzina komputerów osobistych wprowadzona przez Commodore w 1985 roku. Znana z rewolucyjnych możliwości graficznych i dźwiękowych, znacznie przewyższała systemy 8-bitowe. Modele takie jak Amiga 500 stały się ikonami w Europie, definiując erę gier i kreatywności multimedialnej aż do upadku firmy w 1994 roku.</systemDescription>
+            <systemHardwareType>Komputer</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>Amiga — семейство персональных компьютеров, выпущенных компанией Commodore в 1985 году. Благодаря революционным графическим и звуковым возможностям, они значительно превосходили 8-битные системы того времени. Модели вроде Amiga 500 стали культовыми в Европе, определив развитие игр и мультимедиа до упадка компании в 1994 году.</systemDescription>
+            <systemHardwareType>Компьютер</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>Amiga 是 Commodore 于 1985 年推出的个人电脑系列。它以革命性的图形和音频能力著称，远超当时的 8 位系统。Amiga 500 等型号在欧洲成为标志性的家用电脑，在 1994 年 Commodore 衰落之前，定义了一整代游戏和多媒体创作体验。</systemDescription>
+            <systemHardwareType>计算机</systemHardwareType>
+        </variables>
+    </language>
+</theme>

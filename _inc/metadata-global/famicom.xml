@@ -1,0 +1,21 @@
+<theme>
+    <variables>
+        <systemName>Family Computer</systemName>
+        <systemDescription>The Family Computer (Famicom) was released by Nintendo in 1983. It revolutionized the industry in Japan and served as the hardware basis for the NES, featuring iconic series like Mario, Zelda, and Metroid.</systemDescription>
+        <systemManufacturer>Nintendo</systemManufacturer>
+        <systemReleaseYear>1983</systemReleaseYear>
+        <systemHardwareType>Console</systemHardwareType>
+        <systemColor>b31b1d</systemColor>
+    </variables>
+    <language name="ar_SA"><variables><systemDescription>تم إصدار فاميلي كمبيوتر (Famicom) بواسطة نينتندو في عام 1983، وأحدث ثورة في صناعة الألعاب في اليابان.</systemDescription><systemHardwareType>وحدة التحكم</systemHardwareType></variables></language>
+    <language name="de_DE"><variables><systemDescription>Das Family Computer (Famicom) wurde 1983 von Nintendo veröffentlicht und revolutionierte die Branche in Japan.</systemDescription><systemHardwareType>Konsole</systemHardwareType></variables></language>
+    <language name="es_ES"><variables><systemDescription>La Family Computer (Famicom) fue lanzada por Nintendo en 1983. Revolucionó la industria en Japón y fue la base de la NES.</systemDescription><systemHardwareType>Consola</systemHardwareType></variables></language>
+    <language name="fr_FR"><variables><systemDescription>La Family Computer (Famicom) a été lancée par Nintendo en 1983, révolutionnant l'industrie du jeu au Japon.</systemDescription><systemHardwareType>Console</systemHardwareType></variables></language>
+    <language name="it_IT"><variables><systemDescription>Il Family Computer (Famicom) fu lanciato da Nintendo nel 1983, rivoluzionando l'industria videoludica in Giappone.</systemDescription><systemHardwareType>Console</systemHardwareType></variables></language>
+    <language name="ja_JP"><variables><systemDescription>1983年に任天堂から発売されたファミリーコンピュータは、日本のゲーム産業に革命を起こした伝説の名機です。</systemDescription><systemHardwareType>コンソール</systemHardwareType></variables></language>
+    <language name="pl_PL"><variables><systemDescription>Family Computer (Famicom) został wydany przez Nintendo w 1983 roku, rewolucjonizując rynek gier w Japonii.</systemDescription><systemHardwareType>Konsola</systemHardwareType></variables></language>
+    <language name="pt_BR"><variables><systemDescription>O Family Computer (Famicom) foi lançado pela Nintendo em 1983 e revolucionou a indústria de jogos no Japão.</systemDescription><systemHardwareType>Console</systemHardwareType></variables></language>
+    <language name="ru_RU"><variables><systemDescription>Family Computer (Famicom) была выпущена Nintendo в 1983 году, совершив революцию в индустрии игр Японии.</systemDescription><systemHardwareType>Консоль</systemHardwareType></variables></language>
+    <language name="sv_SE"><variables><systemDescription>Family Computer (Famicom) lanserades av Nintendo 1983 och revolutionerade spelindustrin i Japan.</systemDescription><systemHardwareType>Konsol</systemHardwareType></variables></language>
+    <language name="zh_CN"><variables><systemDescription>Family Computer (Famicom) 由任天堂于 1983 年发布，彻底改变了日本的电子游戏产业。</systemDescription><systemHardwareType>控制台</systemHardwareType></variables></language>
+</theme>

@@ -1,0 +1,21 @@
+<theme>
+    <variables>
+        <systemName>WonderSwan Color</systemName>
+        <systemDescription>The WonderSwan Color improved upon the original with a color screen and backward compatibility. It became famous for hosting exclusive RPGs like Final Fantasy.</systemDescription>
+        <systemManufacturer>Bandai</systemManufacturer>
+        <systemReleaseYear>2000</systemReleaseYear>
+        <systemHardwareType>Handheld</systemHardwareType>
+        <systemColor>ffffff</systemColor>
+    </variables>
+    <language name="ar_SA"><variables><systemDescription>قام WonderSwan Color بتحسين الجهاز الأصلي بشاشة ملونة وتوافق كامل مع الألعاب السابقة.</systemDescription><systemHardwareType>محمول</systemHardwareType></variables></language>
+    <language name="de_DE"><variables><systemDescription>Der WonderSwan Color bot einen Farbbildschirm und war für exklusive RPGs wie Final Fantasy bekannt.</systemDescription><systemHardwareType>Handheld</systemHardwareType></variables></language>
+    <language name="es_ES"><variables><systemDescription>La WonderSwan Color mejoró la original con pantalla a color y compatibilidad total. Fue el hogar de versiones exclusivas de Final Fantasy.</systemDescription><systemHardwareType>Portátil</systemHardwareType></variables></language>
+    <language name="fr_FR"><variables><systemDescription>La WonderSwan Color a amélioré l'originale avec un écran couleur et une compatibilité ascendante.</systemDescription><systemHardwareType>Portable</systemHardwareType></variables></language>
+    <language name="it_IT"><variables><systemDescription>Il WonderSwan Color migliorò l'originale con uno schermo a colori e la retrocompatibilità.</systemDescription><systemHardwareType>Portatile</systemHardwareType></variables></language>
+    <language name="ja_JP"><variables><systemDescription>ワンダースワンカラーは液晶をカラー化し、FFシリーズ等の大作が発売され人気を博しました。</systemDescription><systemHardwareType>携帯機</systemHardwareType></variables></language>
+    <language name="pl_PL"><variables><systemDescription>WonderSwan Color ulepszył oryginał o kolorowy ekran, stając się domem dla gier takich jak Final Fantasy.</systemDescription><systemHardwareType>Przenośna</systemHardwareType></variables></language>
+    <language name="pt_BR"><variables><systemDescription>O WonderSwan Color melhorou o original com uma tela colorida, sendo famoso por RPGs como Final Fantasy.</systemDescription><systemHardwareType>Portátil</systemHardwareType></variables></language>
+    <language name="ru_RU"><variables><systemDescription>WonderSwan Color получила цветной экран и стала известна благодаря эксклюзивным RPG, таким как Final Fantasy.</systemDescription><systemHardwareType>Портативная</systemHardwareType></variables></language>
+    <language name="sv_SE"><variables><systemDescription>WonderSwan Color förbättrade originalet med färgskärm och bakåtkompatibilitet.</systemDescription><systemHardwareType>Bärbar</systemHardwareType></variables></language>
+    <language name="zh_CN"><variables><systemDescription>WonderSwan Color 在原版基础上增加了彩色屏幕，并以拥有《最终幻想》等独占 RPG 闻名。</systemDescription><systemHardwareType>掌机</systemHardwareType></variables></language>
+</theme>

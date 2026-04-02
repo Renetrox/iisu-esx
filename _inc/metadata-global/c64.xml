@@ -1,0 +1,30 @@
+<theme>
+    <variables>
+        <systemName>Commodore 64</systemName>
+        <systemDescription>The Commodore 64, introduced in 1982, is the highest-selling single computer model of all time. It featured a powerful SID sound chip and specialized graphics hardware that made it a dominant force in the 8-bit home gaming market, boasting a massive library of over 10,000 commercial titles.</systemDescription>
+        <systemManufacturer>Commodore</systemManufacturer>
+        <systemReleaseYear>1982</systemReleaseYear>
+        <systemReleaseDate>1982-08-01</systemReleaseDate>
+        <systemReleaseDateFormated>August 1, 1982</systemReleaseDateFormated>
+        <systemHardwareType>Computer</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>6b5344</systemColor>
+        <systemColorPalette1>8d7a6b</systemColorPalette1>
+        <systemColorPalette2>44372e</systemColorPalette2>
+        <systemColorPalette3>35394a</systemColorPalette3>
+        <systemColorPalette4>f0f0f0</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA"><variables><systemDescription>يعتبر Commodore 64 الكمبيوتر الشخصي الأكثر مبيعاً في التاريخ، واشتهر بقدراته الصوتية والرسومية المذهلة في الثمانينات.</systemDescription></variables></language>
+    <language name="de_DE"><variables><systemDescription>Der C64 ist der meistverkaufte Heimcomputer aller Zeiten, berühmt für seinen SID-Soundchip und unzählige Spiele.</systemDescription></variables></language>
+    <language name="es_ES"><variables><systemDescription>El Commodore 64 es el ordenador más vendido de la historia. Famoso por su chip de sonido SID, dominó el mercado de los 8 bits con miles de juegos.</systemDescription><systemHardwareType>Ordenador</systemHardwareType></variables></language>
+    <language name="fr_FR"><variables><systemDescription>L'ordinateur personnel le plus vendu de l'histoire, célèbre pour sa puce sonore SID et sa ludothèque immense.</systemDescription></variables></language>
+    <language name="it_IT"><variables><systemDescription>Il Commodore 64 è il computer più venduto di sempre, un'icona degli anni '80 grazie al suo chip audio SID.</systemDescription></variables></language>
+    <language name="ja_JP"><variables><systemDescription>1982年に発売された世界で最も売れたパソコン。SID音源チップを搭載し、膨大なゲームタイトルが発売されました。</systemDescription></variables></language>
+    <language name="pl_PL"><variables><systemDescription>Najlepiej sprzedający się komputer w historii, znany z legendarnego układu dźwiękowego SID i tysięcy gier.</systemDescription></variables></language>
+    <language name="pt_BR"><variables><systemDescription>O Commodore 64 é o computador pessoal mais vendido de todos os tempos, ícone da era de 8 bits.</systemDescription></variables></language>
+    <language name="ru_RU"><variables><systemDescription>Commodore 64 — самый продаваемый компьютер в истории, знаменитый своим звуковым чипом SID.</systemDescription></variables></language>
+    <language name="sv_SE"><variables><systemDescription>Commodore 64 är världens mest sålda datormodell, känd för sitt fantastiska ljud och enorma spelutbud.</systemDescription></variables></language>
+    <language name="zh_CN"><variables><systemDescription>Commodore 64 于 1982 年推出，是历史上单机销量最高的计算机，因其强大的 SID 声音芯片而享誉全球。</systemDescription></variables></language>
+</theme>

@@ -1,0 +1,21 @@
+<theme>
+    <variables>
+        <systemName>Satellaview</systemName>
+        <systemDescription>The Satellaview was a satellite modem peripheral for the Super Famicom in Japan. It allowed players to download exclusive games and magazines during specific broadcast windows.</systemDescription>
+        <systemManufacturer>Nintendo</systemManufacturer>
+        <systemReleaseYear>1995</systemReleaseYear>
+        <systemHardwareType>Console</systemHardwareType>
+        <systemColor>2a2a2a</systemColor>
+    </variables>
+    <language name="ar_SA"><variables><systemDescription>كان Satellaview ملحقًا لجهاز Super Famicom يسمح بتنزيل الألعاب عبر الأقمار الصناعية في اليابان.</systemDescription><systemHardwareType>وحدة التحكم</systemHardwareType></variables></language>
+    <language name="de_DE"><variables><systemDescription>Das Satellaview war eine Satelliten-Erweiterung für das Super Famicom in Japan zum Download von Spielen.</systemDescription><systemHardwareType>Konsole</systemHardwareType></variables></language>
+    <language name="es_ES"><variables><systemDescription>El Satellaview fue un periférico para la Super Famicom en Japón que permitía descargar juegos mediante emisiones de satélite.</systemDescription><systemHardwareType>Consola</systemHardwareType></variables></language>
+    <language name="fr_FR"><variables><systemDescription>Le Satellaview était un périphérique satellite pour la Super Famicom, permettant de télécharger des jeux exclusifs.</systemDescription><systemHardwareType>Console</systemHardwareType></variables></language>
+    <language name="it_IT"><variables><systemDescription>Il Satellaview era un'espansione satellitare per il Super Famicom che permetteva di scaricare giochi esclusivi.</systemDescription><systemHardwareType>Console</systemHardwareType></variables></language>
+    <language name="ja_JP"><variables><systemDescription>サテラビューは、スーパーファミコンで衛星放送を介してゲームをダウンロードできた日本独自の周辺機器です。</systemDescription><systemHardwareType>コンソール</systemHardwareType></variables></language>
+    <language name="pl_PL"><variables><systemDescription>Satellaview to satelitarny modem do Super Famicom, umożliwiający pobieranie gier w Japonii.</systemDescription><systemHardwareType>Konsola</systemHardwareType></variables></language>
+    <language name="pt_BR"><variables><systemDescription>O Satellaview foi um periférico de satélite para o Super Famicom no Japão, permitindo baixar jogos exclusivos.</systemDescription><systemHardwareType>Console</systemHardwareType></variables></language>
+    <language name="ru_RU"><variables><systemDescription>Satellaview — спутниковый модем для Super Famicom в Японии для загрузки эксклюзивных игр.</systemDescription><systemHardwareType>Консоль</systemHardwareType></variables></language>
+    <language name="sv_SE"><variables><systemDescription>Satellaview var ett satellitmodem till Super Famicom i Japan för att ladda ner exklusiva spel.</systemDescription><systemHardwareType>Konsol</systemHardwareType></variables></language>
+    <language name="zh_CN"><variables><systemDescription>Satellaview 是在日本推出的超级任天堂卫星接收外设，允许玩家在特定时间内下载游戏。</systemDescription><systemHardwareType>控制台</systemHardwareType></variables></language>
+</theme>

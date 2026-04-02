@@ -1,0 +1,25 @@
+<theme>
+    <variables>
+        <systemName>MAME</systemName>
+        <systemDescription>MAME (Multiple Arcade Machine Emulator) is a preservation-focused project that emulates thousands of arcade systems. Its goal is to document and protect arcade history by accurately reproducing original hardware behavior.</systemDescription>
+        <systemManufacturer>Community</systemManufacturer>
+        <systemReleaseYear>1997</systemReleaseYear>
+        <systemHardwareType>Emulation</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>444444</systemColor>
+        <systemColorPalette1>444444</systemColorPalette1>
+        <systemColorPalette2>ffffff</systemColorPalette2>
+        <systemColorPalette3>000000</systemColorPalette3>
+        <systemColorPalette4>ffcc00</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+
+    <language name="es_ES"><variables><systemDescription>MAME es un proyecto de preservación que emula miles de sistemas arcade, enfocándose en la fidelidad del hardware original.</systemDescription></variables></language>
+    <language name="fr_FR"><variables><systemDescription>MAME vise la préservation des systèmes d’arcade par une émulation fidèle.</systemDescription></variables></language>
+    <language name="de_DE"><variables><systemDescription>MAME dient der Erhaltung von Arcade-Hardware durch präzise Emulation.</systemDescription></variables></language>
+    <language name="it_IT"><variables><systemDescription>MAME preserva la storia arcade tramite emulazione accurata.</systemDescription></variables></language>
+    <language name="pt_BR"><variables><systemDescription>MAME é focado na preservação e emulação fiel de sistemas arcade.</systemDescription></variables></language>
+    <language name="ru_RU"><variables><systemDescription>MAME предназначен для сохранения истории аркадных систем.</systemDescription></variables></language>
+    <language name="ja_JP"><variables><systemDescription>MAMEはアーケード基板の保存と正確な再現を目的としたプロジェクトです。</systemDescription></variables></language>
+</theme>

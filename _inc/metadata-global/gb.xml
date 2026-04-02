@@ -1,0 +1,27 @@
+<theme>
+    <variables>
+        <systemName>Game Boy</systemName>
+        <systemDescription>The Game Boy is a handheld video game system released in 1989. Its long battery life and simple design made portable gaming mainstream worldwide. An extensive library of iconic titles defined an entire generation.</systemDescription>
+        <systemManufacturer>Nintendo</systemManufacturer>
+        <systemReleaseYear>1989</systemReleaseYear>
+        <systemReleaseDate>1989-04-21</systemReleaseDate>
+        <systemReleaseDateFormated>April 21, 1989</systemReleaseDateFormated>
+        <systemHardwareType>Handheld</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>7f8c6c</systemColor>
+        <systemColorPalette1>7f8c6c</systemColorPalette1>
+        <systemColorPalette2>3a3a3a</systemColorPalette2>
+        <systemColorPalette3>ffffff</systemColorPalette3>
+        <systemColorPalette4>000000</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+
+    <language name="es_ES"><variables><systemDescription>Game Boy, lanzada en 1989, llevó el juego portátil al público masivo gracias a su gran autonomía y diseño simple. Su catálogo marcó a toda una generación.</systemDescription><systemHardwareType>Portátil</systemHardwareType></variables></language>
+    <language name="fr_FR"><variables><systemDescription>La Game Boy, sortie en 1989, a démocratisé le jeu portable grâce à son autonomie et à son immense catalogue.</systemDescription></variables></language>
+    <language name="de_DE"><variables><systemDescription>Der Game Boy erschien 1989 und machte mobiles Spielen durch lange Batterielaufzeit weltweit populär.</systemDescription></variables></language>
+    <language name="it_IT"><variables><systemDescription>Il Game Boy, lanciato nel 1989, ha reso il gioco portatile popolare grazie alla sua autonomia e semplicità.</systemDescription></variables></language>
+    <language name="pt_BR"><variables><systemDescription>O Game Boy, lançado em 1989, popularizou os jogos portáteis com grande autonomia e títulos marcantes.</systemDescription></variables></language>
+    <language name="ru_RU"><variables><systemDescription>Game Boy, выпущенная в 1989 году, сделала портативные игры массовыми благодаря автономности и простоте.</systemDescription></variables></language>
+    <language name="ja_JP"><variables><systemDescription>1989年発売。長時間駆動とシンプルな設計で携帯ゲームを世界的に普及させました。</systemDescription></variables></language>
+</theme>
