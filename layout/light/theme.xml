@@ -336,18 +336,19 @@ License: CC-BY-NC-SA
 
     <image name="md_marquee">
       <origin>0.5 0.5</origin>
-      <pos>0.267 0.43</pos>
-      <maxSize>0.14 0.29</maxSize>
+      <pos>0.267 0.49</pos>
+      <maxSize>0.14 0.16</maxSize>
       <zIndex>110</zIndex>
       <visible>true</visible>
     </image>
 
     <image name="video_panel_bg" extra="true">
-      <path>./_inc/images/video_panel.png</path>
-      <origin>0 0</origin>
-      <pos>0.68 0.40</pos>
-      <size>0.28 0.25</size>
-      <zIndex>170</zIndex>
+      <path>./_inc/logos/_default_empty.png</path>
+      <origin>0.5 0.5</origin>
+      <pos>0.266 0.494</pos>
+      <size>0.148 0.269</size>
+      <visible>true</visible>
+      <zIndex>75</zIndex>
     </image>
 
     <text name="md_lbl_releasedate">
@@ -522,8 +523,8 @@ License: CC-BY-NC-SA
   <view name="detailed">
     <image name="md_image">
       <origin>0.5 0.5</origin>
-      <pos>0.286 0.491</pos>
-      <size>0.35 0.47</size>
+      <pos>0.266 0.494</pos>
+      <size>0.15 0.27</size>
       <visible>true</visible>
       <zIndex>85</zIndex>
     </image>
@@ -537,10 +538,10 @@ License: CC-BY-NC-SA
        VIDEO
        ========================= -->
   <view name="video">
-    <image name="md_image">
+       <image name="md_image">
       <origin>0.5 0.5</origin>
-      <pos>0.286 0.491</pos>
-      <maxSize>0.20 0.34</maxSize>
+      <pos>0.266 0.494</pos>
+      <size>0.15 0.27</size>
       <visible>true</visible>
       <zIndex>85</zIndex>
     </image>
@@ -575,7 +576,7 @@ License: CC-BY-NC-SA
        ========================= -->
   <view name="grid">
     <image name="background" extra="true">
-      <path>./layout/light/wallpaper_gamelist.png</path>
+      <path>./_inc/images/fondo.jpg</path>
       <pos>0 0</pos>
       <origin>0 0</origin>
       <size>1 1</size>
