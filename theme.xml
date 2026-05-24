@@ -158,7 +158,7 @@ License: CC-BY-NC-SA
       <origin>1 0</origin>
       <pos>0.999 0.036</pos>
       <maxSize>0.35 0.08</maxSize>
-      <path>./_inc/images/dark/reloginho.png</path>
+      <path>./_inc/images/blue/reloginho.png</path>
       <color>7D7D7D</color>
       <zIndex>90</zIndex>
     </image>
@@ -167,7 +167,7 @@ License: CC-BY-NC-SA
   <origin>0 0.5</origin>
   <pos>0.40 0.51</pos>
   <maxSize>0.26 0.065</maxSize>
-  <path>./_inc/images/dark/contador-jogos.png</path>
+  <path>./_inc/images/blue/contador-jogos.png</path>
   <zIndex>90</zIndex>
 </image>
 
@@ -265,18 +265,64 @@ License: CC-BY-NC-SA
        ========================= -->
   <view name="basic, detailed, video, grid, automatic">
     <image name="background" extra="true">
-      <path>./_inc/images/marco2.png</path>
+      <path>./_inc/images/fondo.jpg</path>
       <pos>0 0</pos>
       <origin>0 0</origin>
       <size>1 1</size>
-      <zIndex>90</zIndex>
+      <zIndex>0</zIndex>
+    </image>
+    
+    <image name="background2" extra="true">
+      <path>./_inc/images/transfondo.png</path>
+      <pos>0 0</pos>
+      <origin>0 0</origin>
+      <size>1 1</size>
+      <zIndex>3</zIndex>
+    </image>
+
+<image name="md_background">
+		<origin>0 0</origin>
+		<pos>0 0</pos>
+		<size>1 1</size>
+		<zIndex>1</zIndex>
+		</image>
+
+	<text name="md_name" extra="true">
+      <origin>0 1</origin>
+      <pos>0.41 0.44</pos>
+      <size>0.6 0</size>
+      <fontPath>./_inc/fonts/solheavy.ttf</fontPath>
+      <fontSize>0.058</fontSize>
+      <color>3e3940</color>
+      <alignment>left</alignment>
+      <zIndex>200</zIndex>
+    </text>
+
+
+
+ <image name="marcador" extra="true">
+      <path>./_inc/images/setinha-sem-controle.png</path>
+      <origin>0 0.5</origin>
+      <pos>0.055 0.50</pos>
+      <size>0.11 0.1</size>
+      <color>3e3940</color>
+      <zIndex>82</zIndex>
+    </image>
+    
+    <image name="marcador_sombra" extra="true">
+      <path>./_inc/images/setinha-sem-controle.png</path>
+      <origin>0 0.5</origin>
+      <pos>0.056 0.51</pos>
+      <size>0.11 0.1</size>
+      <color>bcbabf</color>
+      <zIndex>80</zIndex>
     </image>
 
     <image name="reloginho" extra="true">
       <origin>1 0</origin>
       <pos>0.999 0.036</pos>
       <maxSize>0.35 0.08</maxSize>
-      <path>./_inc/images/dark/reloginho.png</path>
+      <path>./_inc/images/blue/reloginho.png</path>
       <color>7D7D7D</color>
       <zIndex>90</zIndex>
     </image>
@@ -303,24 +349,6 @@ License: CC-BY-NC-SA
        ========================= -->
   <view name="basic">
     <textlist name="gamelist">
-      <fontSize>0.030</fontSize>
-      <forceUppercase>false</forceUppercase>
-      <size>0.427 0.778</size>
-      <pos>0.021 0.167</pos>
-      <alignment>center</alignment>
-      <horizontalMargin>0.010</horizontalMargin>
-      <selectorColor>${uiSelector}</selectorColor>
-      <selectedColor>${uiAccent}</selectedColor>
-      <primaryColor>${uiText}</primaryColor>
-      <secondaryColor>${uiTextDim}</secondaryColor>
-    </textlist>
-  </view>
-
-  <!-- =========================
-       DETAILED + VIDEO (shared)
-       ========================= -->
-  <view name="detailed, video">
-    <textlist name="gamelist">
       <selectorColor>FFFFFF00</selectorColor>
       <selectedColor>3e3940</selectedColor>
       <primaryColor>AAAAAAFF</primaryColor>
@@ -333,23 +361,64 @@ License: CC-BY-NC-SA
       <pos>0.41 0.32</pos>
       <zIndex>100</zIndex>
     </textlist>
+  </view>
+
+  <!-- =========================
+       DETAILED + VIDEO (shared)
+       ========================= -->
+  <view name="detailed, video">
+  <textlist name="gamelist">
+      <fontSize>0.030</fontSize>
+      <forceUppercase>false</forceUppercase>
+      <size>0.427 0.778</size>
+      <pos>0.00001 0.107</pos>
+      <alignment>left</alignment>
+      <horizontalMargin>0.010</horizontalMargin>
+      <selectorColor>FFFFFFFF</selectorColor>
+      <selectedColor>FFFFFFFF</selectedColor>
+      <primaryColor>FFFFFFFF</primaryColor>
+      <secondaryColor>FFFFFFFF</secondaryColor>
+      <orientation>vertical</orientation>
+	<carouselMode>true</carouselMode>
+	<carouselLoop>true</carouselLoop>
+	 <carouselItemColor>00000000</carouselItemColor>
+	 <carouselFallbackImage>./_inc/logos/_default_game.png</carouselFallbackImage>
+    <carouselSelectedItemColor>00000000</carouselSelectedItemColor>
+	<carouselShowText>false</carouselShowText>
+
+	<carouselImage>true</carouselImage>
+	<carouselImageType>fanart</carouselImageType>
+	<carouselImageFit>cover</carouselImageFit>
+	
+	<carouselImageBorder>./_inc/images/card_border.png</carouselImageBorder>
+	<carouselImageBorderSelected>./_inc/images/card_border.png</carouselImageBorderSelected>
+	<carouselImageBorderScale>1.05</carouselImageBorderScale>
+	<carouselImageBorderColor>FFFFFFFF</carouselImageBorderColor>
+
+	<logoAlignment>left</logoAlignment>
+
+	<logoSize>0.164 0.164</logoSize>
+	<logoScale>2.25</logoScale>
+
+	<logoOffsetX>-0.01</logoOffsetX>
+	<logoOffsetY>-0.00</logoOffsetY>
+
+	<logoSpacingY>0.25</logoSpacingY>
+
+	<maxLogoCount>3</maxLogoCount>
+	<zIndex>99</zIndex>
+    </textlist>
+  
+   
 
     <image name="md_marquee">
-      <origin>0.5 0.5</origin>
-      <pos>0.267 0.49</pos>
+      <origin>0.4 0.5</origin>
+      <pos>0.274 0.54</pos>
       <maxSize>0.14 0.16</maxSize>
       <zIndex>110</zIndex>
       <visible>true</visible>
     </image>
 
-    <image name="video_panel_bg" extra="true">
-      <path>./_inc/logos/_default_empty.png</path>
-      <origin>0.5 0.5</origin>
-      <pos>0.266 0.494</pos>
-      <size>0.148 0.269</size>
-      <visible>true</visible>
-      <zIndex>75</zIndex>
-    </image>
 
     <text name="md_lbl_releasedate">
       <fontSize>0.022</fontSize>
@@ -505,14 +574,14 @@ License: CC-BY-NC-SA
       <size>0.500 0.241</size>
       <pos>0.479 0.667</pos>
       <color>${uiTextSoft}</color>
-      <visible>true</visible>
+      <visible>false</visible>
     </text>
 
     <image name="info" extra="true">
       <origin>0 0.5</origin>
       <pos>0.41 0.59</pos>
       <maxSize>0.3 0.31</maxSize>
-      <path>./_inc/images/dark/detalhes.png</path>
+      <path>./_inc/images/blue/detalhes.png</path>
       <zIndex>90</zIndex>
     </image>
   </view>
@@ -525,8 +594,8 @@ License: CC-BY-NC-SA
       <origin>0.5 0.5</origin>
       <pos>0.266 0.494</pos>
       <size>0.15 0.27</size>
-      <visible>true</visible>
-      <zIndex>85</zIndex>
+      <visible>false</visible>
+      <zIndex>0</zIndex>
     </image>
 
     <image name="md_thumbnail">
@@ -543,7 +612,7 @@ License: CC-BY-NC-SA
       <pos>0.266 0.494</pos>
       <size>0.15 0.27</size>
       <visible>true</visible>
-      <zIndex>85</zIndex>
+      <zIndex>0</zIndex>
     </image>
 
     <image name="md_thumbnail">
@@ -603,4 +672,55 @@ License: CC-BY-NC-SA
       <backgroundColor>00000000</backgroundColor>
     </gridtile>
   </view>
+  
+  <!-- =========================
+     OCULTAR METADATOS NO USADOS
+     ========================= -->
+<view name="detailed, video">
+
+  <text name="md_lbl_releasedate">
+    <visible>false</visible>
+  </text>
+
+  <text name="md_lbl_genre">
+    <visible>false</visible>
+  </text>
+
+  <text name="md_lbl_developer">
+    <visible>false</visible>
+  </text>
+
+  <text name="md_lbl_publisher">
+    <visible>false</visible>
+  </text>
+
+  <text name="md_lbl_players">
+    <visible>false</visible>
+  </text>
+
+  <text name="md_lbl_playcount">
+    <visible>false</visible>
+  </text>
+
+  <text name="md_lbl_lastplayed">
+    <visible>false</visible>
+  </text>
+
+  <text name="md_lbl_rating">
+    <visible>false</visible>
+  </text>
+
+  <text name="md_playcount">
+    <visible>false</visible>
+  </text>
+
+  <rating name="md_rating">
+    <visible>false</visible>
+  </rating>
+
+  <text name="md_description">
+    <visible>false</visible>
+  </text>
+
+</view>
 </theme>
