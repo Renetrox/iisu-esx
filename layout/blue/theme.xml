@@ -392,7 +392,7 @@ License: CC-BY-NC-SA
 	
 	<carouselImageBorder>./_inc/images/card_border.png</carouselImageBorder>
 	<carouselImageBorderSelected>./_inc/images/card_border.png</carouselImageBorderSelected>
-	<carouselImageBorderScale>1.05</carouselImageBorderScale>
+	<carouselImageBorderScale>0.965</carouselImageBorderScale>
 	<carouselImageBorderColor>FFFFFFFF</carouselImageBorderColor>
 
 	<logoAlignment>left</logoAlignment>

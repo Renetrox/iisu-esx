@@ -367,7 +367,7 @@ License: CC-BY-NC-SA
        DETAILED + VIDEO (shared)
        ========================= -->
   <view name="detailed, video">
-  <textlist name="gamelist">
+<textlist name="gamelist">
       <fontSize>0.030</fontSize>
       <forceUppercase>false</forceUppercase>
       <size>0.427 0.778</size>
@@ -392,7 +392,7 @@ License: CC-BY-NC-SA
 	
 	<carouselImageBorder>./_inc/images/card_border.png</carouselImageBorder>
 	<carouselImageBorderSelected>./_inc/images/card_border.png</carouselImageBorderSelected>
-	<carouselImageBorderScale>1.05</carouselImageBorderScale>
+	<carouselImageBorderScale>0.965</carouselImageBorderScale>
 	<carouselImageBorderColor>FFFFFFFF</carouselImageBorderColor>
 
 	<logoAlignment>left</logoAlignment>
