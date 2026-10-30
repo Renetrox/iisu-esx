@@ -713,6 +713,16 @@ License: CC-BY-NC-SA
     <visible>false</visible>
   </text>
 
+  <!-- TEST: metadata no utilizada debajo del panel grafico.
+       Su z-index por defecto permite que asome fuera de detalles.png. -->
+  <text name="md_genre">
+    <visible>false</visible>
+  </text>
+
+  <text name="md_publisher">
+    <visible>false</visible>
+  </text>
+
   <text name="md_playcount">
     <visible>false</visible>
   </text>
