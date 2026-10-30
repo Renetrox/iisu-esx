@@ -389,6 +389,7 @@ License: CC-BY-NC-SA
 	<carouselImage>true</carouselImage>
 	<carouselImageType>fanart</carouselImageType>
 	<carouselImageFit>cover</carouselImageFit>
+	<carouselImageCornerRadius>0.008</carouselImageCornerRadius>
 	
 	<carouselImageBorder>./_inc/images/card_border.png</carouselImageBorder>
 	<carouselImageBorderSelected>./_inc/images/card_border.png</carouselImageBorderSelected>
@@ -623,6 +624,8 @@ License: CC-BY-NC-SA
       <origin>0 0</origin>
       <pos>0.69 0.61</pos>
       <maxSize>0.26 0.24</maxSize>
+      <videoCornerRadius>0.010</videoCornerRadius>
+      <imageCornerRadius>0.010</imageCornerRadius>
       <delay>3</delay>
       <showSnapshotNoVideo>true</showSnapshotNoVideo>
       <showSnapshotDelay>true</showSnapshotDelay>
